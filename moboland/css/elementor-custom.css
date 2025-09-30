@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "yekanbakh";
+    src: url("../fonts/YekanBakhFaNum-VF.woff");
+    src: url("../fonts/YekanBakhFaNum-VF.woff2");
+}
+
+#elementor-panel-page-elements {
+    font-family: "yekanbakh" !important;
+    font-size: 14px;
+}
+
+.elementor-panel-heading-title , .elementor-element .title , #elementor-panel-elements-search-input , #elementor-panel-header , .elementor-panel-menu-group , .elementor-panel-menu-item  {
+    font-family: "yekanbakh" !important;
+}
+
+.elementor-control-title , .elementor-control-content {
+    font-family: "yekanbakh" !important;
+}
+

@@ -1,0 +1,5 @@
+{
+    "require": {
+        "ipe/smsir-php": "^1.0"
+    }
+}

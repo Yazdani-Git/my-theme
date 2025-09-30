@@ -1,0 +1,565 @@
+@font-face {
+	font-family: YekanBakhFaNum;
+	font-style: normal;
+	font-weight: 100;
+	src: url('font/yekanbakhfa/woff/YekanBakhFaNum-thin.woff') format('woff'),   
+	url('font/yekanbakhfa/woff2/YekanBakhFaNum-thin.woff2') format('woff2');		
+}
+
+@font-face {
+	font-family: YekanBakhFaNum;
+	font-style: normal;
+	font-weight: 300;
+	src: url('font/yekanbakhfa/woff/YekanBakhFaNum-Light.woff') format('woff'),   
+	url('font/yekanbakhfa/woff2/YekanBakhFaNum-Light.woff2') format('woff2');	
+}
+
+@font-face {
+	font-family: YekanBakhFaNum;
+	font-style: normal;
+	font-weight: normal;
+	src: url('font/yekanbakhfa/woff/YekanBakhFaNum-Regular.woff') format('woff'),   
+	url('font/yekanbakhfa/woff2/YekanBakhFaNum-Regular.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: YekanBakhFaNum;
+	font-style: normal;
+	font-weight: 600;
+	src: url('font/yekanbakhfa/woff/YekanBakhFaNum-SemiBold.woff') format('woff'),   
+	url('font/yekanbakhfa/woff2/YekanBakhFaNum-SemiBold.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: YekanBakhFaNum;
+	font-style: normal;
+	font-weight: bold;
+	src: url('font/yekanbakhfa/woff/YekanBakhFaNum-Bold.woff') format('woff'),   
+	url('font/yekanbakhfa/woff2/YekanBakhFaNum-Bold.woff2') format('woff2'); 
+}
+
+@font-face {
+	font-family: YekanBakhFaNum;
+	font-style: normal;
+	font-weight: 800;
+	src: url('font/yekanbakhfa/woff/Yekan Bakh FaNum-ExtraBold.woff') format('woff'),   
+	url('font/yekanbakhfa/woff2/YekanBakhFaNum-ExtraBold.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: YekanBakhFaNum;
+	font-style: normal;
+	font-weight: 900;
+	src: url('font/yekanbakhfa/woff/YekanBakhFaNum-Black.woff') format('woff'),   
+	url('font/yekanbakhfa/woff2/YekanBakhFaNum-Black.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: YekanBakhFaNum;
+	font-style: normal;
+	font-weight: 950;
+	src: url('font/yekanbakhfa/woff/YekanBakhFaNum-ExtraBlack.woff') format('woff'),   
+	url('font/yekanbakhfa/woff2/YekanBakhFaNum-ExtraBlack.woff2') format('woff2');		 
+}
+
+
+
+@font-face {
+	font-family: IRANSansXFaNum;
+	font-style: normal;
+	font-weight: 100;
+	src: url('font/IRANSansX-new/woff/IRANSansXFaNum-thin.woff') format('woff'),   
+	url('font/IRANSansX-new/woff2/IRANSansXFaNum-thin.woff2') format('woff2');		
+}
+
+
+
+@font-face {
+	font-family: IRANSansXFaNum;
+	font-style: normal;
+	font-weight: 200;
+	src: url('font/IRANSansX-new/woff/IRANSansXFaNum-UltraLight.woff') format('woff'),   
+	url('font/IRANSansX-new/woff2/IRANSansXFaNum-UltraLight.woff2') format('woff2');	
+}
+
+@font-face {
+	font-family: IRANSansXFaNum;
+	font-style: normal;
+	font-weight: 300;
+	src: url('font/IRANSansX-new/woff/IRANSansXFaNum-light.woff') format('woff'),   
+	url('font/IRANSansX-new/woff2/IRANSansXFaNum-light.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: IRANSansXFaNum;
+	font-style: normal;
+	font-weight: 500;
+	src: url('font/IRANSansX-new/woff/IRANSansXFaNum-medium.woff') format('woff'),   
+	url('font/IRANSansX-new/woff2/IRANSansXFaNum-medium.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: IRANSansXFaNum;
+	font-style: normal;
+	font-weight: 600;
+	src: url('font/IRANSansX-new/woff/IRANSansXFaNum-demibold.woff') format('woff'),   
+	url('font/IRANSansX-new/woff2/IRANSansXFaNum-demibold.woff2') format('woff2');	 
+}
+
+@font-face {
+	font-family: IRANSansXFaNum;
+	font-style: normal;
+	font-weight: 800;
+	src: url('font/IRANSansX-new/woff/IRANSansXFaNum-extrabold.woff') format('woff'),   
+	url('font/IRANSansX-new/woff2/IRANSansXFaNum-extrabold.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: IRANSansXFaNum;
+	font-style: normal;
+	font-weight: 900;
+	src: url('font/IRANSansX-new/woff/IRANSansXFaNum-black.woff') format('woff'),   
+	url('font/IRANSansX-new/woff2/IRANSansXFaNum-black.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: IRANSansXFaNum;
+	font-style: normal;
+	font-weight: bold;
+	src: url('font/IRANSansX-new/woff/IRANSansXFaNum-bold.woff') format('woff'),   
+	url('font/IRANSansX-new/woff2/IRANSansXFaNum-bold.woff2') format('woff2');	 
+}
+
+@font-face {
+	font-family: IRANSansXFaNum;
+	font-style: normal;
+	font-weight: normal;
+	src: url('font/IRANSansX-new/woff/IRANSansXFaNum-regular.woff') format('woff'),   
+	url('font/IRANSansX-new/woff2/IRANSansXFaNum-regular.woff2') format('woff2');	
+}
+
+/*-------------------------------------------------------------
+1.1 Typography
+--------------------------------------------------------------*/
+:root {
+  --e-global-color-primary: #0078FF;
+  --e-global-color-secondary: #002B44;
+  --e-global-color-tertiary:#806BFF;
+  --e-global-color-text: #576670;
+  --e-global-color-accent: #002B44;
+  --e-global-color-lighter: #929597;
+  --e-global-color-dark: #000000;
+  --e-global-color-border: #EAEAEA;
+  --e-global-typography-primary-font-family: IRANSansXFaNum!important;
+  --e-global-typography-primary-font-weight: 400;
+  --e-global-typography-primary-text-transform: none;
+  --e-global-typography-primary-font-style: normal;
+  --e-global-typography-primary-text-decoration: none;
+  --e-global-typography-primary-letter-spacing: -0.5px;
+  --e-global-typography-primary-line-height: 1.33;
+  --e-global-typography-secondary-font-family: IRANSansXFaNum;
+  --e-global-typography-secondary-font-weight: 800;
+  --e-global-typography-secondary-text-transform: capitalize;
+  --e-global-typography-secondary-font-style: normal;
+  --e-global-typography-secondary-text-decoration: none;
+  --e-global-typography-secondary-letter-spacing: -0.5px;
+  --e-global-typography-secondary-line-height: 1.25;
+  --e-global-typography-text-font-family: IRANSansXFaNum;
+  --e-global-typography-text-font-weight: 400;
+  --e-global-typography-text-size: 16px;
+  --e-global-typography-text-text-transform:normal;
+  --e-global-typography-text-font-style: normal;
+  --e-global-typography-text-text-decoration: none;
+  --e-global-typography-text-letter-spacing: -0.5px;
+  --e-global-typography-text-line-height: 1.5;
+  --e-global-typography-accent-font-family: IRANSansXFaNum;
+  --e-global-typography-accent-font-weight: 700;
+  --e-global-typography-accent-size: 14px;
+  --e-global-typography-accent-text-transform: capitalize;
+  --e-global-typography-accent-font-style: normal;
+  --e-global-typography-accent-text-decoration: none;
+  --e-global-typography-accent-letter-spacing: 0px;
+  --e-global-typography-accent-line-height: 1;
+  --e-global-grid-column-gap: 20px;
+  --e-global-grid-row-gap: 20px;
+  --grid-column-gap: 20px;
+  --grid-row-gap: 40px;
+  --e-global-column-to-show: 4;
+}
+
+/************RTL-CSS.style*************/
+
+.main-navigation ul.menu > li.menu-item > a {
+  letter-spacing: 0px;
+  }
+  
+.elementor-widget-navigation-menu .hfe-nav-menu .hfe-nav-menu__layout-horizontal .menu-item a.hfe-menu-item .hfe-menu-toggle {
+    transform: rotate(90deg);
+  }
+  
+.posted-on-square a {
+  letter-spacing: 1px;
+  }
+  
+ .rtl .woocommerce-pagination a.prev {
+  /*transform: rotateY(-180deg);*/
+  } 
+  
+.mobile-navigation ul li button::after, .mobile-navigation-categories ul li button::after {
+   font-family: "priotech-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.single-product div.product .woocommerce-product-gallery .woocommerce-product-gallery__trigger::before {
+  font-family: "priotech-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  display: block;
+  line-height: 20px;
+  text-indent: 0;
+  font-weight: var(--e-global-typography-primary-font-weight);
+  font-size: 20px;
+  font-size: 1.25rem;
+}
+	
+.woocommerce-MyAccount-navigation ul li a::before {
+  font-family: "priotech-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  line-height: 1.618;
+  margin-right: 0.5407797364em;
+  width: 1.41577975em;
+  text-align: right;
+  float: right;
+  opacity: 0.25;
+}
+
+@media (min-width: 768px) {
+  .main-navigation ul.menu > li.menu-item-has-children > a:after, .main-navigation ul.menu > li.page_item_has_children > a:after, .main-navigation ul.menu > li.has-mega-menu > a:after,
+.main-navigation ul.nav-menu > li.menu-item-has-children > a:after,
+.main-navigation ul.nav-menu > li.page_item_has_children > a:after,
+.main-navigation ul.nav-menu > li.has-mega-menu > a:after {
+    font-family: "priotech-icon";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.3px;
+    vertical-align: middle;
+    content: "";
+    margin-right: 8px;
+    margin-bottom: 2px;
+    transform: rotate(90deg);
+    font-size: 7px;
+    font-size: 0.4375rem;
+    font-weight: 700;
+    color: var(--e-global-color-secondary);
+  }
+
+  
+.vertical-navigation ul.menu > li.menu-item-has-children > a::after, .vertical-navigation ul.menu > li.page_item_has_children > a::after, .vertical-navigation ul.menu > li.has-mega-menu > a::after,
+.vertical-navigation ul.nav-menu > li.menu-item-has-children > a::after,
+.vertical-navigation ul.nav-menu > li.page_item_has_children > a::after,
+.vertical-navigation ul.nav-menu > li.has-mega-menu > a::after {
+    font-family: "priotech-icon";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    vertical-align: middle;
+    content: "";
+    margin-right: auto;
+    float: left;
+    font-size: 9px;
+    font-size: 0.5625rem;
+  }
+  
+  .main-navigation ul.menu ul li.menu-item-has-children > a::after, .main-navigation ul.menu ul li.page_item_has_children > a::after,
+.main-navigation ul.nav-menu ul li.menu-item-has-children > a::after,
+.main-navigation ul.nav-menu ul li.page_item_has_children > a::after {
+    font-family: "priotech-icon";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    vertical-align: middle;
+    content: "";
+    float: left;
+    margin-right: 10px;
+    line-height: 2.8;
+    font-size: 9px;
+    font-weight: 700;
+  }
+  
+  ul.products li.product .product-block a[class*=product_type_]:before {
+  font-family: "priotech-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  top: 1px
+  display: block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  padding: 0.875rem 0.75rem;
+  background-color: #F8F9FA;
+  border-radius: 50%;
+  color: var(--e-global-color-secondary);
+  font-size: 16px;
+  font-size: 1rem;
+}
+
+ul.products li.product .product-block a[class*=product_type_].loading:before {
+  font-family: "priotech-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  animation: fa-spin 0.75s linear infinite;
+  font-size: 15px;
+  font-size: 0.9375rem;
+}
+
+a.more-link:after {
+  font-family: "priotech-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.comment-form .form-submit .submit:after {
+  font-family: "priotech-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+a.more-link.category-product-button:after {
+  /* content: ""; */
+  content: "";
+}
+
+
+.rtl .pagination a.next, .rtl .pagination a.prev, .rtl .woocommerce-pagination a.next, .rtl .woocommerce-pagination a.prev {
+  /* transform: rotateY(-180deg); */
+  transform: rotateY(0deg);
+}
+
+h1.entry-title {
+  font-size: 35px;
+}
+
+nav.post-navigation .nav-previous .nav-content:before, nav.post-navigation .nav-next .nav-content:before {
+  scale: -1;
+}
+
+nav.post-navigation .nav-previous .title, nav.post-navigation .nav-next .title {
+  font-size: 0.75rem;
+}
+
+.entry-header h3.entry-title {
+  /* font-size: 2.25rem; */
+  font-size: 1.75rem;
+}
+
+#respond #reply-title {
+  /* font-size: 2.25rem; */
+  font-size: 1.25rem;
+}
+
+ul.products li.product h2, ul.products li.product h3, ul.products li.product .woocommerce-loop-product__title, ul.products li.product .wc-block-grid__product-title, ul.products .wc-block-grid__product h2, ul.products .wc-block-grid__product h3, ul.products .wc-block-grid__product .woocommerce-loop-product__title, ul.products .wc-block-grid__product .wc-block-grid__product-title, .wc-block-grid__products li.product h2, .wc-block-grid__products li.product h3, .wc-block-grid__products li.product .woocommerce-loop-product__title, .wc-block-grid__products li.product .wc-block-grid__product-title, .wc-block-grid__products .wc-block-grid__product h2, .wc-block-grid__products .wc-block-grid__product h3, .wc-block-grid__products .wc-block-grid__product .woocommerce-loop-product__title, .wc-block-grid__products .wc-block-grid__product .wc-block-grid__product-title {
+
+  font-size: 0.75rem;
+}
+
+.widget_price_filter .price_slider_amount .price_label {
+  /* color: #909090; */
+  color: #ffffff00;
+}
+
+.elementor-grid-1 + .woocommerce-pagination-wrap .page-numbers {
+  /* justify-content: flex-start; */
+  justify-content: center;
+}
+
+.priotech-sidebar-left .widget-area {
+  /* float: right; */
+  float: left;
+}
+
+.woosc-area .woosc-inner .woosc-table .woosc-table-inner .woosc-table-close {
+    z-index: 6;
+    position: absolute;
+    top: 0;
+    left: 0!important;
+	  right: auto!important;
+    cursor: pointer;
+}
+
+.woosc-area .woosc-inner .woosc-table .woosc-table-inner .woosc-table-items table thead tr th {
+  text-align: right!important;
+}
+
+.elementor-widget-woocommerce-breadcrumb .priotech-woocommerce-title {
+  /* color: var(--e-global-color-secondary); */
+  color: var(--e-global-color-secondary);
+  text-align: center;
+}
+
+.single-product div.product .woocommerce-product-gallery.woocommerce-product-gallery-without-thumb .flex-direction-nav>li[class^=flex-nav-] a::before {
+  /* display: block */
+  display: block;
+  scale: -1;
+}
+
+.vertical-navigation ul.menu > li.menu-item-has-children > a::after, .vertical-navigation ul.menu > li.page_item_has_children > a::after, .vertical-navigation ul.menu > li.has-mega-menu > a::after, .vertical-navigation ul.nav-menu > li.menu-item-has-children > a::after, .vertical-navigation ul.nav-menu > li.page_item_has_children > a::after, .vertical-navigation ul.nav-menu > li.has-mega-menu > a::after {
+  /* content: ""; */
+  content: "";
+}
+
+.vertical-navigation .vertical-menu .menu {
+  /* min-height: 578px; */
+  min-height: 215px;
+  border-radius: 9px;
+.vertical-navigation ul.menu > li:hover > .sub-menu {
+  border-radius: 11px;
+}
+
+.view-360-group .view-360-button i {
+  scale: -1;
+}
+.woosc-area .woosc-inner .woosc-table .woosc-table-inner .woosc-table-items table tbody tr td {
+  /* text-align: left; */
+  text-align: right!important;
+}
+
+.woosc-area .woosc-inner .woosc-table .woosc-table-inner .woosc-table-items table thead tr th{
+    text-align: right;
+}
+.woosc-area .woosc-inner .woosc-table .woosc-table-inner .woosc-table-items table tbody tr td{
+    text-align: right;
+}
+.woosc-area .woosc-inner .woosc-table .woosc-table-inner .woosc-table-items table tbody tr.tr-rating td .star-rating {
+    float: right;
+}
+.woosc-area .woosc-inner .woosc-bar .woosc-bar-search{
+    margin: 0 0 0 10px;
+}
+.woosc-area .woosc-inner .woosc-table .woosc-table-inner .woosc-table-close{
+        left: 0;
+        right:unset;
+}
+.woosc-area .woosc-inner .woosc-bar .woosc-bar-share{
+    margin: 0 0 0 10px;
+}
+.woosc-area .woosc-inner .woosc-bar .woosc-bar-items{
+    text-align:left;
+}
+.woosc-area .woosc-inner .woosc-bar .woosc-bar-btn{
+        padding: 0 68px 0 20px;
+}
+.woosc-area .woosc-inner .woosc-bar .woosc-bar-btn .woosc-bar-btn-icon-wrapper .woosc-bar-btn-icon-inner{
+    margin-left: unset;
+    margin-right:16px;
+}
+.woosc-area .woosc-inner .woosc-bar .woosc-bar-btn .woosc-bar-btn-icon-wrapper{
+    right:0;
+    left:unset;
+}
+.woosc-area .woosc-inner .woosc-bar .woosc-bar-btn{
+    margin-right: 15px;
+    margin-left:unset;
+}
+.woosc-area .woosc-inner .woosc-bar .woosc-bar-items .woosc-bar-item:last-child {
+  margin-left: 0px;
+  margin-right: 5px;
+}
+.woosc-area .woosc-inner .woosc-table .woosc-table-settings{
+    background-position: center right;
+    padding-right: 21px;
+    padding-left: unset;
+}
+.woosc-area .woosc-inner .woosc-bar .woosc-bar-items .woosc-bar-item .woosc-bar-item-remove{
+    left: 2px;
+    right:unset;
+}
+
+/* responsive */
+
+@media (max-width: 768px) {
+    
+.elementor-widget.elementor-mobile-align-center .elementor-inline-items {
+  -webkit-box-pack: center !important;
+  -ms-flex-pack: center !important;
+  justify-content: center !important;
+}    
+.single-product div.product .woocommerce-product-gallery-sticky .woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image {
+  min-width: auto;
+  min-height: auto;
+}
+.mobile-navigation .dropdown-toggle, .mobile-navigation-categories .dropdown-toggle {
+  transform: rotateY(180deg);
+  text-align: right;
+}
+table.woosw-items td.woosw-item--actions {
+    display: none;
+}
+
+}
+@media (min-width: 568px) {
+    .single-product div.product .woocommerce-product-gallery.woocommerce-product-gallery-horizontal .product-video-360 {
+  bottom: 130px;
+}
+}
+.elementor-widget-woocommerce-breadcrumb .woocommerce-breadcrumb i {
+    transform: scaleX(-1);
+}

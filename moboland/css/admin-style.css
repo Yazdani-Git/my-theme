@@ -1,0 +1,47 @@
+@font-face {
+    font-family: "vazir";
+    src: url("../fonts/Vazir-FD.woff");
+}
+
+body{
+    font-family: "vazir" !important;
+    font-size: 14px;
+}
+
+.rtl h1, .rtl h2, .rtl h3, .rtl h4, .rtl h5, .rtl h6 {
+    font-family: 'vazir' !important;
+}
+
+.csf-nav ul li a {
+    font-size: 14px !important;
+}
+.csf-nav ul ul li a {
+    font-size: 13px !important;
+    transition: all .2s ease-in-out;
+}
+.csf-theme-dark .csf-nav ul li .csf-active {
+    background-color: #44bc32 !important;
+    font-weight: 500 !important;
+}
+.csf-nav ul li.csf-tab-expanded > a {
+    background-color: #44bc32 !important;
+    color: #fff !important;
+}
+.csf-nav ul li.csf-tab-expanded ul {
+    background: #32373c !important;
+}
+.csf-theme-dark .csf-nav ul ul li a {
+    background: none !important;
+    border: none !important;
+}
+.csf-theme-dark .csf-nav ul ul li .csf-active {
+    background: none !important;
+    font-size: 14px !important;
+}
+.csf-header {
+    border-bottom: 2px solid #44bc32;
+}
+.csf-buttons {
+    display: flex;
+    flex-direction: row-reverse;
+}

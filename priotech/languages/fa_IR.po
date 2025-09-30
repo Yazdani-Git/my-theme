@@ -1,0 +1,5829 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Priotech 1.0.11\n"
+"POT-Creation-Date: 2024-06-18 03:14:28+00:00\n"
+"PO-Revision-Date: 2024-06-22 23:04+0000\n"
+"Last-Translator: ادمین\n"
+"Language-Team: فارسی\n"
+"Language: fa-IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.6.6; wp-6.3.2"
+
+#: inc/woocommerce/woocommerce-functions.php:240
+msgctxt " review count"
+msgid " review"
+msgid_plural " reviews"
+msgstr[0] "امتیازات"
+msgstr[1] "امتیاز"
+
+#: inc/template-functions.php:475
+#| msgid "%d comments"
+msgid "% comments"
+msgstr "% نظرات"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3594
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s با موفقیت نصب و فعال‌سازی شد."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3602
+msgid "%1$s installed successfully."
+msgstr "%1$s با موفقیت نصب شد."
+
+#. translators: 1: Title Tag 2: Theme Name 3: Closing Title Tag
+#: inc/merlin-config.php:312
+msgid "%1$s%2$s Themes &lsaquo; Theme Setup: %3$s%4$s"
+msgstr "%1$s%2$s پوسته‌ها &lsaquo; تنظیمات پوسته: %3$s%4$s"
+
+#: inc/woocommerce/woocommerce-template-functions.php:73
+msgid "%d"
+msgid_plural "%d"
+msgstr[0] "%d"
+msgstr[1] "%d"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:780
+msgid "%s \"%s\" already exists."
+msgstr "%s \"%s\" از قبل موجود است."
+
+#. translators: Theme Name
+#: inc/merlin-config.php:330
+msgid "%s is Activated"
+msgstr "%s فعال شد"
+
+#: inc/woocommerce/class-woocommerce-extra.php:40
+msgid "%s product is sold"
+msgid_plural "%s products are sold"
+msgstr[0] "%s محصولات فروخته شد"
+msgstr[1] "%s محصول فروخته شد"
+
+#: inc/elementor/base_widgets.php:1603
+msgid "&laquo; Previous"
+msgstr "&laquo; قبلی"
+
+#: comments.php:31 comments.php:52
+msgid "&larr; Older Comments"
+msgstr "&larr; دیدگاه‌های قدیمی‌تر"
+
+#: woocommerce/single-product/rating.php:39
+msgid "(%s)"
+msgid_plural "(%s)"
+msgstr[0] "(%s)"
+msgstr[1] "(%s)"
+
+#: inc/merlin/includes/recent-post.php:58
+msgid "(no title)"
+msgstr "(بدون عنوان)"
+
+#: inc/template-functions.php:96
+msgid ". All Rights Reserved."
+msgstr ". تمامی حقوق محفوظ است."
+
+#: inc/template-functions.php:475
+msgid "0 comments"
+msgstr "۰ دیدگاه"
+
+#: inc/class-customize.php:143 inc/class-customize.php:161 
+#: inc/class-customize.php:179 inc/class-customize.php:197
+msgid "1"
+msgstr "1"
+
+#: inc/template-functions.php:475
+msgid "1 comment"
+msgstr "۱ دیدگاه"
+
+#: inc/class-customize.php:144 inc/class-customize.php:162 
+#: inc/class-customize.php:180 inc/class-customize.php:198
+msgid "2"
+msgstr "2"
+
+#: inc/class-customize.php:145 inc/class-customize.php:163 
+#: inc/class-customize.php:181 inc/class-customize.php:199
+msgid "3"
+msgstr "3"
+
+#: inc/woocommerce/woocommerce-template-functions.php:1376
+msgid "360 View"
+msgstr "مشاهده ۳۶۰ درجه‌ای"
+
+#: inc/class-customize.php:146 inc/class-customize.php:164 
+#: inc/class-customize.php:182 inc/class-customize.php:200
+msgid "4"
+msgstr "4"
+
+#: 404.php:9
+msgid "404 Page not found"
+msgstr "404 صفحه پیدا نشد"
+
+#: 404.php:11
+msgid "<span>Oops!</span> page not found"
+msgstr "<span>اوه!</span> صفحه پیدا نشد"
+
+#: inc/merlin/includes/class-wc-widget-product-brands.php:41
+msgid "A list or dropdown of product brands."
+msgstr "یک لیست یا کشویی از برندهای محصول."
+
+#: woocommerce/myaccount/form-login.php:103
+msgid "A password will be sent to your email address."
+msgstr "یک گذرواژه به آدرس ایمیل شما ارسال خواهد شد."
+
+#: inc/merlin/class-merlin.php:1777
+msgid "A plugin with the following data was processed"
+msgstr "یک پلاگین با داده‌های زیر پردازش شد"
+
+#: inc/merlin/class-merlin.php:1765
+msgid "A plugin with the following data will be processed"
+msgstr "یک پلاگین با داده‌های زیر پردازش خواهد شد"
+
+#: inc/elementor/widgets/call-to-action.php:102 
+#: inc/elementor/widgets/heading.php:140
+msgid "Above"
+msgstr "بالا"
+
+#: inc/elementor/widgets/banner-carousel.php:497
+msgid "Absolute"
+msgstr "مطلق"
+
+#: inc/megamenu/includes/hook-functions.php:77 
+#: inc/megamenu/includes/hook-functions.php:118
+msgid "Access denied"
+msgstr "دسترسی امکان‌پذیر نیست"
+
+#: inc/class-customize.php:397
+msgid "Accordion"
+msgstr "آکاردئون"
+
+#: inc/template-functions.php:855
+msgid "Account Details"
+msgstr "جزئیات حساب"
+
+#: inc/class-tgm-plugin-activation.php:2811 
+#: inc/elementor/base_widgets.php:1356 inc/merlin-config.php:324
+msgid "Activate"
+msgstr "فعال‌سازی"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2699
+msgid "Activate %2$s"
+msgstr "فعال‌سازی %2$s"
+
+#. translators: Theme Name
+#: inc/merlin-config.php:328
+msgid "Activate %s"
+msgstr "فعال‌سازی %s"
+
+#: inc/merlin/class-merlin.php:1725
+msgid "Activating"
+msgstr "درحال فعال‌سازی"
+
+#: inc/class-tgm-plugin-activation.php:2406 
+#: inc/elementor/widgets/nav-menu.php:307
+msgid "Active"
+msgstr "فعال"
+
+#: inc/elementor/base_widgets.php:1216
+msgid "Active Color"
+msgstr "رنگ فعال"
+
+#: inc/merlin/includes/breadcrumb.php:151
+msgid "Add Display Rule"
+msgstr "افزودن قانون نمایش"
+
+#: inc/merlin/includes/breadcrumb.php:172
+msgid "Add Exclusion Rule"
+msgstr "افزودن قانون عدم نمایش"
+
+#: inc/woocommerce/class-woocommerce-brand.php:60 
+#: inc/woocommerce/class-woocommerce-brand.php:96
+msgid "Add Image"
+msgstr "افزودن تصویر"
+
+#: inc/elementor/widgets/image-gallery.php:126
+msgid "Add Images"
+msgstr "افزودن تصاویر"
+
+#: inc/merlin/includes/product-360-view.php:56
+#, fuzzy
+#| msgid "Add Images to Product 360 View Gallery"
+msgid "Add Images to Product 360 view Gallery"
+msgstr "افزودن تصاویر به گالری نمای ۳۶۰ محصول"
+
+#: inc/merlin/includes/breadcrumb.php:139
+msgid "Add locations for where this template should appear."
+msgstr "محل‌هایی که این قالب باید در آنها نمایش داده شود، اضافه کنید."
+
+#: inc/merlin/includes/breadcrumb.php:162
+msgid "Add locations for where this template should not appear."
+msgstr "محل‌هایی که این قالب نباید در آنها نمایش داده شود، اضافه کنید."
+
+#: inc/merlin/includes/breadcrumb.php:57 
+#: inc/merlin/includes/class-custom-shapes.php:119
+msgid "Add New"
+msgstr "افزودن جدید"
+
+#: inc/merlin/includes/class-wc-widget-product-brands.php:267
+msgid "Add New Brands"
+msgstr "افزودن برند‌های جدید"
+
+#: inc/merlin/includes/breadcrumb.php:58
+msgid "Add New Breadcrumb"
+msgstr "افزودن مسیریابی جدید"
+
+#: inc/merlin/includes/class-custom-shapes.php:118
+msgid "Add New Item"
+msgstr "افزودن مورد جدید"
+
+#: inc/merlin/includes/class-wc-widget-product-brands.php:272
+msgid "Add or remove Brands"
+msgstr "افزودن یا حذف برندها"
+
+#: inc/merlin/includes/product-360-view.php:56
+msgid "Add product 360 view gallery images"
+msgstr "افزودن تصاویر گالری نمای ۳۶۰ محصول"
+
+#: inc/merlin/includes/product-360-view.php:56
+msgid "Add to gallery"
+msgstr "افزودن به گالری"
+
+#: inc/merlin/includes/breadcrumb.php:193
+msgid "Add User Rule"
+msgstr "افزودن قانون کاربر"
+
+#: inc/woocommerce/class-woocommerce.php:532
+msgid ""
+"Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr ""
+"افزودن ابزارک‌ها در اینجا برای نمایش در نوار کناری نوشته‌های وبلاگ و صفحات "
+"آرشیو."
+
+#: inc/elementor/widgets/heading.php:115
+msgid "Add Your Heading Text Here"
+msgstr "متن عنوان خود را اینجا وارد کنید"
+
+#: inc/elementor/class-custom-css.php:79
+msgid "Add your own custom CSS here"
+msgstr "CSS سفارشی خود را اینجا اضافه کنید"
+
+#: inc/elementor/widgets/heading.php:128
+msgid "Add Your Sub Title Text Here"
+msgstr "متن زیرعنوان خود را اینجا وارد کنید"
+
+#: inc/elementor/widgets/pricing.php:353 inc/elementor/widgets/pricing.php:1436
+msgid "Additional Info"
+msgstr "اطلاعات اضافی"
+
+#: inc/elementor/base_widgets.php:519
+msgid "Additional Options"
+msgstr "گزینه‌های اضافی"
+
+#: inc/elementor/widgets/posts-grid.php:72 
+#: inc/elementor/widgets/products.php:123 inc/merlin-config.php:356 
+#: inc/merlin-config.php:360
+msgid "Advanced"
+msgstr "پیشرفته"
+
+#: inc/elementor/widgets/call-to-action.php:210 
+#: inc/elementor/widgets/pricing.php:312 inc/elementor/widgets/pricing.php:675 
+#: inc/elementor/widgets/video.php:121
+msgid "After"
+msgstr "بعد از"
+
+#: inc/merlin/class-merlin.php:2052
+msgid "After import setup"
+msgstr "راه‌اندازی پس از وارد کردن"
+
+#: inc/merlin/class-merlin.php:2053
+msgid "After import setup."
+msgstr "راه‌اندازی پس از وارد کردن."
+
+#: inc/elementor/base_widgets.php:1630 
+#: inc/elementor/custom-widgets/counter.php:9 
+#: inc/elementor/custom-widgets/image-box.php:475 
+#: inc/elementor/widgets/banner-carousel.php:441 
+#: inc/elementor/widgets/banner-carousel.php:543 
+#: inc/elementor/widgets/brand.php:172 
+#: inc/elementor/widgets/breadcrumb.php:115 
+#: inc/elementor/widgets/call-to-action.php:456 
+#: inc/elementor/widgets/contactform.php:70 
+#: inc/elementor/widgets/countdown.php:343 
+#: inc/elementor/widgets/countdown.php:388 
+#: inc/elementor/widgets/heading.php:202 
+#: inc/elementor/widgets/image-gallery.php:368 
+#: inc/elementor/widgets/info-canvas.php:72 
+#: inc/elementor/widgets/mailchimp.php:365 
+#: inc/elementor/widgets/nav-menu.php:98 
+#: inc/elementor/widgets/pricing.php:1021 
+#: inc/elementor/widgets/slide-scrolling.php:172 
+#: inc/elementor/widgets/text-carousel.php:147 
+#: inc/elementor/widgets/video.php:77
+msgid "Alignment"
+msgstr "ترازبندی"
+
+#: inc/elementor/widgets/testimonial.php:410
+msgid "Alignment Content"
+msgstr "تراز محتوا"
+
+#: inc/elementor/widgets/testimonial.php:435
+msgid "Alignment Info "
+msgstr "تراز اطلاعات"
+
+#: inc/elementor/base_widgets.php:1425
+msgid "Alignment text"
+msgstr "تراز متن"
+
+#: inc/elementor/widgets/image-gallery.php:446
+msgid "All"
+msgstr "همه"
+
+#: inc/merlin/includes/class-wc-widget-product-brands.php:263
+msgid "All Brands"
+msgstr "همه برندها"
+
+#: inc/merlin/includes/breadcrumb.php:62
+msgid "All Breadcrumb"
+msgstr "همه مسیریابی ها"
+
+#: inc/woocommerce/woocommerce-template-functions.php:218 
+#: inc/woocommerce/woocommerce-template-functions.php:224 
+#: inc/woocommerce/woocommerce-template-functions.php:231
+msgid "All category"
+msgstr "همه دسته‌ها"
+
+#: inc/merlin-config.php:362
+msgid "All done. Have fun!"
+msgstr "همه چیز تمام شد. لذت ببرید!"
+
+#: inc/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr "تمام نصب‌ها و فعال‌سازی‌ها به پایان رسیده‌اند."
+
+#: inc/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr "تمام نصب‌ها به پایان رسیده‌اند."
+
+#: inc/merlin/includes/class-custom-shapes.php:117
+msgid "All Items"
+msgstr "تمام موارد"
+
+#. translators: 1: dashboard link.
+#: inc/class-tgm-plugin-activation.php:401
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "همه‌ی افزونه‌ها با موفقیت نصب و فعال شدند. %1$s"
+
+#: inc/elementor/widgets/product-categories.php:96
+msgid "Alternate Name"
+msgstr "نام جایگزین"
+
+#: inc/merlin/includes/class-merlin-downloader.php:84
+msgid ""
+"An error occurred while fetching file from: %1$s%2$s%3$s!%4$sReason: %5$s - "
+"%6$s."
+msgstr ""
+"An error occurred while fetching file from: %1$s%2$s%3$s!%4$sReason: %5$s - "
+"%6$s."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/class-tgm-plugin-activation.php:3586
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "هنگام نصب %1$s خطایی رخ داد: <strong>%2$s</strong>."
+
+#: inc/merlin/class-merlin.php:1498 inc/merlin/class-merlin.php:1539
+msgid "An error occurred, please try again."
+msgstr "یک خطا رخ داد، لطفاً دوباره امتحان کنید."
+
+#: inc/elementor/widgets/posts-grid.php:123 
+#: inc/elementor/widgets/products.php:177 
+#: inc/elementor/widgets/products.php:205 
+#: inc/merlin/includes/class-wc-widget-layered-nav.php:80
+msgid "AND"
+msgstr "و"
+
+#: inc/elementor/class-section-parallax.php:136
+msgid "Android Support"
+msgstr "پشتیبانی از اندروید"
+
+#: inc/elementor/widgets/pricing.php:1409
+msgid "Animation"
+msgstr "انیمیشن"
+
+#: inc/class-customize.php:563
+msgid "Animation Image Hover"
+msgstr "انیمیشن موس بر روی تصاویر"
+
+#: inc/elementor/base_widgets.php:634
+msgid "Animation Speed"
+msgstr "سرعت انیمیشن"
+
+#: inc/elementor/widgets/call-to-action.php:253
+msgid "Apply Link On"
+msgstr "اعمال لینک بر روی"
+
+#: inc/class-customize.php:93 inc/class-customize.php:244
+msgid "Archive"
+msgstr "آرشیو"
+
+#: inc/elementor/base_widgets.php:248 inc/elementor/base_widgets.php:683
+msgid "Arrows"
+msgstr "فلش‌ها"
+
+#: inc/elementor/base_widgets.php:247
+msgid "Arrows and Dots"
+msgstr "فلش‌ها و نقاط"
+
+#: inc/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "ناشناخته"
+
+#: inc/elementor/widgets/posts-grid.php:99 
+#: inc/elementor/widgets/products.php:153
+msgid "ASC"
+msgstr "صعودی"
+
+#: inc/merlin/includes/class-wc-widget-layered-nav.php:72
+msgid "Attribute"
+msgstr "خصوصیت"
+
+#: inc/class-customize.php:514
+msgid "Attributes Show"
+msgstr "نمایش ویژگی‌ها"
+
+#: inc/elementor/widgets/banner-carousel.php:242
+msgid "Auto"
+msgstr "اتوماتیک"
+
+#: inc/elementor/base_widgets.php:539
+msgid "Autoplay"
+msgstr "پخش خودکار"
+
+#: inc/elementor/base_widgets.php:588
+msgid "Autoplay Speed"
+msgstr "سرعت پخش خودکار"
+
+#: inc/woocommerce/woocommerce-template-functions.php:737 
+#: inc/woocommerce/woocommerce-template-functions.php:739
+msgid "Availability:"
+msgstr "موجودی:"
+
+#: inc/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr "نسخه موجود:"
+
+#: inc/woocommerce/woocommerce-template-functions.php:1168
+msgid "Available: "
+msgstr "موجود:"
+
+#: inc/elementor/widgets/testimonial.php:113 inc/template-functions.php:1128
+msgid "Average"
+msgstr "متوسط"
+
+#: inc/elementor/widgets/products.php:139
+msgid "Average Product Rating"
+msgstr "میانگین امتیاز محصول"
+
+#: woocommerce/single-product/product-image.php:46
+msgid "Awaiting product image"
+msgstr "تصویر محصول در حال انتظار"
+
+#: inc/merlin-config.php:349
+msgid ""
+"Awesome. Your child theme has already been installed and is now activated."
+msgstr "عالی. پوسته فرزند شما در حال حاضر نصب شده و فعال شده است."
+
+#: inc/merlin-config.php:350
+msgid "Awesome. Your child theme has been created and is now activated."
+msgstr "عالی. پوسته فرزند شما ساخته شده و فعال شده است."
+
+#: inc/megamenu/includes/hook-functions.php:27
+msgid "Back"
+msgstr "بازگشت"
+
+#: 404.php:16
+msgid "Back to Homepage"
+msgstr "بازگشت به صفحه اصلی"
+
+#: inc/elementor/widgets/call-to-action.php:1243 
+#: inc/elementor/widgets/video.php:169 inc/elementor/widgets/video.php:189
+msgid "Background"
+msgstr "پس‌زمینه"
+
+#: inc/elementor/custom-widgets/accordion.php:78
+msgid "Background Active"
+msgstr "پس‌زمینه‌ی فعال"
+
+#: inc/elementor/base_widgets.php:826 inc/elementor/base_widgets.php:863 
+#: inc/elementor/widgets/banner-carousel.php:175 
+#: inc/elementor/widgets/brand.php:261 
+#: inc/elementor/widgets/call-to-action.php:681 
+#: inc/elementor/widgets/call-to-action.php:1063 
+#: inc/elementor/widgets/call-to-action.php:1129 
+#: inc/elementor/widgets/countdown.php:285 
+#: inc/elementor/widgets/countdown.php:467 
+#: inc/elementor/widgets/mailchimp.php:97 
+#: inc/elementor/widgets/mailchimp.php:117 
+#: inc/elementor/widgets/mailchimp.php:232 
+#: inc/elementor/widgets/mailchimp.php:263 
+#: inc/elementor/widgets/mailchimp.php:401 
+#: inc/elementor/widgets/mailchimp.php:454 
+#: inc/elementor/widgets/pricing.php:488 inc/elementor/widgets/pricing.php:587 
+#: inc/elementor/widgets/pricing.php:971 
+#: inc/elementor/widgets/pricing.php:1189 
+#: inc/elementor/widgets/pricing.php:1515 
+#: inc/elementor/widgets/product-categories.php:324 
+#: inc/elementor/widgets/product-categories.php:362 
+#: inc/elementor/widgets/product-categories.php:461 
+#: inc/elementor/widgets/testimonial.php:389 
+#: inc/elementor/widgets/text-carousel.php:207 
+#: inc/elementor/widgets/vertical-menu.php:317 
+#: inc/elementor/widgets/video.php:376 inc/elementor/widgets/video.php:415
+msgid "Background Color"
+msgstr "رنگ پس زمینه"
+
+#: inc/elementor/widgets/call-to-action.php:445
+msgid "Background Content"
+msgstr "پس زمینه محتوا"
+
+#: inc/elementor/custom-widgets/icon-box.php:27
+msgid "Background Deco"
+msgstr "تزئینات پس‌زمینه"
+
+#: inc/elementor/widgets/nav-menu.php:206
+msgid "Background Dropdown"
+msgstr "پس‌زمینه منو بازشونده"
+
+#: inc/elementor/widgets/search.php:126
+msgid "Background Form"
+msgstr "پس‌زمینه فرم"
+
+#: inc/elementor/widgets/testimonial.php:373
+msgid "Background Hover"
+msgstr "پس‌زمینه هاور"
+
+#: inc/class-customize.php:48
+msgid "Background image"
+msgstr "تصویر پس‌زمینه"
+
+#: inc/elementor/widgets/nav-menu.php:271 
+#: inc/elementor/widgets/nav-menu.php:337
+msgid "Background Item"
+msgstr "پس‌زمینه آیتم"
+
+#: inc/megamenu/includes/hook-functions.php:183
+msgid "Badges Bg Color"
+msgstr "رنگ پس‌زمینه‌ی نشان‌ها"
+
+#: inc/megamenu/includes/hook-functions.php:179
+msgid "Badges Color"
+msgstr "رنگ نشان‌ها"
+
+#: inc/megamenu/includes/hook-functions.php:175
+msgid "Badges Title"
+msgstr "عنوان نشان‌ها"
+
+#: inc/class-customize.php:259
+msgid "Banner"
+msgstr "بنر"
+
+#: inc/elementor/widgets/banner-carousel.php:290
+msgid "Banner Image"
+msgstr "تصویر بنر"
+
+#: inc/class-customize.php:273
+msgid "Banner Position"
+msgstr "موقعیت بنر"
+
+#: inc/class-customize.php:261
+msgid "Banner will take templates name prefix is \"Banner\""
+msgstr "بنر از پیشوند نام قالب \"Banner\" استفاده می‌کند"
+
+#: inc/elementor/widgets/call-to-action.php:209 
+#: inc/elementor/widgets/pricing.php:311 inc/elementor/widgets/pricing.php:671 
+#: inc/elementor/widgets/video.php:120
+msgid "Before"
+msgstr "قبل از"
+
+#: inc/class-customize.php:277
+msgid "Before Products"
+msgstr "قبل از محصولات"
+
+#: inc/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "شروع فعالسازی افزونه"
+msgstr[1] "شروع فعالسازی افزونه‌ها"
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "شروع نصب افزونه"
+msgstr[1] "شروع نصب افزونه‌ها"
+
+#: inc/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "شروع بروزرسانی افزونه"
+msgstr[1] "شروع بروزرسانی افزونه‌ها"
+
+#: inc/elementor/widgets/call-to-action.php:103 
+#: inc/elementor/widgets/heading.php:141 inc/elementor/widgets/pricing.php:904
+msgid "Below"
+msgstr "پایین"
+
+#: inc/elementor/widgets/pricing.php:905
+msgid "Beside"
+msgstr "کنار هم"
+
+#: inc/elementor/widgets/products.php:224
+msgid "Best Selling"
+msgstr "پرفروش‌ترین‌ها"
+
+#: woocommerce/order/form-tracking.php:36
+msgid "Billing email"
+msgstr "آدرس ایمیل صورتحساب"
+
+#: inc/elementor/widgets/call-to-action.php:1301 
+#: inc/elementor/widgets/heading.php:306
+msgid "Blend Mode"
+msgstr "حالت تلفیق"
+
+#: inc/elementor/widgets/products.php:274
+msgid "Block Style"
+msgstr "استایل بلوک"
+
+#: inc/class-customize.php:86
+msgid "Blog"
+msgstr "بلاگ"
+
+#: inc/class-customize.php:128
+msgid "Blog Grid"
+msgstr "گرید وبلاگ"
+
+#: inc/class-customize.php:127
+msgid "Blog List"
+msgstr "لیست وبلاگ"
+
+#: inc/class-customize.php:126
+msgid "Blog Standard"
+msgstr "استاندارد وبلاگ"
+
+#: inc/class-customize.php:123
+msgid "Blog style"
+msgstr "سبک وبلاگ"
+
+#: inc/elementor/widgets/brand.php:217 
+#: inc/elementor/widgets/slide-scrolling.php:218
+msgid "Border"
+msgstr "حاشیه"
+
+#: inc/elementor/base_widgets.php:877 
+#: inc/elementor/custom-widgets/icon-box.php:199 
+#: inc/elementor/widgets/call-to-action.php:1074 
+#: inc/elementor/widgets/call-to-action.php:1140 
+#: inc/elementor/widgets/mailchimp.php:128 
+#: inc/elementor/widgets/mailchimp.php:285 
+#: inc/elementor/widgets/mailchimp.php:434 
+#: inc/elementor/widgets/mailchimp.php:476 
+#: inc/elementor/widgets/pricing.php:1398 inc/elementor/widgets/search.php:65 
+#: inc/elementor/widgets/vertical-menu.php:329 
+#: inc/elementor/widgets/video.php:200 inc/elementor/widgets/video.php:429
+msgid "Border Color"
+msgstr "رنگ مرز"
+
+#: inc/elementor/widgets/search.php:77
+msgid "Border Color Focus"
+msgstr "رنگ حاشیه در حالت فوکوس"
+
+#: inc/elementor/widgets/pricing.php:432
+msgid "Border Deco"
+msgstr "تزئین حاشیه"
+
+#: inc/elementor/widgets/pricing.php:466
+msgid "Border Hover"
+msgstr "حاشیه هنگام هاور"
+
+#: inc/elementor/base_widgets.php:783 
+#: inc/elementor/custom-widgets/image-box.php:352 
+#: inc/elementor/widgets/banner-carousel.php:386 
+#: inc/elementor/widgets/brand.php:273 
+#: inc/elementor/widgets/call-to-action.php:389 
+#: inc/elementor/widgets/call-to-action.php:1181 
+#: inc/elementor/widgets/countdown.php:331 
+#: inc/elementor/widgets/image-carousel.php:207 
+#: inc/elementor/widgets/image-gallery.php:403 
+#: inc/elementor/widgets/mailchimp.php:156 
+#: inc/elementor/widgets/mailchimp.php:314 
+#: inc/elementor/widgets/mailchimp.php:525 
+#: inc/elementor/widgets/pricing.php:1315 
+#: inc/elementor/widgets/product-categories.php:303 
+#: inc/elementor/widgets/team-box.php:270 
+#: inc/elementor/widgets/testimonial.php:474 
+#: inc/elementor/widgets/testimonial.php:540 
+#: inc/elementor/widgets/text-carousel.php:219 
+#: inc/elementor/widgets/vertical-menu.php:246 
+#: inc/elementor/widgets/video.php:228 inc/elementor/widgets/video.php:471
+msgid "Border Radius"
+msgstr "انحنا مرز"
+
+#: inc/elementor/widgets/call-to-action.php:695 
+#: inc/elementor/widgets/product-categories.php:448
+msgid "Border radius"
+msgstr "شعاع حاشیه"
+
+#: inc/elementor/widgets/search.php:164
+msgid "Border Radius Input"
+msgstr "شعاع حاشیه ورودی"
+
+#: inc/elementor/widgets/search.php:53
+msgid "Border width"
+msgstr "عرض حاشیه"
+
+#: inc/elementor/base_widgets.php:915 inc/elementor/base_widgets.php:1036 
+#: inc/elementor/class-section-sticky.php:53 
+#: inc/elementor/custom-widgets/icon-box.php:82 
+#: inc/elementor/custom-widgets/image-box.php:204 
+#: inc/elementor/custom-widgets/image-box.php:516 
+#: inc/elementor/widgets/banner-carousel.php:422 
+#: inc/elementor/widgets/banner-carousel.php:520 
+#: inc/elementor/widgets/call-to-action.php:365 
+#: inc/elementor/widgets/pricing.php:697 inc/elementor/widgets/pricing.php:757 
+#: inc/elementor/widgets/pricing.php:834 
+#: inc/elementor/widgets/product-categories.php:639 
+#: inc/elementor/widgets/product-categories.php:797
+msgid "Bottom"
+msgstr "پایین"
+
+#: inc/class-customize.php:374
+msgid "Bottom Thumbnail"
+msgstr "تصویر بند انگشتی پایین"
+
+#: inc/class-customize.php:567 inc/elementor/widgets/products.php:297
+msgid "Bottom to Top"
+msgstr "پایین به بالا"
+
+#: inc/elementor/widgets/call-to-action.php:272 
+#: inc/elementor/widgets/product-categories.php:249
+msgid "Box"
+msgstr "باکس"
+
+#: inc/elementor/widgets/banner-carousel.php:736
+msgid "Box Button"
+msgstr "دکمه جعبه"
+
+#: inc/elementor/widgets/banner-carousel.php:343
+msgid "Box Image"
+msgstr "تصویر جعبه"
+
+#: inc/elementor/widgets/banner-carousel.php:238
+msgid "Box Image Height"
+msgstr "ارتفاع تصویر جعبه"
+
+#: inc/elementor/widgets/banner-carousel.php:485
+msgid "Box Position"
+msgstr "موقعیت جعبه"
+
+#: inc/elementor/widgets/banner-carousel.php:299
+msgid "Box Side Image"
+msgstr "تصویر جعبه (سمت)"
+
+#: inc/elementor/widgets/banner-carousel.php:664
+msgid "Box Sub Title"
+msgstr "زیرعنوان جعبه"
+
+#: inc/elementor/widgets/banner-carousel.php:475
+msgid "Box Text"
+msgstr "متن جعبه"
+
+#: inc/elementor/widgets/product-categories.php:750
+msgid "Box text"
+msgstr "متن جعبه"
+
+#: inc/elementor/widgets/call-to-action.php:1118
+msgid "Box Text Color"
+msgstr "رنگ متن باکس"
+
+#: inc/elementor/widgets/banner-carousel.php:492
+msgid "Box Text Position"
+msgstr "موقعیت متن جعبه"
+
+#: inc/elementor/widgets/banner-carousel.php:592
+msgid "Box Title"
+msgstr "عنوان جعبه"
+
+#: inc/elementor/widgets/countdown.php:206
+msgid "Boxes"
+msgstr "باکس‌ها"
+
+#: inc/elementor/widgets/brand.php:107 inc/elementor/widgets/brand.php:108
+msgid "Brand Name"
+msgstr "نام برند"
+
+#: inc/elementor/widgets/brand.php:105
+msgid "Brand name"
+msgstr "نام برند"
+
+#: inc/elementor/widgets/brand.php:52 inc/elementor/widgets/brand.php:96 
+#: inc/merlin/includes/class-wc-widget-product-brands.php:260 
+#: inc/merlin/includes/class-wc-widget-product-brands.php:261 
+#: inc/merlin/includes/class-wc-widget-product-brands.php:262
+msgid "Brands"
+msgstr "برندها"
+
+#: inc/woocommerce/woocommerce-template-functions.php:1353
+msgid "Brands: "
+msgstr "برندها:"
+
+#: inc/merlin/includes/breadcrumb.php:54 inc/merlin/includes/breadcrumb.php:56
+msgid "Breadcrumb"
+msgstr "مسیریابی"
+
+#: inc/elementor/widgets/breadcrumb.php:231
+msgctxt "breadcrumb"
+msgid " Home"
+msgstr " خانه"
+
+#: inc/merlin/includes/breadcrumb.php:109
+msgid "Breadcrumb Options"
+msgstr "تنظیمات مسیریابی"
+
+#: inc/merlin/includes/breadcrumb.php:53 inc/merlin/includes/breadcrumb.php:55 
+#: inc/merlin/includes/breadcrumb.php:95 inc/merlin/includes/breadcrumb.php:96
+msgid "Breadcrumbs"
+msgstr "طرح های بخش مسیریابی "
+
+#: inc/elementor/custom-widgets/image-box.php:36 
+#: inc/elementor/custom-widgets/image-box.php:37 
+#: inc/elementor/widgets/banner-carousel.php:199 
+#: inc/elementor/widgets/banner-carousel.php:200 
+#: inc/elementor/widgets/call-to-action.php:970 
+#: inc/elementor/widgets/mailchimp.php:357 
+#: inc/elementor/widgets/pricing.php:1212
+msgid "Button"
+msgstr "دکمه"
+
+#: inc/elementor/widgets/banner-carousel.php:744
+msgid "Button Background Color"
+msgstr "رنگ زمینه‌ی دکمه"
+
+#: inc/elementor/custom-widgets/button.php:48
+msgid "Button Categories"
+msgstr "دسته‌بندی‌های دکمه"
+
+#: inc/elementor/widgets/banner-carousel.php:755
+msgid "Button Hover Background Color"
+msgstr "رنگ زمینه هاور دکمه"
+
+#: inc/elementor/widgets/banner-carousel.php:777
+msgid "Button Hover Text Color"
+msgstr "رنگ متن هاور دکمه"
+
+#: inc/elementor/widgets/banner-carousel.php:210
+msgid "Button Link"
+msgstr "پیوند دکمه"
+
+#: inc/elementor/widgets/banner-carousel.php:800
+msgid "Button Margin"
+msgstr "حاشیه‌ی دکمه"
+
+#: inc/elementor/widgets/call-to-action.php:257
+msgid "Button Only"
+msgstr "تنها دکمه"
+
+#: inc/elementor/widgets/banner-carousel.php:788 
+#: inc/elementor/widgets/pricing.php:1327
+msgid "Button Padding"
+msgstr "فاصله‌دهی دکمه"
+
+#: inc/elementor/custom-widgets/image-box.php:33 
+#: inc/elementor/widgets/banner-carousel.php:196 
+#: inc/elementor/widgets/call-to-action.php:179 
+#: inc/elementor/widgets/pricing.php:286
+msgid "Button Text"
+msgstr "متن دکمه"
+
+#: inc/elementor/widgets/banner-carousel.php:766
+msgid "Button Text Color"
+msgstr "رنگ متن دکمه"
+
+#: woocommerce/content-widget-reviews.php:31
+msgid "by %s"
+msgstr "توسط %s"
+
+#: inc/merlin-config.php:319
+msgid "Cancel"
+msgstr "لغو"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:678
+msgid "Cannot import auto-draft posts"
+msgstr "امکان وارد کردن نوشته‌های خودکار وجود ندارد"
+
+#: inc/class-customize.php:295
+msgid "Canvas Filter"
+msgstr "فیلتر پنل"
+
+#: inc/elementor/base_widgets.php:210
+msgid "Caroseul Options"
+msgstr "گزینه‌های اسلایدر"
+
+#: inc/elementor/base_widgets.php:1231
+msgid "Carousel Dots"
+msgstr "نقاط اسلایدر"
+
+#: inc/elementor/widgets/posts-grid.php:108 
+#: inc/elementor/widgets/product-categories.php:87 
+#: inc/elementor/widgets/product-categories.php:112 
+#: inc/elementor/widgets/products.php:162 inc/template-functions.php:432 
+#: inc/template-functions.php:546
+msgid "Categories"
+msgstr "دسته‌بندی‌ها"
+
+#: inc/elementor/widgets/posts-grid.php:119 
+#: inc/elementor/widgets/products.php:173
+msgid "Category Operator"
+msgstr "اپراتور دسته‌بندی"
+
+#: woocommerce/single-product/meta.php:31
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "دسته‌بندی:"
+msgstr[1] "دسته‌بندی‌ها:"
+
+#: inc/elementor/base_widgets.php:1433 inc/elementor/base_widgets.php:1638 
+#: inc/elementor/custom-widgets/counter.php:17 
+#: inc/elementor/custom-widgets/icon-box.php:54 
+#: inc/elementor/custom-widgets/image-box.php:483 
+#: inc/elementor/widgets/banner-carousel.php:449 
+#: inc/elementor/widgets/banner-carousel.php:551 
+#: inc/elementor/widgets/brand.php:180 
+#: inc/elementor/widgets/breadcrumb.php:123 
+#: inc/elementor/widgets/call-to-action.php:335 
+#: inc/elementor/widgets/call-to-action.php:464 
+#: inc/elementor/widgets/contactform.php:78 
+#: inc/elementor/widgets/countdown.php:351 
+#: inc/elementor/widgets/countdown.php:396 
+#: inc/elementor/widgets/heading.php:210 
+#: inc/elementor/widgets/image-gallery.php:377 
+#: inc/elementor/widgets/mailchimp.php:373 
+#: inc/elementor/widgets/nav-menu.php:107 
+#: inc/elementor/widgets/pricing.php:1029 
+#: inc/elementor/widgets/product-categories.php:661 
+#: inc/elementor/widgets/product-categories.php:766 
+#: inc/elementor/widgets/product-categories.php:820 
+#: inc/elementor/widgets/slide-scrolling.php:180 
+#: inc/elementor/widgets/testimonial.php:418 
+#: inc/elementor/widgets/testimonial.php:443 
+#: inc/elementor/widgets/text-carousel.php:155 
+#: inc/elementor/widgets/video.php:85
+msgid "Center"
+msgstr "وسط"
+
+#: inc/merlin/class-merlin.php:719
+msgid "Child"
+msgstr "زیرقالب"
+
+#: inc/elementor/widgets/call-to-action.php:56
+msgid "Choose Background Image"
+msgstr "انتخاب تصویر زمینه"
+
+#: inc/elementor/widgets/product-categories.php:1041
+msgid "Choose Category"
+msgstr "انتخاب دسته بندی"
+
+#: inc/merlin/includes/class-wc-widget-product-brands.php:273
+msgid "Choose from the most used Brands"
+msgstr "از برندهای پرکاربرد انتخاب کنید"
+
+#: inc/elementor/custom-widgets/image-box.php:129 
+#: inc/elementor/widgets/banner-carousel.php:142 
+#: inc/elementor/widgets/brand.php:116 
+#: inc/elementor/widgets/image-carousel.php:97 
+#: inc/elementor/widgets/product-categories.php:154 
+#: inc/elementor/widgets/slide-scrolling.php:115 
+#: inc/elementor/widgets/team-box.php:113 
+#: inc/elementor/widgets/testimonial.php:151
+msgid "Choose Image"
+msgstr "تصویر را انتخاب کنید"
+
+#: inc/elementor/widgets/banner-carousel.php:127
+msgid "Choose Image Side"
+msgstr "انتخاب سمت تصویر"
+
+#: inc/elementor/custom-widgets/icon-box.php:15 
+#: inc/elementor/widgets/testimonial.php:195
+msgid "Circle"
+msgstr "دایره"
+
+#: inc/cf7/class-cf7.php:179
+msgid "Class attribute"
+msgstr "ویژگی کلاس"
+
+#: inc/elementor/base_widgets.php:335
+msgid "Class Navigation Next"
+msgstr "کلاس ناوبری بعدی"
+
+#: inc/elementor/base_widgets.php:296
+msgid "Class Navigation Previous"
+msgstr "کلاس ناوبری قبلی"
+
+#: inc/woocommerce/woocommerce-template-functions.php:1813
+msgid "Clear All"
+msgstr "پاک کردن همه"
+
+#: inc/elementor/widgets/call-to-action.php:184 
+#: inc/elementor/widgets/pricing.php:288
+msgid "Click Here"
+msgstr "اینجا کلیک کنید"
+
+#: inc/elementor/widgets/call-to-action.php:46
+msgid "Click here"
+msgstr "اینجا کلیک کنید"
+
+#: inc/megamenu/includes/admin/class-admin-assets.php:62
+msgid "Close"
+msgstr "بستن"
+
+#: inc/woocommerce/woocommerce-template-functions.php:338
+msgid "close"
+msgstr "بستن"
+
+#: inc/elementor/base_widgets.php:811 inc/elementor/base_widgets.php:848 
+#: inc/elementor/base_widgets.php:1201 inc/elementor/base_widgets.php:1283 
+#: inc/elementor/base_widgets.php:1363 
+#: inc/elementor/custom-widgets/image-box.php:555 
+#: inc/elementor/custom-widgets/image-box.php:606 
+#: inc/elementor/widgets/account.php:69 inc/elementor/widgets/account.php:196 
+#: inc/elementor/widgets/banner-carousel.php:600 
+#: inc/elementor/widgets/banner-carousel.php:672 
+#: inc/elementor/widgets/brand.php:350 inc/elementor/widgets/countdown.php:414 
+#: inc/elementor/widgets/countdown.php:456 
+#: inc/elementor/widgets/countdown.php:516 
+#: inc/elementor/widgets/header-group.php:81 
+#: inc/elementor/widgets/image-carousel.php:187 
+#: inc/elementor/widgets/info-canvas.php:127 
+#: inc/elementor/widgets/info-canvas.php:149 
+#: inc/elementor/widgets/mailchimp.php:210 
+#: inc/elementor/widgets/mailchimp.php:465 
+#: inc/elementor/widgets/menu-canvas.php:78 
+#: inc/elementor/widgets/menu-canvas.php:101 
+#: inc/elementor/widgets/pricing.php:523 inc/elementor/widgets/pricing.php:554 
+#: inc/elementor/widgets/pricing.php:610 inc/elementor/widgets/pricing.php:789 
+#: inc/elementor/widgets/pricing.php:869 inc/elementor/widgets/pricing.php:929 
+#: inc/elementor/widgets/pricing.php:995 
+#: inc/elementor/widgets/pricing.php:1095 
+#: inc/elementor/widgets/pricing.php:1448 
+#: inc/elementor/widgets/product-categories.php:714 
+#: inc/elementor/widgets/product-categories.php:891 
+#: inc/elementor/widgets/slide-scrolling.php:462 
+#: inc/elementor/widgets/team-box.php:317 
+#: inc/elementor/widgets/team-box.php:436 
+#: inc/elementor/widgets/team-box.php:459 
+#: inc/elementor/widgets/testimonial.php:587 
+#: inc/elementor/widgets/testimonial.php:647 
+#: inc/elementor/widgets/testimonial.php:703 
+#: inc/elementor/widgets/testimonial.php:764 
+#: inc/elementor/widgets/testimonial.php:808 
+#: inc/elementor/widgets/testimonial.php:843 
+#: inc/elementor/widgets/text-carousel.php:240 
+#: inc/elementor/widgets/text-carousel.php:270 
+#: inc/elementor/widgets/vertical-menu.php:158 
+#: inc/elementor/widgets/vertical-menu.php:292 
+#: inc/elementor/widgets/video.php:362 inc/elementor/widgets/video.php:402 
+#: inc/elementor/widgets/video.php:527 inc/elementor/widgets/video.php:571
+msgid "Color"
+msgstr "رنگ"
+
+#: inc/elementor/widgets/vertical-menu.php:305
+msgid "Color Active"
+msgstr "رنگ فعال"
+
+#: inc/elementor/widgets/mailchimp.php:243
+msgid "Color Border"
+msgstr "رنگ حاشیه"
+
+#: inc/elementor/widgets/account.php:176
+msgid "Color Content"
+msgstr "رنگ محتوا"
+
+#: inc/elementor/widgets/product-categories.php:978
+msgid "Color Count"
+msgstr "تعداد رنگ"
+
+#: inc/elementor/widgets/product-categories.php:967
+msgid "Color Count Text"
+msgstr "متن تعداد رنگ"
+
+#: inc/elementor/base_widgets.php:1322 inc/elementor/widgets/account.php:82 
+#: inc/elementor/widgets/account.php:230 
+#: inc/elementor/widgets/header-group.php:96 
+#: inc/elementor/widgets/slide-scrolling.php:485 
+#: inc/elementor/widgets/testimonial.php:599 
+#: inc/elementor/widgets/testimonial.php:659 
+#: inc/elementor/widgets/testimonial.php:715 
+#: inc/elementor/widgets/testimonial.php:776 
+#: inc/elementor/widgets/testimonial.php:855 
+#: inc/elementor/widgets/vertical-menu.php:200 
+#: inc/elementor/widgets/video.php:540
+msgid "Color Hover"
+msgstr "رنگ هاور"
+
+#: inc/elementor/widgets/search.php:138 
+#: inc/elementor/widgets/vertical-menu.php:170
+msgid "Color Icon"
+msgstr "رنگ آیکون"
+
+#: inc/elementor/widgets/vertical-menu.php:212
+msgid "Color Icon Hover"
+msgstr "رنگ هاور آیکون"
+
+#: inc/elementor/widgets/nav-menu.php:184 
+#: inc/elementor/widgets/nav-menu.php:247 
+#: inc/elementor/widgets/nav-menu.php:313
+msgid "Color Menu"
+msgstr "رنگ منو"
+
+#: inc/elementor/widgets/account.php:208
+msgid "Color Name"
+msgstr "رنگ نام"
+
+#: inc/elementor/widgets/account.php:242
+msgid "Color Name Hover"
+msgstr "رنگ نام هاور"
+
+#: inc/elementor/widgets/mailchimp.php:221 
+#: inc/elementor/widgets/mailchimp.php:274
+msgid "Color Placeholder"
+msgstr "رنگ متن پیش‌نمایش"
+
+#: inc/elementor/widgets/nav-menu.php:195 
+#: inc/elementor/widgets/nav-menu.php:259 
+#: inc/elementor/widgets/nav-menu.php:326
+msgid "Color Sub Menu"
+msgstr "رنگ زیر منو"
+
+#: inc/elementor/custom-widgets/icon-box.php:147 
+#: inc/elementor/custom-widgets/image-box.php:98
+msgid "Color Title Hover"
+msgstr "رنگ عنوان هاور"
+
+#: inc/elementor/widgets/call-to-action.php:825
+msgid "Colors"
+msgstr "رنگ‌ها"
+
+#: inc/elementor/base_widgets.php:34
+msgid "Column Options"
+msgstr "گزینه‌های ستون"
+
+#: inc/elementor/base_widgets.php:68 inc/elementor/base_widgets.php:89 
+#: inc/elementor/widgets/image-gallery.php:224
+msgid "Column Spacing"
+msgstr "فاصله بین ستون‌ها"
+
+#: inc/elementor/base_widgets.php:41 
+#: inc/elementor/widgets/image-gallery.php:200
+msgid "Columns"
+msgstr "ستون‌ها"
+
+#: inc/class-customize.php:140
+#, fuzzy
+#| msgid "Columns"
+msgid "Colunms"
+msgstr "ستون‌ها"
+
+#: inc/class-customize.php:158
+#, fuzzy
+#| msgid "Columns Laptop"
+msgid "Colunms Laptop"
+msgstr "ستون‌ها در لپ‌تاپ"
+
+#: inc/class-customize.php:194
+#, fuzzy
+#| msgid "Columns Mobile"
+msgid "Colunms Mobile"
+msgstr "ستون‌ها در موبایل"
+
+#: inc/class-customize.php:176
+#, fuzzy
+#| msgid "Columns Tablet"
+msgid "Colunms Tablet"
+msgstr "ستون‌ها در تبلت"
+
+#: comments.php:71
+msgid "Comment"
+msgstr "دیدگاه"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2168
+msgid "Comment %d was imported with author %d, but could not be found"
+msgstr "نظر %d با نویسنده %d وارد شد، اما پیدا نشد"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2150
+msgid "Comment %d was imported with parent %d, but could not be found"
+msgstr "نظر %d با پدر %d وارد شد، اما پیدا نشد"
+
+#: comments.php:30 comments.php:51
+msgid "Comment navigation"
+msgstr "ناوبری دیدگاه"
+
+#: comments.php:29
+msgid "Comment Navigation Above"
+msgstr "منوی دیدگاه بالا"
+
+#: comments.php:50
+msgid "Comment Navigation Below"
+msgstr "منوی دیدگاه پایین"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "دیدگاه‌ها بسته شده‌اند."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:21
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s دیدگاه"
+msgstr[1] "%1$s دیدگاه"
+
+#: inc/elementor/widgets/account.php:31 
+#: inc/elementor/widgets/header-group.php:32 
+#: inc/elementor/widgets/mailchimp.php:55 
+#: inc/elementor/widgets/vertical-menu.php:65
+msgid "Config"
+msgstr "پیکربندی"
+
+#: inc/elementor/widgets/contactform.php:63
+msgid "Contact form"
+msgstr "فرم تماس"
+
+#: inc/elementor/widgets/product-categories.php:592
+msgid "Contain"
+msgstr "شامل"
+
+#: inc/elementor/widgets/countdown.php:214 
+#: inc/megamenu/includes/hook-functions.php:204
+msgid "Container Width"
+msgstr "عرض بندی"
+
+#: inc/elementor/custom-widgets/image-box.php:467 
+#: inc/elementor/widgets/account.php:149 inc/elementor/widgets/account.php:157 
+#: inc/elementor/widgets/call-to-action.php:41 
+#: inc/elementor/widgets/call-to-action.php:403 
+#: inc/elementor/widgets/info-canvas.php:56 
+#: inc/elementor/widgets/testimonial.php:122 
+#: inc/elementor/widgets/testimonial.php:639 inc/merlin/class-merlin.php:741 
+#: inc/merlin/class-merlin.php:1987
+msgid "Content"
+msgstr "محتوا"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:248
+msgid "Content import start error: "
+msgstr "خطای شروع وارد کردن محتوا:"
+
+#: inc/class-customize.php:391
+msgid "Content In Tabs?"
+msgstr "محتوا در تب‌ها؟"
+
+#: inc/elementor/widgets/account.php:166
+msgid "Content Name"
+msgstr "نام محتوا"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2032
+msgid "Could not find the author for \"%s\" (post #%d)"
+msgstr "نمی‌توان نویسنده \"%s\" (نوشته #%d) را پیدا کرد"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2164
+msgid "Could not find the author for comment #%d"
+msgstr "نمی‌توان نویسنده نظر #%d را پیدا کرد"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2146
+msgid "Could not find the comment parent for comment #%d"
+msgstr "نمی‌توان پدر نظر برای نظر #%d را پیدا کرد"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2119
+msgid "Could not find the menu object for \"%s\" (post #%d)"
+msgstr "امکان پیدا کردن شیء منو برای \"%s\" (نوشته #%d) وجود ندارد"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2013
+msgid "Could not find the post parent for \"%s\" (post #%d)"
+msgstr "نمی‌توان پدر نوشته \"%s\" (نوشته #%d) را پیدا کرد"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:135
+msgid "Could not open the file for parsing"
+msgstr "امکان باز کردن فایل برای تجزیه و تحلیل وجود ندارد"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:68
+msgid "Could not open the XML file for parsing!"
+msgstr "امکان باز کردن فایل XML برای تجزیه و تحلیل وجود ندارد!"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2074
+msgid "Could not update \"%s\" (post #%d) with mapped data"
+msgstr ""
+"امکان بروزرسانی \"%s\" (نوشته #%d) با داده‌های نقشه‌برداری شده وجود ندارد"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2277
+msgid "Could not update \"%s\" (term #%d) with mapped data"
+msgstr ""
+"نمی‌توان \"%s\" (اصطلاح #%d) را با داده‌های نقشه‌برداری شده بروزرسانی کرد"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2185
+msgid "Could not update comment #%d with mapped data"
+msgstr "نمی‌توان نظر #%d را با داده‌های نقشه‌برداری شده بروزرسانی کرد"
+
+#: inc/elementor/widgets/countdown.php:37
+msgid "Countdown"
+msgstr "شمارنده معکوس"
+
+#: inc/elementor/widgets/product-categories.php:591
+msgid "Cover"
+msgstr "پوشش"
+
+#: inc/template-functions.php:796
+msgid "Create an Account"
+msgstr "ایجاد حساب کاربری"
+
+#: inc/elementor/widgets/pricing.php:105
+msgctxt "Currency"
+msgid "Baht"
+msgstr "بات"
+
+#: inc/elementor/widgets/pricing.php:103
+msgctxt "Currency"
+msgid "Dollar"
+msgstr "دلار"
+
+#: inc/elementor/widgets/pricing.php:104
+msgctxt "Currency"
+msgid "Euro"
+msgstr "یورو"
+
+#: inc/elementor/widgets/pricing.php:106
+msgctxt "Currency"
+msgid "Franc"
+msgstr "فرانک"
+
+#: inc/elementor/widgets/pricing.php:107
+msgctxt "Currency"
+msgid "Guilder"
+msgstr "گیلدر"
+
+#: inc/elementor/widgets/pricing.php:108
+msgctxt "Currency"
+msgid "Krona"
+msgstr "کرون"
+
+#: inc/elementor/widgets/pricing.php:109
+msgctxt "Currency"
+msgid "Lira"
+msgstr "لیر"
+
+#: inc/elementor/widgets/pricing.php:110
+msgctxt "Currency"
+msgid "Peseta"
+msgstr "پزتا"
+
+#: inc/elementor/widgets/pricing.php:111
+msgctxt "Currency"
+msgid "Peso"
+msgstr "پزو"
+
+#: inc/elementor/widgets/pricing.php:112
+msgctxt "Currency"
+msgid "Pound Sterling"
+msgstr "پوند استرلینگ"
+
+#: inc/elementor/widgets/pricing.php:113
+msgctxt "Currency"
+msgid "Real"
+msgstr "رئال"
+
+#: inc/elementor/widgets/pricing.php:114
+msgctxt "Currency"
+msgid "Ruble"
+msgstr "روبل"
+
+#: inc/elementor/widgets/pricing.php:115
+msgctxt "Currency"
+msgid "Rupee"
+msgstr "روپیه"
+
+#: inc/elementor/widgets/pricing.php:116
+msgctxt "Currency"
+msgid "Rupee (Indian)"
+msgstr "روپیه (هندی)"
+
+#: inc/elementor/widgets/pricing.php:117
+msgctxt "Currency"
+msgid "Shekel"
+msgstr "شکل"
+
+#: inc/elementor/widgets/pricing.php:119
+msgctxt "Currency"
+msgid "Won"
+msgstr "وون"
+
+#: inc/elementor/widgets/pricing.php:118
+msgctxt "Currency"
+msgid "Yen/Yuan"
+msgstr "ین/یوان"
+
+#: inc/elementor/widgets/pricing.php:152
+msgid "Currency Format"
+msgstr "فرمت ارز"
+
+#: inc/elementor/widgets/pricing.php:99 inc/elementor/widgets/pricing.php:634
+msgid "Currency Symbol"
+msgstr "نماد ارز"
+
+#: inc/elementor/widgets/image-carousel.php:235 
+#: inc/elementor/widgets/image-gallery.php:252 
+#: inc/elementor/widgets/pricing.php:120
+msgid "Custom"
+msgstr "سفارشی"
+
+#: inc/megamenu/includes/hook-functions.php:155
+msgid "Custom Class"
+msgstr "کلاس سفارشی"
+
+#: inc/elementor/class-custom-css.php:71 inc/elementor/class-custom-css.php:88
+msgid "Custom CSS"
+msgstr "CSS سفارشی"
+
+#: inc/elementor/widgets/countdown.php:133
+msgid "Custom Label"
+msgstr "برچسب دلخواه"
+
+#: inc/elementor/base_widgets.php:262
+msgid "Custom Navigation"
+msgstr "پیمایش سفارشی"
+
+#: inc/merlin/includes/class-custom-shapes.php:113 
+#: inc/merlin/includes/class-custom-shapes.php:139
+msgid "Custom shape"
+msgstr "شکل سفارشی"
+
+#: inc/merlin/includes/class-custom-shapes.php:112 
+#: inc/merlin/includes/class-custom-shapes.php:140
+msgid "Custom shapes"
+msgstr "شکل‌های سفارشی"
+
+#: inc/elementor/widgets/pricing.php:129
+msgid "Custom Symbol"
+msgstr "نماد سفارشی"
+
+#: inc/elementor/custom-widgets/button.php:19
+msgid "Danger"
+msgstr "خطر"
+
+#: inc/template-functions.php:825 inc/template-functions.php:839 
+#: inc/template-functions.php:860
+msgid "Dashboard"
+msgstr "داشبورد"
+
+#: inc/elementor/widgets/pricing.php:1080
+msgid "Dashed"
+msgstr "خط‌چین"
+
+#: inc/elementor/custom-widgets/icon-box.php:17
+msgid "Dashed Circle"
+msgstr "دایره با خط‌های نقطه‌دار"
+
+#: inc/elementor/widgets/posts-grid.php:84 
+#: inc/elementor/widgets/products.php:135 
+#: inc/elementor/widgets/testimonial.php:142
+msgid "Date"
+msgstr "تاریخ"
+
+#: inc/cf7/class-cf7.php:127
+msgid "Date format that the sender entered is invalid"
+msgstr "فرمت تاریخ وارد شده توسط فرستنده نامعتبر است"
+
+#. translators: %s: Time zone.
+#: inc/elementor/widgets/countdown.php:70
+msgid "Date set according to your timezone: %s."
+msgstr "تاریخ بر اساس منطقه زمانی شما تنظیم شده است: %s."
+
+#: inc/elementor/widgets/countdown.php:77 
+#: inc/elementor/widgets/countdown.php:144 
+#: inc/elementor/widgets/countdown.php:146 
+#: inc/elementor/widgets/countdown.php:147 
+#: inc/elementor/widgets/countdown.php:573 
+#: inc/woocommerce/woocommerce-template-functions.php:1128
+msgid "Days"
+msgstr "روز"
+
+#: inc/class-customize.php:358 inc/elementor/base_widgets.php:45 
+#: inc/elementor/custom-widgets/button.php:13 
+#: inc/elementor/widgets/heading.php:169 
+#: inc/elementor/widgets/image-carousel.php:234 
+#: inc/elementor/widgets/image-gallery.php:167 
+#: inc/elementor/widgets/image-gallery.php:204 
+#: inc/elementor/widgets/image-gallery.php:251 
+#: inc/elementor/widgets/mailchimp.php:68 
+#: inc/elementor/widgets/product-categories.php:589 
+#: inc/elementor/widgets/testimonial.php:181
+msgid "Default"
+msgstr "پیشفرض"
+
+#: inc/class-customize.php:395
+msgid "Default Tabs"
+msgstr "تب‌های پیش‌فرض"
+
+#: inc/cf7/class-cf7.php:168
+msgid "Default value"
+msgstr "مقدار پیش‌فرض"
+
+#: inc/merlin/includes/product-360-view.php:36 
+#: inc/merlin/includes/product-360-view.php:56
+msgid "Delete"
+msgstr "حذف"
+
+#: inc/merlin/includes/product-360-view.php:36 
+#: inc/merlin/includes/product-360-view.php:56
+msgid "Delete image"
+msgstr "حذف تصویر"
+
+#: inc/merlin/class-merlin.php:1988
+msgid "Demo content data."
+msgstr "داده‌های محتوای نمونه."
+
+#: inc/elementor/widgets/posts-grid.php:100 
+#: inc/elementor/widgets/products.php:154
+msgid "DESC"
+msgstr "نزولی"
+
+#: inc/elementor/custom-widgets/image-box.php:180 
+#: inc/elementor/custom-widgets/image-box.php:597 
+#: inc/elementor/widgets/call-to-action.php:142 
+#: inc/elementor/widgets/call-to-action.php:740 
+#: inc/elementor/widgets/pricing.php:62 inc/elementor/widgets/video.php:67 
+#: inc/elementor/widgets/video.php:69 inc/elementor/widgets/video.php:563
+msgid "Description"
+msgstr "توضیحات"
+
+#: inc/elementor/widgets/call-to-action.php:884 
+#: inc/elementor/widgets/call-to-action.php:950
+msgid "Description Color"
+msgstr "رنگ توضیحات"
+
+#: inc/elementor/custom-widgets/icon-box.php:176
+msgid "Description Margin"
+msgstr "حاشیه‌ی توضیحات"
+
+#: inc/elementor/class-section-sticky.php:77
+msgid "Desktop"
+msgstr "رایانه شخصی"
+
+#: inc/elementor/widgets/countdown.php:440
+msgid "Digits"
+msgstr "رقم‌ها"
+
+#: inc/elementor/base_widgets.php:645
+msgid "Direction"
+msgstr "جهت"
+
+#: inc/elementor/class-section-parallax.php:141 
+#: inc/elementor/class-section-parallax.php:158
+msgid "Disable"
+msgstr "غیرفعال"
+
+#: inc/merlin-config.php:314
+msgid "Disable this wizard"
+msgstr "غیرفعال‌سازی این ویزارد"
+
+#: inc/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "رد کردن این اطلاع"
+
+#: inc/merlin/includes/class-wc-widget-layered-nav.php:14
+#, fuzzy
+#| msgid ""
+#| "Display a list of attributes to filter products in your store. (Priotech "
+#| "custom)"
+msgid ""
+"Display a list of attributes to filter products in your store.(Priotech "
+"custom)"
+msgstr ""
+"نمایش لیستی از خصوصیات برای فیلتر کردن محصولات در فروشگاه شما. (سفارشی "
+"پریوتک)"
+
+#: inc/merlin/includes/breadcrumb.php:183
+msgid "Display custom template based on user role."
+msgstr "نمایش قالب سفارشی بر اساس نقش کاربر."
+
+#: inc/merlin/includes/breadcrumb.php:137
+msgid "Display On"
+msgstr "نمایش در"
+
+#: inc/merlin/includes/breadcrumb.php:147
+msgid "Display Rules"
+msgstr "قوانین نمایش"
+
+#: inc/elementor/widgets/pricing.php:1531
+msgid "Distance"
+msgstr "فاصله"
+
+#: inc/elementor/custom-widgets/icon-box.php:38 
+#: inc/elementor/widgets/nav-menu.php:167 
+#: inc/elementor/widgets/nav-menu.php:228 
+#: inc/elementor/widgets/pricing.php:1063
+msgid "Divider"
+msgstr "جداکننده"
+
+#: inc/elementor/custom-widgets/icon-box.php:117
+msgid "Divider Color"
+msgstr "رنگ جداکننده"
+
+#: inc/elementor/custom-widgets/icon-box.php:105
+msgid "Divider Height"
+msgstr "ارتفاع جداکننده"
+
+#: inc/elementor/custom-widgets/icon-box.php:45
+msgid "Divider Horizontal"
+msgstr "جداکننده افقی"
+
+#: inc/elementor/custom-widgets/icon-box.php:69
+msgid "Divider Vertical"
+msgstr "جداکننده عمودی"
+
+#: inc/elementor/custom-widgets/icon-box.php:93
+msgid "Divider Width"
+msgstr "عرض جداکننده"
+
+#: inc/merlin/includes/breadcrumb.php:160
+msgid "Do Not Display On"
+msgstr "نمایش نده در"
+
+#: inc/elementor/base_widgets.php:249
+msgid "Dots"
+msgstr "نقاط"
+
+#: inc/elementor/widgets/pricing.php:1079
+msgid "Dotted"
+msgstr "نقطه‌دار"
+
+#: inc/elementor/widgets/pricing.php:1078
+msgid "Double"
+msgstr "دوبل"
+
+#: inc/template-functions.php:847
+msgid "Downloads"
+msgstr "دانلودها"
+
+#: inc/class-customize.php:297
+msgid "Drawing Filter"
+msgstr "فیلتر نقاشی"
+
+#: inc/elementor/widgets/vertical-menu.php:102
+msgid "Dropdown"
+msgstr "آبشاری"
+
+#: inc/class-customize.php:296
+msgid "Dropdown Filter"
+msgstr "فیلتر کشویی"
+
+#: inc/elementor/widgets/countdown.php:66
+msgid "Due Date"
+msgstr "تاریخ پایان"
+
+#: inc/template-functions.php:76
+msgid "Edit"
+msgstr "ویرایش"
+
+#: inc/template-functions.php:520
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "ویرایش <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-functions.php:851
+msgid "Edit Address"
+msgstr "ویرایش آدرس"
+
+#: inc/merlin/includes/class-wc-widget-product-brands.php:268
+msgid "Edit Brand"
+msgstr "ویرایش برند"
+
+#: inc/merlin/includes/breadcrumb.php:60
+msgid "Edit Header Footer & Blocks Template"
+msgstr "ویرایش قالب نوشته‌های سربرگ، پاورقی و بلوک‌ها"
+
+#: inc/merlin/includes/class-custom-shapes.php:121
+msgid "Edit Item"
+msgstr "ویرایش مورد"
+
+#: inc/megamenu/includes/hook-functions.php:194
+msgid "Edit Megamenu Submenu"
+msgstr "ویرایش زیرمنوی مگا"
+
+#: inc/template-functions.php:259
+msgid "Edit this section"
+msgstr "ویرایش این بخش"
+
+#: inc/elementor/base_widgets.php:617
+msgid "Effect"
+msgstr "اثر"
+
+#: inc/elementor/custom-widgets/icon-box.php:244
+msgid "Effect Background Color"
+msgstr "رنگ پس‌زمینه‌ی افکت"
+
+#: inc/elementor/widgets/call-to-action.php:762 
+#: inc/elementor/widgets/call-to-action.php:1222 
+#: inc/elementor/widgets/products.php:376 inc/elementor/widgets/video.php:338
+msgid "Effects"
+msgstr "افکت‌ها"
+
+#: inc/elementor/custom-widgets/icon-box.php:133
+msgid "Effects Hover"
+msgstr "افکت‌های هاور"
+
+#: inc/elementor/class-section-sticky.php:118
+msgid "Effects Offset"
+msgstr "تعویض اثرات"
+
+#: inc/merlin/includes/class-custom-shapes.php:164
+msgctxt "Elementor Custom Shapes"
+msgid "Custom Shapes"
+msgstr "شکل‌های سفارشی"
+
+#: inc/template-functions.php:1104
+msgid "Email"
+msgstr "ایمیل"
+
+#: woocommerce/myaccount/form-login.php:88
+msgid "Email address"
+msgstr "آدرس ایمیل"
+
+#: inc/template-functions.php:1066
+msgid "Email Address *"
+msgstr "آدرس ایمیل *"
+
+#: woocommerce/order/form-tracking.php:36
+msgid "Email you used during checkout."
+msgstr "آدرس ایمیلی که در هنگام تسویه حساب استفاده کردید."
+
+#: inc/elementor/class-section-parallax.php:140 
+#: inc/elementor/class-section-parallax.php:157
+msgid "Enable"
+msgstr "فعال"
+
+#: inc/elementor/base_widgets.php:216
+msgid "Enable Carousel"
+msgstr "فعال‌سازی اسلایدر"
+
+#: inc/elementor/widgets/call-to-action.php:533 
+#: inc/elementor/widgets/call-to-action.php:607
+msgid "Enable Effect"
+msgstr "فعال‌سازی افکت"
+
+#: inc/elementor/class-section-parallax.php:66
+msgid "Enable Parallax"
+msgstr "فعال کردن پارالاکس"
+
+#: inc/elementor/class-section-parallax.php:146
+msgid "Enable support on Android devices."
+msgstr "پشتیبانی را بر روی دستگاه‌های اندرویدی فعال کنید."
+
+#: inc/elementor/class-section-parallax.php:163
+msgid "Enable support on iOs devices."
+msgstr "پشتیبانی را بر روی دستگاه‌های iOS فعال کنید."
+
+#: inc/woocommerce/class-woocommerce-settings.php:188
+msgid "Enable time sale for all variable"
+msgstr "فعال کردن فروش زمان‌دار برای تمام متغیرها"
+
+#: inc/elementor/class-section-parallax.php:72
+msgid "Enable to access extra controls."
+msgstr "برای دسترسی به کنترل‌های اضافی فعال کنید."
+
+#: inc/woocommerce/woocommerce-template-functions.php:1119
+msgid "End in:"
+msgstr "پایان در:"
+
+#: inc/elementor/custom-widgets/image-box.php:186 
+#: inc/elementor/widgets/call-to-action.php:148 
+#: inc/elementor/widgets/pricing.php:64
+msgid "Enter your description"
+msgstr "توضیحات خود را وارد کنید"
+
+#: woocommerce/myaccount/form-login.php:90
+msgid "Enter your email..."
+msgstr "آدرس ایمیل خود را وارد کنید..."
+
+#: inc/elementor/widgets/call-to-action.php:118
+msgid "Enter your heading 1"
+msgstr "عنوان 1 خود را وارد کنید"
+
+#: inc/elementor/widgets/call-to-action.php:133
+msgid "Enter your heading 2"
+msgstr "عنوان 2 خود را وارد کنید"
+
+#. translators: Theme Name
+#: inc/merlin-config.php:332
+msgid "Enter your license key to enable remote updates and theme support."
+msgstr ""
+"کلید لایسنس خود را وارد کنید تا به‌روزرسانی از راه دور و پشتیبانی پوسته فعال "
+"شود."
+
+#: woocommerce/myaccount/form-login.php:45 
+#: woocommerce/myaccount/form-login.php:98
+msgid "Enter your password..."
+msgstr "گذرواژه خود را وارد کنید..."
+
+#: inc/elementor/widgets/call-to-action.php:89
+msgid "Enter your sub title"
+msgstr "زیر عنوان خود را وارد کنید"
+
+#: inc/elementor/custom-widgets/image-box.php:172 
+#: inc/elementor/widgets/heading.php:127
+msgid "Enter your subtitle"
+msgstr "زیرعنوان خود را وارد کنید"
+
+#: inc/elementor/custom-widgets/image-box.php:158 
+#: inc/elementor/widgets/heading.php:114 inc/elementor/widgets/pricing.php:52
+msgid "Enter your title"
+msgstr "عنوان خود را وارد کنید"
+
+#: woocommerce/myaccount/form-login.php:40
+msgid "Enter your username or email address..."
+msgstr "نام کاربری یا آدرس ایمیل خود را وارد کنید..."
+
+#: woocommerce/myaccount/form-login.php:82
+msgid "Enter your username..."
+msgstr "نام کاربری خود را وارد کنید..."
+
+#: inc/merlin/class-merlin.php:1878
+msgid "Error"
+msgstr "خطا"
+
+#: inc/merlin/includes/class-merlin-customizer-importer.php:70
+msgid ""
+"Error: The customizer import file does not have any content in it. Please "
+"make sure to use the correct customizer import file."
+msgstr ""
+"خطا: پرونده‌ی وارد کننده‌ی سفارشی‌ساز دارای هیچ محتوایی نیست. لطفاً اطمینان "
+"حاصل کنید که از پرونده‌ی درست وارد کننده‌ی سفارشی‌ساز استفاده کرده‌اید."
+
+#: inc/merlin/includes/class-merlin-customizer-importer.php:57
+msgid "Error: The customizer import file is missing! File path: %s"
+msgstr "خطا: پرونده وارد کننده‌ی سفارشی‌ساز یافت نشد! مسیر پرونده: %s"
+
+#: inc/merlin/includes/class-merlin-customizer-importer.php:80
+msgid ""
+"Error: The customizer import file is not in a correct format. Please make "
+"sure to use the correct customizer import file."
+msgstr ""
+"خطا: پرونده‌ی وارد کننده‌ی سفارشی‌ساز در قالب صحیح نیست. لطفاً از پرونده‌ی "
+"درست وارد کننده‌ی سفارشی‌ساز استفاده کنید."
+
+#: inc/merlin/includes/class-merlin-customizer-importer.php:86
+#, fuzzy
+#| msgid ""
+#| "Error: The customizer import file is not suitable for the current theme. You "
+#| "can only import customizer settings for the same theme or a child theme."
+msgid ""
+"Error: The customizer import file is not suitable for current theme. You can "
+"only import customizer settings for the same theme or a child theme."
+msgstr ""
+"خطا: پرونده‌ی وارد کننده‌ی سفارشی‌ساز برای پوسته‌ی فعلی مناسب نیست. شما تنها "
+"می‌توانید تنظیمات سفارشی‌ساز را برای همان پوسته یا یک پوسته‌ی فرزند وارد "
+"کنید."
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:105
+msgid ""
+"Error: Widget import data could not be read. Please try a different file."
+msgstr ""
+"خطا: داده‌ی وارد کننده‌ی ابزارک قابل خواندن نیست. لطفاً از یک پرونده‌ی دیگر "
+"استفاده کنید."
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:72
+msgid "Error: Widget import file could not be found."
+msgstr "خطا: پرونده‌ی وارد کننده‌ی ابزارک یافت نشد"
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:83
+msgid "Error: Widget import file does not have any content in it."
+msgstr "خطا: پرونده‌ی وارد کننده‌ی ابزارک دارای هیچ محتوایی نیست."
+
+#: inc/merlin/includes/breadcrumb.php:169
+msgid "Exclude On"
+msgstr "عدم نمایش در"
+
+#: inc/class-customize.php:398
+msgid "Expand all"
+msgstr "بازکردن همه"
+
+#: inc/merlin-config.php:368
+msgid "Explore WordPress"
+msgstr "اکتشاف وردپرس"
+
+#: inc/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr "منبع خارجی"
+
+#: inc/woocommerce/class-woocommerce-settings.php:116
+msgid "Extra info"
+msgstr "اطلاعات اضافی"
+
+#: inc/elementor/widgets/pricing.php:1232
+msgid "Extra Large"
+msgstr "خیلی بزرگ"
+
+#: inc/elementor/widgets/pricing.php:1228
+msgid "Extra Small"
+msgstr "خیلی کوچک"
+
+#: inc/merlin-config.php:366
+msgid "Extras"
+msgstr "امکانات اضافی"
+
+#: inc/elementor/widgets/team-box.php:175
+msgid "Facebook"
+msgstr "فیسبوک"
+
+#: inc/class-customize.php:572 inc/elementor/base_widgets.php:622 
+#: inc/elementor/widgets/products.php:302
+msgid "Fade"
+msgstr "خنثی شدن"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1886
+msgid "Failed to add metakey: %s, metavalue: %s to term_id: %d"
+msgstr ""
+"عدم موفقیت در اضافه کردن کلید‌اصطلاح: %s، مقدار‌اصطلاح: %s به شناسه اصطلاح: "
+"%d"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:872
+msgid "Failed to import \"%s\" (%s)"
+msgstr "عدم موفقیت در وارد کردن \"%s\" (%s)"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:770
+msgid "Failed to import \"%s\": Invalid post type %s"
+msgstr "عدم موفقیت در وارد کردن \"%s\": نوع نوشته نامعتبر است %s"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1783
+msgid "Failed to import %s %s"
+msgstr "عدم موفقیت در وارد کردن %s %s"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:949
+msgid "Failed to import term: %s - %s"
+msgstr "عدم موفقیت در وارد کردن اصطلاح: %s - %s"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1593
+msgid "Failed to import user \"%s\""
+msgstr "عدم موفقیت در وارد کردن کاربر \"%s\""
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2216
+msgid "Faulty term_id provided in terms-to-be-remapped array %s"
+msgstr ""
+"شناسه اصطلاح نادرست در آرایه‌ی اصطلاح‌های قابل نقشه‌برداری %s ارائه شده است"
+
+#: inc/merlin/includes/class-custom-shapes.php:128
+msgid "Featured Image"
+msgstr "تصویر برجسته"
+
+#: inc/elementor/widgets/products.php:226
+msgid "Featured Product"
+msgstr "محصول ویژه"
+
+#: inc/elementor/widgets/pricing.php:209 inc/elementor/widgets/pricing.php:962
+msgid "Features"
+msgstr "ویژگی‌ها"
+
+#: inc/woocommerce/woocommerce-template-functions.php:123
+msgid "Feed for all posts filed under %s"
+msgstr "فید برای تمام نوشته‌های دسته‌بندی شده تحت %s"
+
+#: inc/cf7/class-cf7.php:153 inc/cf7/class-cf7.php:156
+msgid "Field type"
+msgstr "نوع فیلد"
+
+#: inc/elementor/widgets/product-categories.php:590
+msgid "Fill"
+msgstr "پر کردن"
+
+#. translators: Filter: verb "to filter"
+#: inc/woocommerce/woocommerce-template-functions.php:1203 
+#: inc/woocommerce/woocommerce-template-functions.php:1213 
+#: woocommerce/content-widget-price-filter.php:32
+msgid "Filter"
+msgstr "فیلتر"
+
+#: inc/elementor/widgets/image-gallery.php:177 
+#: inc/elementor/widgets/image-gallery.php:297
+msgid "Filter Bar"
+msgstr "نوار فیلتر"
+
+#: inc/merlin/includes/class-wc-widget-layered-nav.php:66
+msgid "Filter by"
+msgstr "فیلتر کردن بر اساس"
+
+#: inc/merlin/includes/class-custom-shapes.php:136
+msgid "Filter items list"
+msgstr "فیلتر لیست موارد"
+
+#: inc/elementor/widgets/image-gallery.php:351
+msgid "Filter Padding"
+msgstr "فاصله داخلی فیلتر"
+
+#: inc/elementor/widgets/image-gallery.php:115
+msgid "Filter Title"
+msgstr "عنوان فیلتر"
+
+#: inc/elementor/widgets/mailchimp.php:256
+msgid "Focus"
+msgstr "فوکوس"
+
+#: inc/elementor/widgets/account.php:95 
+#: inc/elementor/widgets/header-group.php:109 
+#: inc/elementor/widgets/vertical-menu.php:363 
+#: inc/elementor/widgets/video.php:277
+msgid "Font Size"
+msgstr "اندازه‌ی فونت"
+
+#: inc/elementor/widgets/pricing.php:279 inc/elementor/widgets/pricing.php:1180
+msgid "Footer"
+msgstr "پانویس"
+
+#: inc/elementor/widgets/mailchimp.php:80
+msgid "Form Group"
+msgstr "گروه فرم"
+
+#: inc/elementor/widgets/contactform.php:61
+msgid "Form name"
+msgstr "نام فرم"
+
+#: woocommerce/order/form-tracking.php:35
+msgid "Found in your order confirmation email."
+msgstr "در ایمیل تأییدیه سفارش شما یافت می‌شود."
+
+#: inc/elementor/widgets/pricing.php:719
+msgid "Fractional Part"
+msgstr "قسمت کسری"
+
+#: inc/elementor/widgets/testimonial.php:183
+msgid "Framed"
+msgstr "قاب دار"
+
+#: inc/elementor/widgets/banner-carousel.php:243
+msgid "Full"
+msgstr "کامل"
+
+#: inc/megamenu/includes/hook-functions.php:202
+msgid "Full Width"
+msgstr "عرض کامل"
+
+#: inc/elementor/widgets/image-gallery.php:143
+msgid "Gallery 1"
+msgstr "گالری 1"
+
+#: inc/class-customize.php:371
+msgid "Gallery Style"
+msgstr "سبک گالری"
+
+#: inc/class-customize.php:378
+msgid "Gallery Thumbnail"
+msgstr "تصویر بند انگشتی گالری"
+
+#: inc/elementor/widgets/pricing.php:1154
+msgid "Gap"
+msgstr "فاصله"
+
+#: inc/elementor/widgets/contactform.php:34 inc/elementor/widgets/video.php:40
+msgid "General"
+msgstr "عمومی"
+
+#: inc/cf7/class-cf7.php:143
+msgid "Generate a form-tag for a time input field"
+msgstr "تولید برچسب فرم برای فیلد ورودی زمان"
+
+#: inc/merlin-config.php:369
+msgid "Get Theme Support"
+msgstr "دریافت پشتیبانی قالب"
+
+#: inc/elementor/widgets/nav-menu.php:78 
+#: inc/elementor/widgets/vertical-menu.php:89
+msgid ""
+"Go to the <a href=\"%s\" target=\"_blank\">Menus screen</a> to create one."
+msgstr ""
+"به صفحه <a href=\"%s\" target=\"_blank\">ایجاد منو</a> بروید تا یک منو ایجاد "
+"کنید."
+
+#: inc/elementor/widgets/nav-menu.php:70 
+#: inc/elementor/widgets/vertical-menu.php:81
+msgid ""
+"Go to the <a href=\"%s\" target=\"_blank\">Menus screen</a> to manage your "
+"menus."
+msgstr ""
+"به صفحه <a href=\"%s\" target=\"_blank\">مدیریت منوها</a> بروید تا منوها را "
+"مدیریت کنید."
+
+#: inc/elementor/widgets/testimonial.php:114 inc/template-functions.php:1127
+msgid "Good"
+msgstr "خوب"
+
+#: inc/class-customize.php:531 inc/elementor/widgets/products.php:265
+msgid "Grid"
+msgstr "گرید"
+
+#: inc/class-customize.php:528
+msgid "Grid - List Layout"
+msgstr "طرح‌بندی گرید - لیست"
+
+#: inc/woocommerce/woocommerce-template-functions.php:1070
+msgid "Grid View"
+msgstr "مشاهده شبکه‌ای"
+
+#: inc/elementor/widgets/products-recently.php:102
+msgid "Gutter"
+msgstr "فاصله"
+
+#: inc/class-main.php:204
+msgid "Handheld Menu"
+msgstr "منو تلفن‌همراه"
+
+#: inc/elementor/widgets/pricing.php:43 inc/elementor/widgets/pricing.php:479
+msgid "Header"
+msgstr "هدر"
+
+#: inc/elementor/widgets/call-to-action.php:499
+msgid "Heading"
+msgstr "عنوان"
+
+#: inc/elementor/widgets/call-to-action.php:112
+msgid "Heading 1"
+msgstr "عنوان 1"
+
+#: inc/elementor/widgets/call-to-action.php:127 
+#: inc/elementor/widgets/call-to-action.php:573
+msgid "Heading 2"
+msgstr "عنوان 2"
+
+#: inc/elementor/widgets/call-to-action.php:841 
+#: inc/elementor/widgets/call-to-action.php:907
+msgid "Heading Color"
+msgstr "رنگ عنوان"
+
+#: inc/elementor/widgets/call-to-action.php:855 
+#: inc/elementor/widgets/call-to-action.php:921
+msgid "Heading2 Color"
+msgstr "رنگ عنوان2"
+
+#: inc/elementor/base_widgets.php:744 inc/elementor/widgets/brand.php:409 
+#: inc/elementor/widgets/call-to-action.php:289 
+#: inc/elementor/widgets/product-categories.php:204 
+#: inc/elementor/widgets/product-categories.php:281 
+#: inc/elementor/widgets/product-categories.php:551 
+#: inc/elementor/widgets/slide-scrolling.php:403 
+#: inc/elementor/widgets/testimonial.php:518 
+#: inc/elementor/widgets/video.php:318
+msgid "Height"
+msgstr "طول"
+
+#: inc/merlin-config.php:340
+msgid "Hi. Welcome back"
+msgstr "سلام. به دوباره خوش آمدید"
+
+#: inc/elementor/widgets/testimonial.php:110
+msgid "Hidden"
+msgstr "پنهان"
+
+#: inc/elementor/widgets/mailchimp.php:182
+msgid "Hidden form checkbox"
+msgstr "چک باکس پنهان فرم"
+
+#: inc/elementor/widgets/breadcrumb.php:190
+msgid "Hidden Title"
+msgstr "عنوان مخفی"
+
+#: inc/elementor/widgets/breadcrumb.php:199
+msgid "Hidden Title Single"
+msgstr "عنوان مخفی تکی"
+
+#: inc/elementor/widgets/countdown.php:80 
+#: inc/elementor/widgets/countdown.php:91 
+#: inc/elementor/widgets/countdown.php:102 
+#: inc/elementor/widgets/countdown.php:113 
+#: inc/elementor/widgets/countdown.php:124
+msgid "Hide"
+msgstr "مخفی"
+
+#: inc/class-tgm-plugin-activation.php:3594 
+#: inc/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr "مخفی‌کردن جزئیات"
+
+#: inc/merlin/includes/class-wc-widget-product-brands.php:78
+msgid "Hide empty brands"
+msgstr "مخفی کردن برندهای خالی"
+
+#: inc/woocommerce/woocommerce-template-functions.php:1086 
+#: inc/woocommerce/woocommerce-template-functions.php:1088
+msgid "Hide Filters"
+msgstr "مخفی کردن فیلترها"
+
+#: inc/megamenu/includes/hook-functions.php:46 
+#: inc/megamenu/includes/hook-functions.php:48
+msgid "History"
+msgstr "تاریخچه"
+
+#: inc/template-functions.php:1167
+msgid "Home"
+msgstr "خانه"
+
+#: inc/merlin/class-merlin.php:2026
+msgid "Home Page"
+msgstr "صفحه اصلی"
+
+#. Template Name of the plugin/theme
+msgid "Homepage"
+msgstr "صفحه اصلی"
+
+#: inc/elementor/widgets/call-to-action.php:327
+msgid "Horizontal Align"
+msgstr "تراز افقی"
+
+#: inc/elementor/widgets/testimonial.php:322
+msgid "Horizontal Left"
+msgstr "افقی چپ"
+
+#: inc/elementor/widgets/product-categories.php:653 
+#: inc/elementor/widgets/product-categories.php:812
+msgid "Horizontal Position"
+msgstr "موقعیت افقی"
+
+#: inc/elementor/widgets/testimonial.php:347
+msgid "Horizontal Right"
+msgstr "افقی راست"
+
+#: inc/elementor/widgets/countdown.php:88 
+#: inc/elementor/widgets/countdown.php:159 
+#: inc/elementor/widgets/countdown.php:161 
+#: inc/elementor/widgets/countdown.php:162
+msgid "Hours"
+msgstr "ساعت"
+
+#: inc/elementor/base_widgets.php:841 inc/elementor/base_widgets.php:1315 
+#: inc/elementor/custom-widgets/icon-box.php:216 
+#: inc/elementor/custom-widgets/image-box.php:428 
+#: inc/elementor/widgets/account.php:223 inc/elementor/widgets/brand.php:322 
+#: inc/elementor/widgets/call-to-action.php:900 
+#: inc/elementor/widgets/call-to-action.php:1100 
+#: inc/elementor/widgets/call-to-action.php:1329 
+#: inc/elementor/widgets/info-canvas.php:142 
+#: inc/elementor/widgets/language-switcher.php:143 
+#: inc/elementor/widgets/mailchimp.php:110 
+#: inc/elementor/widgets/mailchimp.php:447 
+#: inc/elementor/widgets/menu-canvas.php:94 
+#: inc/elementor/widgets/nav-menu.php:241 
+#: inc/elementor/widgets/pricing.php:1362 
+#: inc/elementor/widgets/product-categories.php:354 
+#: inc/elementor/widgets/product-categories.php:727 
+#: inc/elementor/widgets/product-categories.php:904 
+#: inc/elementor/widgets/slide-scrolling.php:328 
+#: inc/elementor/widgets/slide-scrolling.php:478 
+#: inc/elementor/widgets/team-box.php:452 
+#: inc/elementor/widgets/text-carousel.php:262 
+#: inc/elementor/widgets/vertical-menu.php:193 
+#: inc/elementor/widgets/video.php:182 inc/elementor/widgets/video.php:392
+msgid "Hover"
+msgstr "هاور"
+
+#: inc/elementor/custom-widgets/image-box.php:365 
+#: inc/elementor/widgets/call-to-action.php:1250
+msgid "Hover Animation"
+msgstr "انیمیشن هاور"
+
+#: inc/elementor/custom-widgets/icon-box.php:223
+msgid "Hover Border Color"
+msgstr "رنگ حاشیه هاور"
+
+#: inc/elementor/widgets/product-categories.php:733 
+#: inc/elementor/widgets/product-categories.php:910 
+#: inc/elementor/widgets/team-box.php:330
+msgid "Hover Color"
+msgstr "رنگ هاور"
+
+#: inc/elementor/widgets/call-to-action.php:1234
+msgid "Hover Effects"
+msgstr "افکت‌های هاور"
+
+#: inc/elementor/widgets/language-switcher.php:166
+msgid "Hover Right"
+msgstr "هاور راست"
+
+#: inc/elementor/widgets/countdown.php:574 
+#: inc/woocommerce/woocommerce-template-functions.php:1132
+msgid "Hrs"
+msgstr "ساعت"
+
+#: inc/elementor/widgets/breadcrumb.php:141 
+#: inc/elementor/widgets/heading.php:182
+msgid "HTML Tag"
+msgstr "تگ HTML"
+
+#. Theme URI of the plugin/theme
+msgid "http://demo2.themelexus.com/priotech/"
+msgstr "http://demo2.themelexus.com/priotech/"
+
+#. Author URI of the plugin/theme
+msgid "http://themelexus.com/"
+msgstr "https://arvanweb.com/"
+
+#: inc/elementor/widgets/team-box.php:185
+msgid "https://twitter.com/themelexus"
+msgstr "https://twitter.com/themelexus"
+
+#: inc/elementor/widgets/team-box.php:176
+msgid "https://www.facebook.com/themelexus"
+msgstr "https://www.facebook.com/themelexus"
+
+#: inc/elementor/widgets/team-box.php:195
+msgid "https://www.pinterest.com/"
+msgstr "https://www.pinterest.com/"
+
+#: inc/elementor/widgets/team-box.php:205
+msgid "https://www.youtube.com/"
+msgstr "https://www.youtube.com/"
+
+#: inc/elementor/custom-widgets/image-box.php:220 
+#: inc/elementor/widgets/banner-carousel.php:155 
+#: inc/elementor/widgets/banner-carousel.php:212 
+#: inc/elementor/widgets/brand.php:135 
+#: inc/elementor/widgets/call-to-action.php:245 
+#: inc/elementor/widgets/image-carousel.php:110 
+#: inc/elementor/widgets/pricing.php:340 
+#: inc/elementor/widgets/slide-scrolling.php:135 
+#: inc/elementor/widgets/team-box.php:167 
+#: inc/elementor/widgets/testimonial.php:161 
+#: inc/elementor/widgets/text-carousel.php:121 
+#: inc/elementor/widgets/video.php:51
+msgid "https://your-link.com"
+msgstr "https://your-link.com"
+
+#: inc/class-main.php:287
+msgid "Huge"
+msgstr "عظیم"
+
+#: inc/woocommerce/woocommerce-template-functions.php:1119
+msgid "Hurry up! Sale ends in:"
+msgstr "عجله کنید! زمان باقی مانده تا پایان تخفیف محصول:"
+
+#: inc/elementor/widgets/account.php:38 inc/elementor/widgets/account.php:61 
+#: inc/elementor/widgets/call-to-action.php:192 
+#: inc/elementor/widgets/header-group.php:73 
+#: inc/elementor/widgets/info-canvas.php:111 
+#: inc/elementor/widgets/menu-canvas.php:31 
+#: inc/elementor/widgets/nav-menu.php:217 
+#: inc/elementor/widgets/nav-menu.php:294 
+#: inc/elementor/widgets/nav-menu.php:360 
+#: inc/elementor/widgets/pricing.php:232 inc/elementor/widgets/pricing.php:299 
+#: inc/elementor/widgets/product-categories.php:146 
+#: inc/elementor/widgets/product-categories.php:681 
+#: inc/elementor/widgets/testimonial.php:98 
+#: inc/elementor/widgets/testimonial.php:835 
+#: inc/elementor/widgets/vertical-menu.php:354 
+#: inc/elementor/widgets/video.php:103 inc/elementor/widgets/video.php:266 
+#: inc/megamenu/includes/hook-functions.php:152
+msgid "Icon"
+msgstr "آیکون"
+
+#: inc/elementor/widgets/mailchimp.php:498
+msgid "Icon Border Color hover"
+msgstr "رنگ حاشیه آیکون هاور"
+
+#: inc/megamenu/includes/hook-functions.php:162
+msgid "Icon Class Name"
+msgstr "نام کلاس آیکون"
+
+#: inc/elementor/custom-widgets/button.php:81 
+#: inc/elementor/widgets/breadcrumb.php:64 
+#: inc/elementor/widgets/call-to-action.php:1084 
+#: inc/elementor/widgets/call-to-action.php:1151 
+#: inc/elementor/widgets/language-switcher.php:131 
+#: inc/elementor/widgets/mailchimp.php:423 
+#: inc/elementor/widgets/pricing.php:242 
+#: inc/elementor/widgets/pricing.php:1292 
+#: inc/elementor/widgets/pricing.php:1417 
+#: inc/elementor/widgets/vertical-menu.php:400 
+#: inc/megamenu/includes/hook-functions.php:166
+msgid "Icon Color"
+msgstr "رنگ آیکون"
+
+#: inc/elementor/custom-widgets/button.php:96 
+#: inc/elementor/widgets/vertical-menu.php:412
+msgid "Icon Color Hover"
+msgstr "رنگ آیکون در حالت هاور"
+
+#: inc/elementor/widgets/mailchimp.php:487
+msgid "Icon Color hover"
+msgstr "رنگ آیکون هاور"
+
+#: inc/elementor/widgets/search.php:151
+msgid "Icon Hover"
+msgstr "آیکون هاور"
+
+#: inc/elementor/widgets/call-to-action.php:205 
+#: inc/elementor/widgets/pricing.php:307 inc/elementor/widgets/video.php:116
+msgid "Icon Position"
+msgstr "موقعیت آیکون"
+
+#: inc/elementor/custom-widgets/accordion.php:106 
+#: inc/elementor/custom-widgets/button.php:61 
+#: inc/elementor/widgets/call-to-action.php:1024 
+#: inc/elementor/widgets/pricing.php:1339 
+#: inc/megamenu/includes/hook-functions.php:170
+msgid "Icon Size"
+msgstr "اندازه‌ی آیکون"
+
+#: inc/elementor/widgets/product-categories.php:689
+msgid "Icon size"
+msgstr "اندازه آیکون"
+
+#: inc/elementor/widgets/team-box.php:419
+msgid "Icon Social"
+msgstr "آیکون شبکه‌های اجتماعی"
+
+#: inc/elementor/widgets/testimonial.php:178
+msgid "Icon-view"
+msgstr "آیکون نمایش"
+
+#: inc/cf7/class-cf7.php:174
+msgid "Id attribute"
+msgstr "ویژگی Id"
+
+#: inc/elementor/custom-widgets/image-box.php:283 
+#: inc/elementor/widgets/image-carousel.php:78 
+#: inc/elementor/widgets/image-gallery.php:395 
+#: inc/elementor/widgets/product-categories.php:431 
+#: inc/elementor/widgets/slide-scrolling.php:259 
+#: inc/elementor/widgets/team-box.php:253 
+#: inc/elementor/widgets/testimonial.php:488 
+#: inc/woocommerce/class-woocommerce-brand.php:56 
+#: inc/woocommerce/class-woocommerce-brand.php:85
+msgid "Image"
+msgstr "تصویر"
+
+#: inc/elementor/widgets/product-categories.php:206
+msgid "Image Activate Last Child Height"
+msgstr "فعال‌سازی تصویر ارتفاع آخرین فرزند"
+
+#: inc/elementor/custom-widgets/image-box.php:122
+msgid "Image Box"
+msgstr "جعبه تصویر"
+
+#: inc/elementor/widgets/banner-carousel.php:81
+msgid "Image Carousel"
+msgstr "اسلایدر تصاویر"
+
+#: inc/elementor/widgets/image-gallery.php:106
+msgid "Image Gallery"
+msgstr "گالری تصاویر"
+
+#: inc/elementor/widgets/products.php:292
+msgid "Image Hover"
+msgstr "هاور تصویر"
+
+#: inc/elementor/custom-widgets/image-box.php:227
+msgid "Image Position"
+msgstr "موقعیت تصویر"
+
+#: inc/elementor/widgets/call-to-action.php:71
+msgid "Image Resolution"
+msgstr "وضوح تصویر"
+
+#: inc/elementor/widgets/image-carousel.php:245 
+#: inc/elementor/widgets/image-gallery.php:262
+msgid "Image Up Down"
+msgstr "تصویر بالا پایین"
+
+#: inc/elementor/widgets/banner-carousel.php:306 
+#: inc/elementor/widgets/banner-carousel.php:351
+msgid "Image Width"
+msgstr "عرض تصویر"
+
+#: inc/merlin-config.php:323
+msgid "Import"
+msgstr "وارد کردن"
+
+#: inc/merlin-config.php:358
+msgid "Import Content"
+msgstr "وارد کردن محتوا"
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:256
+msgid "Imported"
+msgstr "وارد شد"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:904
+#:  
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1822
+msgid "Imported \"%s\" (%s)"
+msgstr "وارد کردن \"%s\" (%s)"
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:260
+msgid "Imported to Inactive"
+msgstr "وارد شد به غیرفعال"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1614
+msgid "Imported user \"%s\""
+msgstr "کاربر \"%s\" وارد شد"
+
+#: inc/elementor/widgets/posts-grid.php:124 
+#: inc/elementor/widgets/products.php:178 
+#: inc/elementor/widgets/products.php:206
+msgid "IN"
+msgstr "در"
+
+#: inc/woocommerce/woocommerce-template-functions.php:737
+msgid "In Stock"
+msgstr "موجود در انبار"
+
+#: inc/class-customize.php:331
+#, fuzzy
+#| msgid "Infinite Scroll"
+msgid "Infinit Scroll"
+msgstr "اسکرول بی‌پایان"
+
+#: inc/elementor/base_widgets.php:603
+msgid "Infinite Loop"
+msgstr "حلقه بی‌نهایت"
+
+#: inc/elementor/custom-widgets/button.php:16
+msgid "Info"
+msgstr "اطلاعات"
+
+#: inc/elementor/widgets/info-canvas.php:63
+msgid "Info Page"
+msgstr "صفحه اطلاعات"
+
+#: inc/elementor/widgets/banner-carousel.php:262
+msgid "Inline Title"
+msgstr "عنوان درون‌خطی"
+
+#: inc/elementor/widgets/mailchimp.php:194
+msgid "Input"
+msgstr "ورودی"
+
+#: inc/merlin/includes/class-custom-shapes.php:132
+msgid "Insert into item"
+msgstr "درج در مورد"
+
+#: inc/cf7/class-cf7.php:191
+msgid "Insert Tag"
+msgstr "وارد کردن تگ"
+
+#: inc/elementor/base_widgets.php:1168
+msgid "Inside"
+msgstr "درون‌پوش"
+
+#: inc/class-tgm-plugin-activation.php:2802 inc/merlin-config.php:320 
+#: inc/merlin-config.php:321 inc/merlin-config.php:322
+msgid "Install"
+msgstr "نصب"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2688
+msgid "Install %2$s"
+msgstr "نصب %2$s"
+
+#: inc/merlin-config.php:344
+msgid "Install Child Theme"
+msgstr "نصب پوسته فرزند"
+
+#: inc/merlin/class-merlin.php:2027
+msgid "Install homepage xml."
+msgstr "نصب فایل XML صفحه اصلی."
+
+#: inc/class-tgm-plugin-activation.php:335 inc/merlin-config.php:352
+msgid "Install Plugins"
+msgstr "نصب افزونه‌ها"
+
+#: inc/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "نصب افزونه‌های ضروری"
+
+#. translators: 1: install status, 2: update status
+#: inc/class-tgm-plugin-activation.php:2427
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s، %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr "نصب شده اما فعال نشده"
+
+#: inc/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr "نسخه نصب‌شده:"
+
+#: inc/merlin/class-merlin.php:1757 inc/merlin/class-merlin.php:1773 
+#: inc/merlin/class-merlin.php:1990 inc/merlin/class-merlin.php:2003 
+#: inc/merlin/class-merlin.php:2016 inc/merlin/class-merlin.php:2029 
+#: inc/merlin/class-merlin.php:2042 inc/merlin/class-merlin.php:2055 
+#: inc/merlin/class-merlin.php:2100
+msgid "Installing"
+msgstr "درحال نصب"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3597
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "در حال نصب و فعال‌سازی افزونه %1$s (%2$d از %3$d)"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3605
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "در حال نصب افزونه %1$s (%2$d از %3$d)"
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:337
+msgid "Installing Plugin: %s"
+msgstr "در حال نصب افزونه: %s"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:577
+msgid "Invalid author mapping"
+msgstr "نقشه‌برداری نویسنده نامعتبر است"
+
+#: inc/merlin/class-merlin.php:1814
+msgid "Invalid content!"
+msgstr "محتوای نامعتبر!"
+
+#: inc/merlin/class-merlin.php:1897
+msgid "Invalid data!"
+msgstr "داده‌های نامعتبر!"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1094
+msgid "Invalid file type"
+msgstr "نوع فایل نامعتبر است"
+
+#: inc/elementor/class-section-parallax.php:153
+msgid "iOS Support"
+msgstr "پشتیبانی از iOS"
+
+#: content-none.php:23
+#, fuzzy
+#| msgid ""
+#| "It seems we can't find what you're looking for. Perhaps searching can help."
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"به نظر می‌آید که نمی‌توانیم چیزی که به دنبال آن هستید پیدا کنیم. شاید جستجو "
+"کردن کمک کند."
+
+#: inc/elementor/widgets/slide-scrolling.php:230
+msgid "Item"
+msgstr "مورد"
+
+#: inc/merlin/includes/class-custom-shapes.php:114
+msgid "Item Archives"
+msgstr "آرشیو موارد"
+
+#: inc/merlin/includes/class-custom-shapes.php:115
+msgid "Item Attributes"
+msgstr "ویژگی‌های مورد"
+
+#: inc/elementor/widgets/banner-carousel.php:228 
+#: inc/elementor/widgets/brand.php:142 
+#: inc/elementor/widgets/image-carousel.php:130 
+#: inc/elementor/widgets/product-categories.php:168 
+#: inc/elementor/widgets/slide-scrolling.php:96 
+#: inc/elementor/widgets/slide-scrolling.php:142 
+#: inc/elementor/widgets/testimonial.php:169 
+#: inc/elementor/widgets/text-carousel.php:128
+msgid "Items"
+msgstr "آیتم‌ها"
+
+#: inc/elementor/widgets/countdown.php:263
+msgid "Items Height"
+msgstr "ارتفاع آیتم‌ها"
+
+#: inc/merlin/includes/class-custom-shapes.php:134
+msgid "Items list"
+msgstr "لیست موارد"
+
+#: inc/merlin/includes/class-custom-shapes.php:135
+msgid "Items list navigation"
+msgstr "ناوبری لیست موارد"
+
+#: inc/elementor/widgets/countdown.php:240
+msgid "Items Width"
+msgstr "عرض آیتم‌ها"
+
+#: inc/woocommerce/woocommerce-template-functions.php:1057
+msgctxt "items wishlist"
+msgid "Item"
+msgid_plural "Items"
+msgstr[0] "مورد"
+msgstr[1] "موارد"
+
+#: inc/elementor/widgets/team-box.php:134 
+#: inc/elementor/widgets/team-box.php:371 
+#: inc/elementor/widgets/testimonial.php:756
+msgid "Job"
+msgstr "شغل"
+
+#: inc/elementor/custom-widgets/image-box.php:491 
+#: inc/elementor/widgets/call-to-action.php:472 
+#: inc/elementor/widgets/heading.php:218
+msgid "Justified"
+msgstr "متناسب"
+
+#: inc/elementor/widgets/countdown.php:508
+msgid "Label"
+msgstr "برچسب"
+
+#: inc/elementor/widgets/language-switcher.php:109
+msgid "Label Color"
+msgstr "رنگ برچسب"
+
+#: inc/elementor/widgets/language-switcher.php:54
+msgid "Language Switcher"
+msgstr "انتخاب زبان"
+
+#: inc/class-main.php:282 inc/elementor/widgets/heading.php:172 
+#: inc/elementor/widgets/pricing.php:1231
+msgid "Large"
+msgstr "بزرگ"
+
+#: inc/merlin-config.php:325
+msgid "Later"
+msgstr "بعداً"
+
+#: inc/elementor/custom-widgets/accordion.php:29 
+#: inc/elementor/widgets/image-gallery.php:155 
+#: inc/elementor/widgets/image-gallery.php:163 
+#: inc/elementor/widgets/language-switcher.php:86 
+#: inc/elementor/widgets/mailchimp.php:62 
+#: inc/elementor/widgets/nav-menu.php:56 
+#: inc/elementor/widgets/posts-grid.php:136 
+#: inc/elementor/widgets/team-box.php:152 
+#: inc/elementor/widgets/testimonial.php:217 
+#: inc/elementor/widgets/vertical-menu.php:124
+msgid "Layout"
+msgstr "طرح"
+
+#: inc/class-customize.php:548 inc/elementor/custom-widgets/accordion.php:33 
+#: inc/elementor/widgets/mailchimp.php:66 
+#: inc/elementor/widgets/menu-canvas.php:42 inc/elementor/widgets/search.php:41
+msgid "Layout 1"
+msgstr "طرح 1"
+
+#: inc/class-customize.php:549 inc/elementor/custom-widgets/accordion.php:34 
+#: inc/elementor/widgets/mailchimp.php:67 
+#: inc/elementor/widgets/menu-canvas.php:43 inc/elementor/widgets/search.php:42
+msgid "Layout 2"
+msgstr "طرح 2"
+
+#: inc/class-customize.php:550 inc/elementor/custom-widgets/accordion.php:35 
+#: inc/elementor/widgets/search.php:43
+msgid "Layout 3"
+msgstr "طرح 3"
+
+#: inc/class-customize.php:551
+msgid "Layout 4"
+msgstr "طرح 4"
+
+#: inc/class-customize.php:291 inc/elementor/widgets/menu-canvas.php:39 
+#: inc/elementor/widgets/search.php:38
+msgid "Layout Style"
+msgstr "سبک طرح‌بندی"
+
+#: inc/elementor/base_widgets.php:530
+msgid "Lazyload"
+msgstr "بارگیری تنبل"
+
+#: inc/merlin-config.php:348
+msgid "Learn about child themes"
+msgstr "آموزش درباره پوسته‌های فرزند"
+
+#: comments.php:12
+msgid "Leave A Comment"
+msgstr "یک دیدگاه بگذارید"
+
+#: inc/class-customize.php:110 inc/class-customize.php:224 
+#: inc/class-customize.php:312 inc/elementor/base_widgets.php:649 
+#: inc/elementor/base_widgets.php:965 inc/elementor/base_widgets.php:1087 
+#: inc/elementor/base_widgets.php:1429 inc/elementor/base_widgets.php:1634 
+#: inc/elementor/custom-widgets/counter.php:13 
+#: inc/elementor/custom-widgets/icon-box.php:50 
+#: inc/elementor/custom-widgets/image-box.php:232 
+#: inc/elementor/custom-widgets/image-box.php:479 
+#: inc/elementor/widgets/banner-carousel.php:445 
+#: inc/elementor/widgets/banner-carousel.php:547 
+#: inc/elementor/widgets/brand.php:176 
+#: inc/elementor/widgets/breadcrumb.php:119 
+#: inc/elementor/widgets/call-to-action.php:331 
+#: inc/elementor/widgets/call-to-action.php:460 
+#: inc/elementor/widgets/contactform.php:74 
+#: inc/elementor/widgets/countdown.php:347 
+#: inc/elementor/widgets/countdown.php:392 
+#: inc/elementor/widgets/heading.php:206 
+#: inc/elementor/widgets/image-gallery.php:373 
+#: inc/elementor/widgets/info-canvas.php:76 
+#: inc/elementor/widgets/mailchimp.php:369 
+#: inc/elementor/widgets/nav-menu.php:103 
+#: inc/elementor/widgets/pricing.php:404 
+#: inc/elementor/widgets/pricing.php:1025 
+#: inc/elementor/widgets/product-categories.php:657 
+#: inc/elementor/widgets/product-categories.php:762 
+#: inc/elementor/widgets/product-categories.php:816 
+#: inc/elementor/widgets/slide-scrolling.php:176 
+#: inc/elementor/widgets/testimonial.php:414 
+#: inc/elementor/widgets/testimonial.php:439 
+#: inc/elementor/widgets/text-carousel.php:151 
+#: inc/elementor/widgets/video.php:81
+msgid "Left"
+msgstr "چپ"
+
+#: inc/class-customize.php:375
+msgid "Left Thumbnail"
+msgstr "تصویر بند انگشتی چپ"
+
+#: inc/class-customize.php:570 inc/elementor/widgets/products.php:300
+msgid "Left to Right"
+msgstr "چپ به راست"
+
+#: inc/merlin-config.php:346
+msgid ""
+"Let's build & activate a child theme so you may easily make theme changes."
+msgstr ""
+"بیایید یک پوسته فرزند بسازیم و فعال کنیم تا به راحتی تغییرات پوسته انجام "
+"دهید."
+
+#: inc/merlin-config.php:359
+msgid ""
+"Let's import content to your website, to help you get familiar with the "
+"theme."
+msgstr "بیایید محتوا را به وب‌سایت شما وارد کنیم تا شما با قالب آشنا شوید."
+
+#: inc/merlin-config.php:354
+msgid ""
+"Let's install some essential WordPress plugins to get your site up to speed."
+msgstr ""
+"بیایید چند پلاگین ضروری وردپرس را نصب کنیم تا وب‌سایت شما به سرعت آماده شود."
+
+#: inc/merlin/class-merlin.php:725
+msgid "License"
+msgstr "لایسنس"
+
+#: inc/merlin-config.php:333
+msgid "License key"
+msgstr "کلید لایسنس"
+
+#: inc/elementor/widgets/nav-menu.php:283 
+#: inc/elementor/widgets/nav-menu.php:349
+msgid "Line Color"
+msgstr "رنگ خط"
+
+#: inc/elementor/custom-widgets/icon-list.php:43 
+#: inc/elementor/custom-widgets/icon.php:24
+msgid "Line Height"
+msgstr "ارتفاع خط"
+
+#: inc/elementor/custom-widgets/button.php:20 
+#: inc/elementor/custom-widgets/image-box.php:215 
+#: inc/elementor/widgets/call-to-action.php:237 
+#: inc/elementor/widgets/heading.php:150 inc/elementor/widgets/pricing.php:338
+msgid "Link"
+msgstr "لینک"
+
+#: inc/elementor/widgets/breadcrumb.php:75
+msgid "Link Color"
+msgstr "رنگ لینک"
+
+#: inc/elementor/widgets/breadcrumb.php:86
+msgid "Link Hover"
+msgstr "هوور لینک"
+
+#: inc/elementor/widgets/banner-carousel.php:154 
+#: inc/elementor/widgets/brand.php:130 
+#: inc/elementor/widgets/image-carousel.php:109 
+#: inc/elementor/widgets/slide-scrolling.php:130 
+#: inc/elementor/widgets/team-box.php:166 
+#: inc/elementor/widgets/testimonial.php:160 
+#: inc/elementor/widgets/text-carousel.php:116 
+#: inc/elementor/widgets/video.php:48
+msgid "Link to"
+msgstr "پیوند به"
+
+#: inc/class-customize.php:532 inc/elementor/widgets/products.php:266
+msgid "List"
+msgstr "لیست"
+
+#: inc/elementor/widgets/image-gallery.php:118 
+#: inc/elementor/widgets/image-gallery.php:119 
+#: inc/elementor/widgets/pricing.php:220
+msgid "List Item"
+msgstr "آیتم لیست"
+
+#: inc/elementor/widgets/pricing.php:258
+msgid "List Item #1"
+msgstr "مورد فهرست #1"
+
+#: inc/elementor/widgets/pricing.php:262
+msgid "List Item #2"
+msgstr "مورد فهرست #2"
+
+#: inc/elementor/widgets/pricing.php:266
+msgid "List Item #3"
+msgstr "مورد فهرست #3"
+
+#: inc/elementor/widgets/products.php:315
+msgid "List Layout"
+msgstr "طرح بندی لیست"
+
+#: inc/woocommerce/woocommerce-template-functions.php:1073
+msgid "List View"
+msgstr "مشاهده لیستی"
+
+#: inc/class-customize.php:330
+msgid "Load More"
+msgstr "بارگذاری بیشتر"
+
+#: woocommerce/loop/pagination.php:33
+msgid "Load more"
+msgstr "بارگذاری بیشتر"
+
+#: woocommerce/loop/pagination.php:35
+msgid "Loading..."
+msgstr "در حال بارگذاری..."
+
+#: woocommerce/myaccount/form-login.php:57
+msgid "Log in"
+msgstr "ورود"
+
+#: inc/template-functions.php:865
+msgid "Log Out"
+msgstr "خروج"
+
+#: inc/template-functions.php:864
+msgid "Log out"
+msgstr "خروج"
+
+#: inc/template-functions.php:810 woocommerce/myaccount/form-login.php:36
+msgid "Login"
+msgstr "ورود"
+
+#: inc/woocommerce/class-woocommerce.php:93
+msgid "Logout"
+msgstr "خروج"
+
+#: inc/elementor/widgets/call-to-action.php:147
+msgid "Lorem ipsum dolor sit amet consectetur adipiscing elit dolor"
+msgstr "لورم ایپسوم دلور سیت آمت کونسکتور آدیپیسینگ ایلیت دلور"
+
+#: inc/elementor/custom-widgets/image-box.php:185
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, "
+"luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+"لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از "
+"طراحان گرافیک است."
+
+#: inc/template-functions.php:816 woocommerce/myaccount/form-login.php:54
+msgid "Lost your password?"
+msgstr "رمز عبور خود را فراموش کرده‌اید؟"
+
+#: inc/elementor/widgets/mailchimp.php:25
+msgid "MailChimp Sign-Up Form"
+msgstr "فرم عضویت MailChimp"
+
+#: inc/elementor/base_widgets.php:147 
+#: inc/elementor/custom-widgets/accordion.php:17 
+#: inc/elementor/custom-widgets/accordion.php:66 
+#: inc/elementor/custom-widgets/accordion.php:92 
+#: inc/elementor/custom-widgets/social-icons.php:9 
+#: inc/elementor/widgets/banner-carousel.php:578 
+#: inc/elementor/widgets/banner-carousel.php:650 
+#: inc/elementor/widgets/banner-carousel.php:722 
+#: inc/elementor/widgets/brand.php:249 
+#: inc/elementor/widgets/breadcrumb.php:208 
+#: inc/elementor/widgets/call-to-action.php:772 
+#: inc/elementor/widgets/call-to-action.php:1210 
+#: inc/elementor/widgets/countdown.php:308 
+#: inc/elementor/widgets/countdown.php:425 
+#: inc/elementor/widgets/countdown.php:492 
+#: inc/elementor/widgets/image-carousel.php:219 
+#: inc/elementor/widgets/mailchimp.php:326 
+#: inc/elementor/widgets/nav-menu.php:155 
+#: inc/elementor/widgets/pricing.php:1479 
+#: inc/elementor/widgets/product-categories.php:269 
+#: inc/elementor/widgets/product-categories.php:615 
+#: inc/elementor/widgets/product-categories.php:860 
+#: inc/elementor/widgets/product-categories.php:943 
+#: inc/elementor/widgets/products.php:410 
+#: inc/elementor/widgets/slide-scrolling.php:279 
+#: inc/elementor/widgets/team-box.php:237 
+#: inc/elementor/widgets/team-box.php:294 
+#: inc/elementor/widgets/testimonial.php:299 
+#: inc/elementor/widgets/testimonial.php:564 
+#: inc/elementor/widgets/testimonial.php:679 
+#: inc/elementor/widgets/testimonial.php:820 
+#: inc/elementor/widgets/testimonial.php:885 
+#: inc/elementor/widgets/text-carousel.php:195 
+#: inc/elementor/widgets/vertical-menu.php:342 
+#: inc/elementor/widgets/video.php:251 inc/elementor/widgets/video.php:503
+msgid "Margin"
+msgstr "مارجین (فاصله داخلی)"
+
+#: inc/elementor/widgets/image-gallery.php:168
+msgid "Masonry"
+msgstr "ماسونری"
+
+#: woocommerce/content-widget-price-filter.php:29 
+#: woocommerce/content-widget-price-filter.php:30
+msgid "Max price"
+msgstr "بیشترین قیمت"
+
+#: inc/elementor/widgets/product-categories.php:480
+msgid "Max Width"
+msgstr "حداکثر عرض"
+
+#: inc/merlin/includes/class-wc-widget-product-brands.php:83
+msgid "Maximum depth"
+msgstr "حداکثر عمق"
+
+#: inc/class-main.php:277 inc/elementor/widgets/heading.php:171 
+#: inc/elementor/widgets/pricing.php:1230
+msgid "Medium"
+msgstr "متوسط"
+
+#: inc/megamenu/includes/hook-functions.php:188
+msgid "Mega Submenu Enabled"
+msgstr "زیرمنوی مگا فعال شود"
+
+#: inc/elementor/widgets/nav-menu.php:64 inc/elementor/widgets/nav-menu.php:90 
+#: inc/elementor/widgets/vertical-menu.php:75 
+#: inc/elementor/widgets/vertical-menu.php:116 inc/template-functions.php:949
+msgid "Menu"
+msgstr "منو"
+
+#: inc/elementor/widgets/vertical-menu.php:99
+msgid "Menu Layout"
+msgstr "طرح بندی منو"
+
+#: inc/elementor/widgets/posts-grid.php:86 
+#: inc/elementor/widgets/products.php:137
+msgid "Menu Order"
+msgstr "ترتیب منو"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1895
+msgid "Meta for term_id %d : %s => %s ; successfully added!"
+msgstr "متا برای شناسه اصطلاح %d: %s => %s؛ با موفقیت اضافه شد!"
+
+#: inc/elementor/custom-widgets/icon-box.php:78 
+#: inc/elementor/custom-widgets/image-box.php:512 
+#: inc/elementor/widgets/banner-carousel.php:418 
+#: inc/elementor/widgets/banner-carousel.php:516 
+#: inc/elementor/widgets/call-to-action.php:361 
+#: inc/elementor/widgets/pricing.php:693 inc/elementor/widgets/pricing.php:753 
+#: inc/elementor/widgets/pricing.php:830 
+#: inc/elementor/widgets/product-categories.php:635 
+#: inc/elementor/widgets/product-categories.php:793
+msgid "Middle"
+msgstr "وسط"
+
+#: woocommerce/content-widget-price-filter.php:27 
+#: woocommerce/content-widget-price-filter.php:28
+msgid "Min price"
+msgstr "کمترین قیمت"
+
+#: inc/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr "حداقل نسخه مورد نیاز:"
+
+#: inc/elementor/widgets/countdown.php:575 
+#: inc/woocommerce/woocommerce-template-functions.php:1136
+msgid "Mins"
+msgstr "دقیقه"
+
+#: inc/elementor/widgets/countdown.php:99 
+#: inc/elementor/widgets/countdown.php:174 
+#: inc/elementor/widgets/countdown.php:176 
+#: inc/elementor/widgets/countdown.php:177
+msgid "Minutes"
+msgstr "دقیقه"
+
+#: inc/merlin/includes/class-merlin-downloader.php:66
+msgid "Missing URL for downloading a file!"
+msgstr "آدرس URL برای بارگیری پرونده یافت نشد!"
+
+#: inc/template-functions.php:227 inc/template-functions.php:238
+msgid "Mobile Navigation"
+msgstr "ناوبری موبایل"
+
+#: inc/elementor/widgets/pricing.php:200
+msgid "Monthly"
+msgstr "ماهانه"
+
+#: inc/elementor/widgets/countdown.php:571
+msgid "Months"
+msgstr "ماه‌ها"
+
+#: inc/woocommerce/woocommerce-template-functions.php:594
+msgid "More products"
+msgstr "محصولات بیشتر"
+
+#: inc/woocommerce/class-woocommerce.php:100
+msgid "My Account"
+msgstr "حساب کاربری من"
+
+#: inc/template-functions.php:839
+msgid "My account"
+msgstr "حساب کاربری من"
+
+#: inc/woocommerce/woocommerce-template-functions.php:810 
+#: woocommerce/single-product/meta.php:23 
+#: woocommerce/single-product/rating.php:45
+msgid "N/A"
+msgstr "نامشخص"
+
+#: inc/cf7/class-cf7.php:163 inc/elementor/widgets/team-box.php:143 
+#: inc/elementor/widgets/team-box.php:309 
+#: inc/elementor/widgets/testimonial.php:133 
+#: inc/elementor/widgets/testimonial.php:695 inc/template-functions.php:1098
+msgid "Name"
+msgstr "نام"
+
+#: inc/elementor/widgets/vertical-menu.php:103
+msgid "Navbar"
+msgstr "نوار پیمایش"
+
+#: inc/elementor/base_widgets.php:243 inc/elementor/base_widgets.php:671
+msgid "Navigation"
+msgstr "پیمایش"
+
+#: inc/megamenu/includes/hook-functions.php:34 
+#: inc/megamenu/includes/hook-functions.php:37
+msgid "Navigator"
+msgstr "ناوبری"
+
+#: inc/merlin-config.php:336
+msgid "Need help?"
+msgstr "نیاز به کمک دارید؟"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:504
+msgid "New AJAX call!"
+msgstr "تماس جدید AJAX!"
+
+#: inc/merlin/includes/class-wc-widget-product-brands.php:266
+msgid "New Brand Name"
+msgstr "نام جدید برند"
+
+#: inc/merlin/includes/breadcrumb.php:59
+msgid "New Header Footer & Blocks Template"
+msgstr "قالب نوشته‌های سربرگ، پاورقی و بلوک‌های جدید"
+
+#: inc/merlin/includes/class-custom-shapes.php:120
+msgid "New Item"
+msgstr "مورد جدید"
+
+#: inc/woocommerce/woocommerce-template-functions.php:877
+msgid "New!"
+msgstr "جدید!"
+
+#: comments.php:32 comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr "دیدگاه‌های جدیدتر &rarr;"
+
+#: inc/elementor/widgets/products.php:222
+msgid "Newest Products"
+msgstr "جدیدترین محصولات"
+
+#: inc/elementor/base_widgets.php:1473 inc/elementor/base_widgets.php:1517 
+#: inc/merlin-config.php:317 inc/template-functions.php:585 
+#: inc/woocommerce/woocommerce-template-functions.php:613 
+#: woocommerce/cart/cross-sells.php:66 woocommerce/loop/pagination.php:55 
+#: woocommerce/single-product/related.php:94 
+#: woocommerce/single-product/up-sells.php:71
+msgid "Next"
+msgstr "بعدی"
+
+#: inc/elementor/base_widgets.php:1617
+msgid "Next &raquo;"
+msgstr "بعدی &raquo;"
+
+#: inc/elementor/base_widgets.php:441
+msgid "Next Arrow Icon"
+msgstr "آیکون فلش بعدی"
+
+#: inc/elementor/base_widgets.php:894
+msgid "Next button"
+msgstr "دکمه بعدی"
+
+#: inc/elementor/base_widgets.php:960
+msgid "Next Horizontal"
+msgstr "بعدی (افقی)"
+
+#: inc/elementor/base_widgets.php:1616
+msgid "Next Label"
+msgstr "برچسب بعدی"
+
+#: inc/template-functions.php:613
+msgid "Next Post"
+msgstr "نوشته بعدی"
+
+#: inc/elementor/base_widgets.php:906
+msgid "Next Vertical"
+msgstr "بعدی (عمودی)"
+
+#: inc/elementor/base_widgets.php:544 inc/elementor/base_widgets.php:558 
+#: inc/elementor/base_widgets.php:576 inc/elementor/base_widgets.php:608 
+#: inc/megamenu/includes/hook-functions.php:191 
+#: inc/megamenu/includes/hook-functions.php:217
+msgid "No"
+msgstr "خیر"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:397
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "هیچ اقدامی انجام نشد. افزونه %1$s از پیش فعال بود."
+
+#: inc/elementor/widgets/contactform.php:45
+msgid "No contact forms found"
+msgstr "فرم‌های تماسی یافت نشد"
+
+#: inc/elementor/widgets/info-canvas.php:176
+msgid "No Content"
+msgstr "بدون محتوا"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2258
+msgid "No data returned by get_term_by for term_id #%d"
+msgstr "هیچ داده‌ای با گرفتن اصطلاح با شناسه‌ی #%d برگشت داده نشد"
+
+#: inc/merlin/includes/breadcrumb.php:66
+msgid "No Header Footer & Blocks Templates found in Trash."
+msgstr "هیچ قالب‌های نوشته‌های سربرگ، پاورقی و بلوک‌ها در زباله دان یافت نشد."
+
+#: inc/merlin/includes/breadcrumb.php:65
+msgid "No Header Footer & Blocks Templates found."
+msgstr "هیچ قالب‌های نوشته‌های سربرگ، پاورقی و بلوک‌ها یافت نشد."
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2236
+msgid "No parent_slug identified in remapping-array for term: %d"
+msgstr ""
+"هیچ نام اصلی پدر در آرایه‌ی نقشه‌برداری برای اصطلاح: %d شناسایی نشده است"
+
+#: inc/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr "هیچ افزونه‌ای برای فعال‌سازی در حال حاضر موجود نیست."
+
+#: inc/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr "هیچ افزونه‌ای برای نصب در حال حاضر موجود نیست."
+
+#: inc/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr "هیچ افزونه‌ای برای بروزرسانی در حال حاضر موجود نیست."
+
+#: inc/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr "هیچ افزونه‌ای برای نصب، بروزرسانی یا فعال‌سازی وجود ندارد."
+
+#: inc/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "هیچ افزونه‌ای برای فعال‌سازی انتخاب نشد. هیچ اقدامی انجام نشد."
+
+#: inc/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "هیچ افزونه‌ای برای نصب انتخاب نشد. هیچ اقدامی انجام نشد."
+
+#: inc/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "هیچ افزونه‌ای برای بروزرسانی انتخاب نشد. هیچ اقدامی انجام نشد."
+
+#: inc/merlin/includes/class-wc-widget-product-brands.php:238
+msgid "No product brands exist."
+msgstr "هیچ برند محصولی وجود ندارد."
+
+#: woocommerce/cart/mini-cart.php:91
+msgid "No products in the cart."
+msgstr "هیچ محصولی در سبد خرید نیست."
+
+#: inc/woocommerce/woocommerce-functions.php:308
+msgid "No results"
+msgstr "بدون نتیجه"
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:328
+msgid "No results for widget import!"
+msgstr "نتیجه‌ای برای وارد کردن ابزارک یافت نشد!"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2226
+msgid "No taxonomy provided in terms-to-be-remapped array for term #%d"
+msgstr ""
+"هیچ طبقه‌بندی‌ای در آرایه‌ی اصطلاح‌های قابل نقشه‌برداری برای اصطلاح #%d "
+"ارائه نشده است"
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:266
+msgid "No Title"
+msgstr "بدون عنوان"
+
+#: inc/megamenu/includes/hook-functions.php:154
+msgid "No Use"
+msgstr "بدون استفاده"
+
+#: inc/class-customize.php:109 inc/class-customize.php:223 
+#: inc/class-customize.php:494 inc/class-customize.php:566 
+#: inc/elementor/base_widgets.php:228 inc/elementor/base_widgets.php:250 
+#: inc/elementor/base_widgets.php:1565 
+#: inc/elementor/class-section-sticky.php:51 
+#: inc/elementor/widgets/pricing.php:102 
+#: inc/elementor/widgets/pricing.php:1076 
+#: inc/elementor/widgets/products.php:252 
+#: inc/elementor/widgets/products.php:296
+msgid "None"
+msgstr "هیچ"
+
+#: inc/class-main.php:272 inc/elementor/base_widgets.php:804 
+#: inc/elementor/base_widgets.php:1276 
+#: inc/elementor/custom-widgets/icon-box.php:192 
+#: inc/elementor/custom-widgets/image-box.php:374 
+#: inc/elementor/widgets/account.php:189 inc/elementor/widgets/brand.php:287 
+#: inc/elementor/widgets/call-to-action.php:834 
+#: inc/elementor/widgets/call-to-action.php:1045 
+#: inc/elementor/widgets/call-to-action.php:1270 
+#: inc/elementor/widgets/call-to-action.php:1304 
+#: inc/elementor/widgets/heading.php:309 
+#: inc/elementor/widgets/info-canvas.php:120 
+#: inc/elementor/widgets/language-switcher.php:102 
+#: inc/elementor/widgets/mailchimp.php:90 
+#: inc/elementor/widgets/mailchimp.php:203 
+#: inc/elementor/widgets/mailchimp.php:394 
+#: inc/elementor/widgets/menu-canvas.php:71 
+#: inc/elementor/widgets/nav-menu.php:178 
+#: inc/elementor/widgets/pricing.php:1245 
+#: inc/elementor/widgets/product-categories.php:316 
+#: inc/elementor/widgets/product-categories.php:708 
+#: inc/elementor/widgets/product-categories.php:885 
+#: inc/elementor/widgets/slide-scrolling.php:293 
+#: inc/elementor/widgets/slide-scrolling.php:455 
+#: inc/elementor/widgets/team-box.php:429 
+#: inc/elementor/widgets/text-carousel.php:233 
+#: inc/elementor/widgets/vertical-menu.php:151 
+#: inc/elementor/widgets/video.php:162 inc/elementor/widgets/video.php:352
+msgid "Normal"
+msgstr "معمولی"
+
+#: inc/merlin/includes/class-custom-shapes.php:126
+msgid "Not found"
+msgstr "پیدا نشد"
+
+#: inc/merlin/includes/class-custom-shapes.php:127
+msgid "Not found in Trash"
+msgstr "در زباله دان پیدا نشد"
+
+#: inc/elementor/widgets/posts-grid.php:125 
+#: inc/elementor/widgets/products.php:179 
+#: inc/elementor/widgets/products.php:207
+msgid "NOT IN"
+msgstr "نیست در"
+
+#: inc/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr "نصب نشده"
+
+#: inc/elementor/widgets/testimonial.php:112 inc/template-functions.php:1129
+msgid "Not that bad"
+msgstr "نه خیلی بد"
+
+#: content-none.php:3
+msgid "Nothing Found"
+msgstr "چیزی یافت نشد"
+
+#: inc/elementor/class-section-parallax.php:57
+msgid ""
+"NOTICE: Please note that using both Parallax & Particles together on the "
+"same section may have side effects - use with care!"
+msgstr ""
+"توجه: لطفاً توجه داشته باشید که استفاده همزمان از افکت پارالاکس و ذرات "
+"(پارتیکل) در یک بخش ممکن است عواقب جانبی داشته باشد - با دقت استفاده کنید!"
+
+#: inc/elementor/class-section-parallax.php:99
+msgid ""
+"NOTICE: Speed has some caveats - the higher the speed the greater the zoom "
+"on the image. Negative speed values will also switch the direction of the "
+"movement on scroll!"
+msgstr ""
+"توجه: سرعت تعدادی محدودیت دارد - هر چه سرعت بیشتر باشد، بزرگتر زوم روی تصویر "
+"خواهد بود. مقادیر منفی سرعت همچنین جهت حرکت در اسکرول را تغییر می‌دهند!"
+
+#: inc/elementor/class-section-parallax.php:124
+msgid ""
+"NOTICE: These options are untested and I would love to hear your feedback on "
+"them once you have tried them!"
+msgstr ""
+"توجه: این گزینه‌ها تست نشده‌اند و دوست دارم نظر شما را در مورد آن‌ها بشنوم "
+"وقتی که از آن‌ها استفاده کرده‌اید!"
+
+#: inc/elementor/widgets/products.php:138
+msgid "Number of purchases"
+msgstr "تعداد خریدها"
+
+#: inc/elementor/base_widgets.php:1566 inc/elementor/base_widgets.php:1568
+msgid "Numbers"
+msgstr "شماره‌ها"
+
+#: inc/elementor/widgets/product-categories.php:583
+msgid "Object Fit"
+msgstr "متناسب با شیء"
+
+#: inc/woocommerce/woocommerce-template-functions.php:856
+msgid "OFF"
+msgstr "تخفیف"
+
+#: inc/elementor/widgets/image-gallery.php:179 
+#: inc/elementor/widgets/pricing.php:167 inc/elementor/widgets/video.php:134
+msgid "Off"
+msgstr "خاموش"
+
+#: inc/elementor/class-section-sticky.php:101
+msgid "Offset"
+msgstr "از تعویض"
+
+#: inc/elementor/widgets/image-gallery.php:180 
+#: inc/elementor/widgets/pricing.php:166 inc/elementor/widgets/video.php:135
+msgid "On"
+msgstr "روشن"
+
+#: inc/elementor/widgets/products.php:223
+msgid "On Sale Products"
+msgstr "محصولات تخفیف‌دار"
+
+#: inc/merlin/includes/class-wc-widget-product-brands.php:73
+msgid "Only show children of the current brand"
+msgstr "فقط نمایش زیرمجموعه‌های برند فعلی"
+
+#: inc/elementor/base_widgets.php:1295 inc/elementor/base_widgets.php:1335 
+#: inc/elementor/base_widgets.php:1375 
+#: inc/elementor/class-section-parallax.php:85 
+#: inc/elementor/custom-widgets/image-box.php:389 
+#: inc/elementor/custom-widgets/image-box.php:443 
+#: inc/elementor/widgets/brand.php:294 inc/elementor/widgets/brand.php:329 
+#: inc/elementor/widgets/product-categories.php:336 
+#: inc/elementor/widgets/product-categories.php:373 
+#: inc/elementor/widgets/slide-scrolling.php:300 
+#: inc/elementor/widgets/slide-scrolling.php:335
+msgid "Opacity"
+msgstr "شفافیت"
+
+#: inc/merlin/includes/class-wc-widget-layered-nav.php:81
+msgid "OR"
+msgstr "یا"
+
+#: inc/elementor/widgets/posts-grid.php:95 
+#: inc/elementor/widgets/products.php:149
+msgid "Order"
+msgstr "ترتیب"
+
+#: inc/elementor/widgets/posts-grid.php:80 
+#: inc/elementor/widgets/products.php:131
+msgid "Order By"
+msgstr "ترتیب براساس"
+
+#: woocommerce/order/form-tracking.php:35
+msgid "Order ID"
+msgstr "شناسه سفارش"
+
+#: inc/template-functions.php:843
+msgid "Orders"
+msgstr "سفارش‌ها"
+
+#: inc/elementor/widgets/pricing.php:175 inc/elementor/widgets/pricing.php:776
+msgid "Original Price"
+msgstr "قیمت اصلی"
+
+#: inc/woocommerce/woocommerce-template-functions.php:1289
+msgid "Out Of Stock"
+msgstr "تمام شده"
+
+#: inc/woocommerce/woocommerce-template-functions.php:739
+msgid "Out of Stock"
+msgstr "ناموجود در انبار"
+
+#: inc/elementor/custom-widgets/button.php:15
+msgid "OutLine"
+msgstr "مرز"
+
+#: inc/elementor/base_widgets.php:1167
+msgid "Outside"
+msgstr "برون‌پوش"
+
+#: inc/elementor/base_widgets.php:224
+msgid "Overflow"
+msgstr "تجاوز"
+
+#: inc/elementor/base_widgets.php:229
+msgid "Overflow to the left"
+msgstr "تجاوز به چپ"
+
+#: inc/elementor/base_widgets.php:230
+msgid "Overflow to the right"
+msgstr "تجاوز به راست"
+
+#: inc/elementor/base_widgets.php:135 inc/elementor/base_widgets.php:1148 
+#: inc/elementor/widgets/banner-carousel.php:398 
+#: inc/elementor/widgets/banner-carousel.php:638 
+#: inc/elementor/widgets/banner-carousel.php:710 
+#: inc/elementor/widgets/brand.php:237 
+#: inc/elementor/widgets/call-to-action.php:377 
+#: inc/elementor/widgets/call-to-action.php:557 
+#: inc/elementor/widgets/call-to-action.php:631 
+#: inc/elementor/widgets/call-to-action.php:710 
+#: inc/elementor/widgets/call-to-action.php:789 
+#: inc/elementor/widgets/call-to-action.php:1198 
+#: inc/elementor/widgets/countdown.php:296 
+#: inc/elementor/widgets/countdown.php:479 
+#: inc/elementor/widgets/countdown.php:536 
+#: inc/elementor/widgets/mailchimp.php:168 
+#: inc/elementor/widgets/mailchimp.php:340 
+#: inc/elementor/widgets/mailchimp.php:537 
+#: inc/elementor/widgets/nav-menu.php:143 
+#: inc/elementor/widgets/pricing.php:442 inc/elementor/widgets/pricing.php:502 
+#: inc/elementor/widgets/pricing.php:598 inc/elementor/widgets/pricing.php:983 
+#: inc/elementor/widgets/pricing.php:1200 
+#: inc/elementor/widgets/product-categories.php:257 
+#: inc/elementor/widgets/product-categories.php:603 
+#: inc/elementor/widgets/product-categories.php:872 
+#: inc/elementor/widgets/product-categories.php:955 
+#: inc/elementor/widgets/products.php:397 
+#: inc/elementor/widgets/slide-scrolling.php:246 
+#: inc/elementor/widgets/slide-scrolling.php:267 
+#: inc/elementor/widgets/team-box.php:225 
+#: inc/elementor/widgets/team-box.php:283 
+#: inc/elementor/widgets/testimonial.php:287 
+#: inc/elementor/widgets/testimonial.php:552 
+#: inc/elementor/widgets/text-carousel.php:183 
+#: inc/elementor/widgets/vertical-menu.php:258 
+#: inc/elementor/widgets/video.php:240 inc/elementor/widgets/video.php:491
+msgid "Padding"
+msgstr "پدینگ (فاصله خارجی)"
+
+#: inc/elementor/widgets/call-to-action.php:433
+msgid "Padding Content"
+msgstr "فاصله‌گذاری محتوا"
+
+#: inc/elementor/widgets/search.php:176
+msgid "Padding Input"
+msgstr "توپر حاشیه ورودی"
+
+#: inc/elementor/base_widgets.php:1733
+msgid "Page"
+msgstr "صفحه"
+
+#: 404.php:13
+#, fuzzy
+#| msgid "Page does not exist or some other error occurred. Go to our Home Page"
+msgid "Page does not exist or some other error occured. Go to our Home Page"
+msgstr "صفحه وجود ندارد یا خطایی دیگر رخ داده است. به صفحه اصلی ما بروید"
+
+#: inc/elementor/base_widgets.php:1576
+msgid "Page Limit"
+msgstr "محدودیت صفحه"
+
+#: inc/megamenu/includes/hook-functions.php:32
+msgid "Page Settings"
+msgstr "تنظیمات صفحه"
+
+#: inc/template-functions.php:314 inc/template-functions.php:394
+msgid "Pages:"
+msgstr "صفحه‌ها:"
+
+#: inc/elementor/widgets/products.php:248
+msgid "Paginate"
+msgstr "صفحه‌بندی"
+
+#: inc/class-customize.php:329 inc/elementor/base_widgets.php:1136 
+#: inc/elementor/base_widgets.php:1554 inc/elementor/base_widgets.php:1561 
+#: inc/elementor/base_widgets.php:1745 inc/elementor/widgets/products.php:253
+msgid "Pagination"
+msgstr "صفحه‌بندی"
+
+#: inc/merlin/includes/class-wc-widget-product-brands.php:264
+msgid "Parent Brand"
+msgstr "برند اصلی"
+
+#: inc/merlin/includes/class-wc-widget-product-brands.php:265
+msgid "Parent Brand:"
+msgstr "برند اصلی:"
+
+#: inc/merlin/includes/breadcrumb.php:64
+msgid "Parent Header Footer & Blocks Templates:"
+msgstr "قالب‌های نوشته‌های سربرگ، پاورقی و بلوک‌ها والد:"
+
+#: inc/merlin/includes/class-custom-shapes.php:116
+msgid "Parent Item:"
+msgstr "مورد والد:"
+
+#: inc/template-functions.php:805 inc/template-functions.php:807 
+#: woocommerce/myaccount/form-login.php:43 
+#: woocommerce/myaccount/form-login.php:96
+msgid "Password"
+msgstr "رمز عبور"
+
+#: inc/elementor/base_widgets.php:553
+msgid "Pause on Hover"
+msgstr "توقف در نگهداری"
+
+#: inc/elementor/base_widgets.php:571
+msgid "Pause on Interaction"
+msgstr "توقف در تعامل"
+
+#: inc/merlin/class-merlin.php:1989 inc/merlin/class-merlin.php:2002 
+#: inc/merlin/class-merlin.php:2015 inc/merlin/class-merlin.php:2028 
+#: inc/merlin/class-merlin.php:2041 inc/merlin/class-merlin.php:2054
+msgid "Pending"
+msgstr "در انتظار"
+
+#: inc/elementor/custom-widgets/progress.php:80
+msgid "Percentage Color"
+msgstr "رنگ درصد"
+
+#: inc/elementor/custom-widgets/progress.php:69
+msgid "Percentage Text"
+msgstr "متن درصد"
+
+#: inc/elementor/widgets/testimonial.php:115 inc/template-functions.php:1126
+msgid "Perfect"
+msgstr "عالی"
+
+#: inc/elementor/widgets/pricing.php:198 inc/elementor/widgets/pricing.php:857
+msgid "Period"
+msgstr "دوره"
+
+#: inc/elementor/widgets/team-box.php:194
+msgid "Pinterest"
+msgstr "پینترست"
+
+#: inc/merlin/class-merlin.php:1439
+msgid "Please add your license key before attempting to activate one."
+msgstr "لطفاً کلید لایسنس خود را اضافه کنید قبل از تلاش برای فعال‌سازی."
+
+#: inc/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "لطفاً برای کمک با مدیر این وب‌گاه تماس بگیرید."
+
+#: inc/class-tgm-plugin-activation.php:1019 
+#: inc/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"لطفاً با ارائه‌دهنده‌ی افزونه تماس بگیرید و از آنها خواهش کنید که افزونه‌ی "
+"خود را مطابق با راهنمایی‌های وردپرس بسته‌بندی کنند."
+
+#: inc/merlin/class-merlin.php:603
+msgid "Please define an SVG icon filename."
+msgstr "لطفاً نام فایل آیکن SVG را مشخص کنید."
+
+#: inc/merlin/class-merlin.php:598
+msgid "Please define default parameters in the form of an array."
+msgstr "لطفاً پارامترهای پیش‌فرض را به صورت یک آرایه تعریف کنید."
+
+#: inc/cf7/class-cf7.php:128
+msgid "Please enter a date in YYYY-MM-DD format."
+msgstr "لطفاً یک تاریخ به فرمت YYYY-MM-DD وارد کنید."
+
+#: inc/elementor/widgets/contactform.php:39
+msgid "Please select form"
+msgstr "لطفاً یک فرم را انتخاب کنید"
+
+#: inc/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr "افزونه"
+
+#: inc/class-tgm-plugin-activation.php:1206 
+#: inc/class-tgm-plugin-activation.php:3033
+#, fuzzy
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "و"
+
+#: inc/class-tgm-plugin-activation.php:394 
+#: inc/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr "افزونه با موفقیت فعال شد."
+
+#: inc/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr "فعال‌سازی افزونه ناموفق بود."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:399
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"افزونه فعال نشد. نسخه‌ی بالاتری از %s برای این قالب نیاز است. لطفاً افزونه "
+"را به‌روز‌رسانی کنید."
+
+#: inc/merlin/class-merlin.php:733
+msgid "Plugins"
+msgstr "پلاگین‌ها"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2473
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "همه <span class=\"count\">(%s)</span>"
+msgstr[1] "همه <span class=\"count\">(%s)</span>"
+
+#: inc/elementor/widgets/pricing.php:387
+msgid "Popular"
+msgstr "محبوب"
+
+#: inc/elementor/base_widgets.php:1163 inc/elementor/widgets/heading.php:136 
+#: inc/elementor/widgets/pricing.php:400 inc/elementor/widgets/pricing.php:666 
+#: inc/elementor/widgets/pricing.php:900
+msgid "Position"
+msgstr "موقعیت"
+
+#: inc/elementor/widgets/call-to-action.php:997
+msgid "Position Bottom"
+msgstr "موقعیت پایین"
+
+#: inc/elementor/widgets/call-to-action.php:98
+msgid "Position Sub Title"
+msgstr "موقعیت زیر عنوان"
+
+#: inc/elementor/widgets/video.php:132
+msgid "Position Vertical"
+msgstr "موقعیت عمودی"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:909
+msgid "Post %d remapped to %d"
+msgstr "نوشته %d به %d نگاشته شده است"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2037
+msgid "Post %d was imported with author \"%s\", but could not be found"
+msgstr "نوشته %d با نویسنده \"%s\" وارد شده بود، اما پیدا نشد"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2124
+msgid ""
+"Post %d was imported with object \"%d\" of type \"%s\", but could not be "
+"found"
+msgstr "نوشته %d با شیء \"%d\" از نوع \"%s\" وارد شد، اما پیدا نشد"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2018
+msgid "Post %d was imported with parent %d, but could not be found"
+msgstr "نوشته %d با پدر %d وارد شده بود، اما پیدا نشد"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2063
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr "نوشته %d برای پس‌پردازش مشخص شد، اما نیازی به آن نبود."
+
+#: inc/template-functions.php:440
+msgid "Post By "
+msgstr "نوشته‌شده توسط "
+
+#: inc/elementor/widgets/products.php:136
+msgid "Post ID"
+msgstr "شناسه نوشته"
+
+#: inc/class-main.php:647
+msgid "Post Navigation"
+msgstr "ناوبری پست"
+
+#: inc/merlin/includes/class-custom-shapes.php:110
+msgctxt "Post Type General Name"
+msgid "Custom shapes"
+msgstr "شکل‌های سفارشی"
+
+#: inc/merlin/includes/class-custom-shapes.php:111
+msgctxt "Post Type Singular Name"
+msgid "Custom shape"
+msgstr "شکل سفارشی"
+
+#: inc/elementor/widgets/posts-grid.php:25
+msgid "Posts Grid"
+msgstr "شبکه نوشته‌ها"
+
+#: inc/elementor/widgets/posts-grid.php:62 
+#: inc/elementor/widgets/products-recently.php:93 
+#: inc/elementor/widgets/products.php:113
+msgid "Posts Per Page"
+msgstr "تعداد نوشته‌ها در هر صفحه"
+
+#: inc/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr "پیش‌بسته"
+
+#: inc/woocommerce/woocommerce-template-functions.php:598 
+#: woocommerce/loop/pagination.php:54
+msgid "Prev"
+msgstr "قبلی"
+
+#: inc/elementor/base_widgets.php:1014
+msgid "Prev button"
+msgstr "دکمه قبلی"
+
+#: inc/elementor/base_widgets.php:1082
+msgid "Prev Horizontal"
+msgstr "قبلی (افقی)"
+
+#: inc/elementor/base_widgets.php:1026
+msgid "Prev Vertical"
+msgstr "قبلی (عمودی)"
+
+#: inc/elementor/base_widgets.php:1469 inc/elementor/base_widgets.php:1513 
+#: inc/template-functions.php:586 woocommerce/cart/cross-sells.php:62 
+#: woocommerce/single-product/related.php:90 
+#: woocommerce/single-product/up-sells.php:67
+msgid "Previous"
+msgstr "قبلی"
+
+#: inc/elementor/base_widgets.php:375
+msgid "Previous Arrow Icon"
+msgstr "آیکون فلش قبلی"
+
+#: inc/elementor/base_widgets.php:1602
+msgid "Previous Label"
+msgstr "برچسب قبلی"
+
+#: inc/template-functions.php:616
+msgid "Previous Post"
+msgstr "نوشته قبلی"
+
+#: inc/elementor/base_widgets.php:1567 inc/elementor/base_widgets.php:1568
+msgid "Previous/Next"
+msgstr "قبلی/بعدی"
+
+#: inc/elementor/widgets/pricing.php:140
+msgid "Price"
+msgstr "قیمت"
+
+#: woocommerce/content-widget-price-filter.php:34
+msgid "Price: "
+msgstr "قیمت: "
+
+#: inc/elementor/widgets/pricing.php:92 inc/elementor/widgets/pricing.php:578
+msgid "Pricing"
+msgstr "قیمت‌گذاری"
+
+#: inc/class-main.php:203
+msgid "Primary Menu"
+msgstr "منو اصلی"
+
+#: inc/elementor/widgets/nav-menu.php:390 inc/template-functions.php:187
+msgid "Primary Navigation"
+msgstr "ناوبری اصلی"
+
+#. Theme Name of the plugin/theme
+msgid "Priotech"
+msgstr "پریوتک"
+
+#. Description of the plugin/theme
+msgid ""
+"Priotech - Smart Home Shop WooCommerce Theme, a modern and versatile "
+"WordPress theme designed specifically for smart home technology enthusiasts. "
+"With its sleek design and powerful e-commerce functionalities, Priotech "
+"allows you to effortlessly showcase and sell a wide range of smart home "
+"products."
+msgstr ""
+"پریوتک -قالب فروشگاهی ووکامرس، یک قالب مدرن و چند منظوره وردپرس به‌طور خاص "
+"برای علاقه‌مندان به تکنولوژی خانه هوشمند طراحی شده است. با طراحی زیبا و "
+"امکانات قدرتمند تجارت الکترونیک، پریوتک به شما امکان می‌دهد به راحتی "
+"مجموعه‌ای گسترده از محصولات را به نمایش بگذارید و به فروش برسانید."
+
+#: inc/elementor/widgets/account.php:16
+msgid "Priotech Account"
+msgstr "حساب کاربری پریوتک"
+
+#: inc/elementor/class-elementor.php:122
+msgid "Priotech Addons"
+msgstr "المان های اختصاصی پریوتک"
+
+#: inc/elementor/widgets/call-to-action.php:25
+msgid "Priotech Banner"
+msgstr "بنر پریوتک"
+
+#: inc/elementor/widgets/banner-carousel.php:43
+msgid "Priotech Banner Carousel"
+msgstr "اسلایدر بنر پریوتک"
+
+#: inc/elementor/widgets/contactform.php:19
+msgid "Priotech Contact Form"
+msgstr "فرم تماس پریوتک"
+
+#: inc/elementor/widgets/countdown.php:18
+msgid "Priotech Countdown"
+msgstr "شمارنده پریوتک"
+
+#: inc/merlin/includes/class-wc-widget-layered-nav.php:16
+msgid "Priotech Filter Products by Attribute"
+msgstr "فیلتر محصولات سفارشی‌شده پریوتک بر اساس خصوصیت"
+
+#: inc/elementor/widgets/header-group.php:16
+msgid "Priotech Header Group"
+msgstr "گروه هدر پریوتک"
+
+#: inc/elementor/widgets/heading.php:43
+msgid "Priotech Heading"
+msgstr "عنوان پریوتک"
+
+#: inc/elementor/class-elementor.php:191
+msgid "Priotech Icon"
+msgstr "آیکون Priotech"
+
+#: inc/elementor/widgets/image-carousel.php:41
+msgid "Priotech Image Carousel"
+msgstr "کروسل تصاویر پریوتک"
+
+#: inc/elementor/widgets/image-gallery.php:47
+msgid "Priotech Image Gallery"
+msgstr "گالری تصاویر پریوتک"
+
+#: inc/elementor/widgets/info-canvas.php:16
+msgid "Priotech Info Canvas"
+msgstr "کانوا اطلاعات پریوتک"
+
+#: inc/elementor/widgets/menu-canvas.php:16
+msgid "Priotech Menu Canvas"
+msgstr "کانوا منو پریوتک"
+
+#: inc/elementor/widgets/nav-menu.php:19
+msgid "Priotech Nav Menu"
+msgstr "منو پریوتک"
+
+#: inc/elementor/widgets/pricing.php:28
+msgid "Priotech Pricing"
+msgstr "قیمت‌گذاری Priotech"
+
+#: inc/elementor/widgets/product-categories.php:54
+msgid "Priotech Product Categories"
+msgstr "دسته‌های محصولات Priotech"
+
+#: inc/elementor/widgets/search.php:15
+msgid "Priotech Search Form"
+msgstr "فرم جستجوی پریوتک"
+
+#: inc/woocommerce/class-woocommerce-settings.php:39
+msgid "Priotech settings"
+msgstr "تنظیمات Priotech"
+
+#: inc/elementor/widgets/slide-scrolling.php:53
+msgid "Priotech Slide Scrolling"
+msgstr "اسلاید اسکرولینگ پریوتک"
+
+#: inc/elementor/widgets/testimonial.php:43
+msgid "Priotech Testimonials"
+msgstr "نظرات مشتریان پریوتک"
+
+#: inc/elementor/widgets/vertical-menu.php:22
+msgid "Priotech Vertical Menu"
+msgstr "منو عمودی پریوتک"
+
+#: inc/elementor/widgets/video.php:20
+msgid "Priotech Video Popup"
+msgstr "پنجره‌ی ویدئویی پریوتک"
+
+#: inc/elementor/widgets/breadcrumb.php:20
+msgid "Priotech WooCommerce Breadcrumbs"
+msgstr "دست‌یابی‌های پریوتک در ووکامرس"
+
+#: inc/merlin/includes/product-360-view.php:65
+msgid "Product 360 View Gallery (optional)"
+msgstr "گالری نمای ۳۶۰ محصول (اختیاری)"
+
+#: inc/class-customize.php:489
+msgid "Product Block"
+msgstr "بلوک محصول"
+
+#: inc/merlin/includes/class-wc-widget-product-brands.php:43 
+#: inc/merlin/includes/class-wc-widget-product-brands.php:47
+msgid "Product Brands"
+msgstr "برندهای محصول"
+
+#: inc/woocommerce/class-woocommerce-settings.php:111
+msgid "Product Label"
+msgstr "برچسب محصول"
+
+#: inc/elementor/widgets/products.php:261
+msgid "Product Layout"
+msgstr "طرح بندی محصول"
+
+#: inc/elementor/widgets/products.php:227
+msgid "Product Name"
+msgstr "نام محصول"
+
+#: woocommerce/global/quantity-input.php:43
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "تعداد"
+
+#: inc/elementor/widgets/products.php:140
+msgid "Product Title"
+msgstr "عنوان محصول"
+
+#: inc/elementor/widgets/products.php:218
+msgid "Product Type"
+msgstr "نوع محصول"
+
+#: inc/elementor/widgets/products.php:58 inc/elementor/widgets/products.php:389
+msgid "Products"
+msgstr "محصولات"
+
+#: inc/elementor/widgets/product-categories.php:1091
+msgid "products"
+msgstr "محصولات"
+
+#: inc/elementor/widgets/products.php:235
+msgid "Products name"
+msgstr "نام محصولات"
+
+#: inc/class-customize.php:326
+msgid "Products pagination"
+msgstr "صفحه‌بندی محصولات"
+
+#: inc/class-customize.php:436
+msgid "Products per row Laptop"
+msgstr "محصولات در هر ردیف لپ‌تاپ"
+
+#: inc/class-customize.php:478
+msgid "Products per row list view Laptop"
+msgstr "محصولات در هر ردیف نمایش لیست لپ‌تاپ"
+
+#: inc/class-customize.php:462
+msgid "Products per row mobile"
+msgstr "محصولات در هر ردیف موبایل"
+
+#: inc/class-customize.php:449
+msgid "Products per row tablet"
+msgstr "محصولات در هر ردیف تبلت"
+
+#: inc/elementor/widgets/products-recently.php:53
+msgid "Products Recently"
+msgstr "محصولات اخیراً"
+
+#: inc/elementor/custom-widgets/progress.php:41
+msgid "Progress bar padding"
+msgstr "فاصله‌ی حاشیه‌ی نوار پیشرفت"
+
+#: inc/elementor/custom-widgets/progress.php:14
+msgid "Progress Done Border Radius "
+msgstr "شعاع حاشیه‌ی پیشرفت انجام شده"
+
+#: inc/megamenu/includes/hook-functions.php:56
+msgid "Publish"
+msgstr "انتشار"
+
+#. translators: %s: Quantity.
+#: woocommerce/global/quantity-input.php:28
+msgid "Qty"
+msgstr "تعداد"
+
+#: inc/elementor/widgets/posts-grid.php:54
+msgid "Query"
+msgstr "کوئری"
+
+#: inc/merlin/includes/class-wc-widget-layered-nav.php:78
+msgid "Query type"
+msgstr "نوع پرس و جو"
+
+#: inc/elementor/widgets/posts-grid.php:87 
+#: inc/elementor/widgets/products.php:141
+msgid "Random"
+msgstr "تصادفی"
+
+#: inc/template-functions.php:1125
+msgid "Rate&hellip;"
+msgstr "امتیاز دهید..."
+
+#: inc/elementor/widgets/testimonial.php:106 
+#: inc/elementor/widgets/testimonial.php:800
+msgid "Rating"
+msgstr "امتیاز"
+
+#. translators: %s: post title
+#: inc/template-functions.php:376 inc/template-functions.php:383 
+#: template-parts/posts-grid/item-post-style-1.php:14
+msgid "Read More"
+msgstr "بیشتر بخوانید"
+
+#: inc/merlin/class-merlin.php:747
+msgid "Ready"
+msgstr "آماده"
+
+#. translators: 1: URL
+#: content-none.php:12
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"آماده‌اید که اولین نوشته‌تان را منتشر کنید؟ <a href=\"%1$s\">از اینجا شروع "
+"کنید</a>."
+
+#: inc/merlin/includes/recent-post.php:9
+msgid "Recent Posts"
+msgstr "نوشته‌های اخیر"
+
+#: inc/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr "پیشنهادی"
+
+#: inc/merlin/class-merlin.php:2040
+msgid "Redux framework options."
+msgstr "تنظیمات چارچوب Redux."
+
+#: inc/merlin/class-merlin.php:2039
+msgid "Redux Options"
+msgstr "تنظیمات Redux"
+
+#: inc/template-functions.php:796 woocommerce/myaccount/form-login.php:75 
+#: woocommerce/myaccount/form-login.php:111
+msgid "Register"
+msgstr "ثبت نام"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2331
+msgid "Remapping featured image ID %d to new ID %d for post ID %d"
+msgstr ""
+"نقشه‌برداری شناسه تصویر برگزیده %d به شناسه جدید %d برای نوشته با شناسه %d"
+
+#: woocommerce/myaccount/form-login.php:49
+msgid "Remember me"
+msgstr "مرا به خاطر بسپار"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1975
+msgid "Remote file is too large, limit is %s"
+msgstr "فایل از راه دور بیش از حد بزرگ است، محدودیت %s است"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1947
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr "سرور از راه دور %1$d %2$s برای %3$s بازگشت داد"
+
+#: inc/merlin/includes/class-custom-shapes.php:130
+msgid "Remove featured image"
+msgstr "حذف تصویر برجسته"
+
+#: inc/woocommerce/class-woocommerce-brand.php:61 
+#: inc/woocommerce/class-woocommerce-brand.php:97
+msgid "Remove Image"
+msgstr "حذف تصویر"
+
+#: woocommerce/cart/mini-cart.php:47
+msgid "Remove this item"
+msgstr "حذف این مورد"
+
+#: inc/merlin/class-merlin.php:1107
+msgid "req"
+msgstr "نیازمند"
+
+#: inc/class-tgm-plugin-activation.php:2358 inc/merlin/class-merlin.php:1106
+msgid "Required"
+msgstr "ضروری"
+
+#: inc/cf7/class-cf7.php:157
+msgid "Required field"
+msgstr "فیلد الزامی"
+
+#: inc/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr "بروزرسانی مورد نیاز موجود نیست"
+
+#: inc/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr "نیاز به بروزرسانی دارد"
+
+#: inc/megamenu/includes/hook-functions.php:41 
+#: inc/megamenu/includes/hook-functions.php:43
+msgid "Responsive Mode"
+msgstr "حالت واکنش‌گرا"
+
+#: inc/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "بازگشت به نصب کننده افزونه‌های ضروری"
+
+#: inc/class-tgm-plugin-activation.php:393 
+#: inc/class-tgm-plugin-activation.php:912 
+#: inc/class-tgm-plugin-activation.php:2618 
+#: inc/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr "بازگشت به داشبورد"
+
+#: inc/merlin-config.php:313
+msgid "Return to the dashboard"
+msgstr "بازگشت به داشبورد"
+
+#: inc/woocommerce/woocommerce-template-functions.php:1585
+msgid "Reviews"
+msgstr "نقد و بررسی‌ها"
+
+#: inc/merlin/class-merlin.php:2013
+msgid "Revolution Slider"
+msgstr "اسلایدر Revolution"
+
+#: inc/elementor/widgets/pricing.php:368 inc/elementor/widgets/pricing.php:1503
+msgid "Ribbon"
+msgstr "ریبون"
+
+#: inc/class-customize.php:111 inc/class-customize.php:225 
+#: inc/class-customize.php:313 inc/elementor/base_widgets.php:650 
+#: inc/elementor/base_widgets.php:969 inc/elementor/base_widgets.php:1091 
+#: inc/elementor/base_widgets.php:1437 inc/elementor/base_widgets.php:1642 
+#: inc/elementor/custom-widgets/counter.php:21 
+#: inc/elementor/custom-widgets/icon-box.php:58 
+#: inc/elementor/custom-widgets/image-box.php:240 
+#: inc/elementor/custom-widgets/image-box.php:487 
+#: inc/elementor/widgets/banner-carousel.php:453 
+#: inc/elementor/widgets/banner-carousel.php:555 
+#: inc/elementor/widgets/brand.php:184 
+#: inc/elementor/widgets/breadcrumb.php:127 
+#: inc/elementor/widgets/call-to-action.php:339 
+#: inc/elementor/widgets/call-to-action.php:468 
+#: inc/elementor/widgets/contactform.php:82 
+#: inc/elementor/widgets/countdown.php:355 
+#: inc/elementor/widgets/countdown.php:400 
+#: inc/elementor/widgets/heading.php:214 
+#: inc/elementor/widgets/image-gallery.php:381 
+#: inc/elementor/widgets/info-canvas.php:80 
+#: inc/elementor/widgets/mailchimp.php:377 
+#: inc/elementor/widgets/nav-menu.php:111 
+#: inc/elementor/widgets/pricing.php:408 
+#: inc/elementor/widgets/pricing.php:1033 
+#: inc/elementor/widgets/product-categories.php:665 
+#: inc/elementor/widgets/product-categories.php:770 
+#: inc/elementor/widgets/product-categories.php:824 
+#: inc/elementor/widgets/slide-scrolling.php:184 
+#: inc/elementor/widgets/testimonial.php:422 
+#: inc/elementor/widgets/testimonial.php:447 
+#: inc/elementor/widgets/text-carousel.php:159 
+#: inc/elementor/widgets/video.php:89
+msgid "Right"
+msgstr "راست"
+
+#: inc/class-customize.php:376
+msgid "Right Thumbnail"
+msgstr "تصویر بند انگشتی راست"
+
+#: inc/class-customize.php:569 inc/elementor/widgets/products.php:299
+msgid "Right to Left"
+msgstr "راست به چپ"
+
+#: inc/elementor/widgets/pricing.php:189 inc/elementor/widgets/pricing.php:917
+msgid "Rood"
+msgstr "روود"
+
+#: inc/elementor/custom-widgets/icon-list.php:53
+msgid "Rotate"
+msgstr "چرخش"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2000
+msgid "Running post-processing for post %d"
+msgstr "در حال اجرای پردازش پس از وارد کردن برای نوشته %d"
+
+#: inc/elementor/widgets/pricing.php:164 
+#: inc/woocommerce/woocommerce-template-functions.php:858
+msgid "Sale"
+msgstr "فروش"
+
+#: inc/woocommerce/class-woocommerce-extra.php:34
+msgid "Sale quantity"
+msgstr "مقدار تخفیف"
+
+#: inc/merlin/class-merlin.php:2014
+msgid "Sample Revolution sliders data."
+msgstr "داده‌های نمونه اسلایدرهای Revolution."
+
+#: inc/merlin/class-merlin.php:2001
+msgid "Sample widgets data."
+msgstr "داده‌های نمونه ابزارک‌ها."
+
+#: inc/megamenu/includes/admin/class-admin-assets.php:63
+msgid "Save"
+msgstr "ذخیره"
+
+#: inc/megamenu/includes/hook-functions.php:61 
+#: inc/megamenu/includes/hook-functions.php:63
+msgid "Save Options"
+msgstr "ذخیره‌ی گزینه‌ها"
+
+#: inc/elementor/class-section-parallax.php:86
+msgid "Scale"
+msgstr "مقیاس"
+
+#: inc/elementor/class-section-parallax.php:87
+msgid "Scale + Opacity"
+msgstr "مقیاس + تاریکی"
+
+#: inc/elementor/class-section-parallax.php:83
+msgid "Scroll"
+msgstr "اسکرول"
+
+#: inc/elementor/class-section-parallax.php:84
+msgid "Scroll + Opacity"
+msgstr "اسکرول + تاریکی"
+
+#: inc/elementor/widgets/slide-scrolling.php:107
+msgid "Scrolling Name"
+msgstr "نام اسکرولینگ"
+
+#: inc/elementor/widgets/slide-scrolling.php:105
+msgid "Scrolling name"
+msgstr "نام اسکرولینگ"
+
+#: inc/elementor/widgets/search.php:230 inc/elementor/widgets/search.php:244
+msgid "Search"
+msgstr "جستجو"
+
+#: inc/merlin/includes/class-wc-widget-product-brands.php:271
+msgid "Search Brands"
+msgstr "جستجوی برندها"
+
+#: inc/woocommerce/woocommerce-template-functions.php:280 
+#: woocommerce/product-searchform.php:24
+msgid "Search for:"
+msgstr "جستجو برای:"
+
+#: inc/merlin/includes/breadcrumb.php:63
+msgid "Search Header Footer & Blocks Templates"
+msgstr "جستجو در قالب‌های نوشته‌های سربرگ، پاورقی و بلوک‌ها"
+
+#: inc/merlin/includes/class-custom-shapes.php:125
+msgid "Search Item"
+msgstr "جستجوی مورد"
+
+#: inc/woocommerce/woocommerce-template-functions.php:284 
+#: woocommerce/product-searchform.php:25
+msgid "Search products&hellip;"
+msgstr "جستجوی محصولات..."
+
+#. translators: %s: search term
+#: search.php:14
+msgid "Search Results for: %s"
+msgstr "نتایج جستجو برای: %s"
+
+#: inc/elementor/custom-widgets/button.php:14
+msgid "Secondary"
+msgstr "ثانویه"
+
+#: inc/elementor/widgets/countdown.php:110 
+#: inc/elementor/widgets/countdown.php:189 
+#: inc/elementor/widgets/countdown.php:191 
+#: inc/elementor/widgets/countdown.php:192
+msgid "Seconds"
+msgstr "ثانیه"
+
+#: inc/elementor/widgets/countdown.php:576 
+#: inc/woocommerce/woocommerce-template-functions.php:1140
+msgid "Secs"
+msgstr "ثانیه"
+
+#: inc/class-customize.php:17
+msgid "Select Banner"
+msgstr "انتخاب بنر"
+
+#: inc/elementor/widgets/contactform.php:51
+msgid "Select contact form"
+msgstr "انتخاب فرم تماس"
+
+#: inc/merlin/class-merlin.php:1197
+msgid "Select Demo"
+msgstr "انتخاب نمونه کار"
+
+#: inc/elementor/functions-elementor.php:50
+msgid "Select Hotspots"
+msgstr "انتخاب نقاط مهم"
+
+#: inc/elementor/widgets/info-canvas.php:30
+msgid "Select Info"
+msgstr "انتخاب اطلاعات"
+
+#: inc/woocommerce/class-woocommerce-settings.php:75
+msgid "Select size chart"
+msgstr "انتخاب نمودار اندازه"
+
+#: inc/merlin/includes/class-wc-widget-product-brands.php:270
+msgid "Separate Brand with commas"
+msgstr "جدا کردن برندها با کاما"
+
+#: inc/elementor/widgets/vertical-menu.php:269
+msgid "Separator"
+msgstr "جداکننده"
+
+#: inc/merlin/includes/class-custom-shapes.php:129
+msgid "Set featured image"
+msgstr "تنظیم تصویر برجسته"
+
+#: inc/elementor/class-section-parallax.php:92
+msgid "Set the Parallax type needed - default is Scroll effect."
+msgstr "نوع پارالاکس مورد نیاز را تعیین کنید - پیش‌فرض اثر اسکرول است."
+
+#: inc/woocommerce/class-woocommerce-extra.php:35
+msgid ""
+"Set this quantity will make the product to be a deal. The sale will end when "
+"this quantity is sold out."
+msgstr ""
+"تنظیم این تعداد باعث می‌شود محصول به عنوان یک معامله شناخته شود. فروش پایان "
+"می‌یابد زمانی که این تعداد به پایان رسیده باشد."
+
+#: inc/elementor/widgets/brand.php:153 
+#: inc/elementor/widgets/products-recently.php:84 
+#: inc/elementor/widgets/products.php:104 
+#: inc/elementor/widgets/slide-scrolling.php:153 
+#: inc/elementor/widgets/text-carousel.php:138 
+#: inc/megamenu/includes/hook-functions.php:30
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: inc/elementor/widgets/testimonial.php:192
+msgid "Shape"
+msgstr "شکل"
+
+#: woocommerce/single-product/meta.php:37
+msgid "share:"
+msgstr "به اشتراک گذاری:"
+
+#: woocommerce/single-product/related.php:62
+msgid "Shop Our Best Sellers"
+msgstr "از بهترین‌های ما خرید کنید"
+
+#: inc/woocommerce/woocommerce-template-functions.php:337
+msgid "Shopping cart"
+msgstr "سبد خرید"
+
+#: inc/elementor/class-elementor.php:61
+msgid "Shortcode"
+msgstr "کد کوتاه"
+
+#: inc/elementor/base_widgets.php:1587
+msgid "Shorten"
+msgstr "کوتاه کردن"
+
+#: inc/elementor/widgets/countdown.php:79 
+#: inc/elementor/widgets/countdown.php:90 
+#: inc/elementor/widgets/countdown.php:101 
+#: inc/elementor/widgets/countdown.php:112 
+#: inc/elementor/widgets/countdown.php:123 
+#: inc/elementor/widgets/pricing.php:375 
+#: inc/woocommerce/woocommerce-template-functions.php:1780
+msgid "Show"
+msgstr "نمایش"
+
+#: inc/elementor/widgets/header-group.php:47
+msgid "Show account"
+msgstr "نمایش حساب کاربری"
+
+#: inc/merlin/includes/class-wc-widget-product-brands.php:53
+msgid "Show as dropdown"
+msgstr "نمایش به عنوان کشویی"
+
+#: inc/elementor/custom-widgets/image-box.php:23 
+#: inc/elementor/widgets/banner-carousel.php:186
+msgid "Show Button"
+msgstr "نمایش دکمه"
+
+#: inc/elementor/widgets/header-group.php:63
+msgid "Show cart"
+msgstr "نمایش سبد خرید"
+
+#: inc/class-customize.php:392
+msgid "Show content in tabs or accordion .....?"
+msgstr "نمایش محتوا در تب‌ها یا آکاردئون...؟"
+
+#: inc/elementor/widgets/product-categories.php:239
+msgid "Show Count"
+msgstr "نمایش تعداد"
+
+#: inc/elementor/widgets/products.php:363
+msgid "Show Deal Sold"
+msgstr "نمایش معامله فروخته‌شده"
+
+#: inc/class-tgm-plugin-activation.php:3594 
+#: inc/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr "نمایش جزئیات"
+
+#: inc/elementor/widgets/products.php:330
+msgid "Show Discount Badge"
+msgstr "نمایش برچسب تخفیف"
+
+#: inc/woocommerce/woocommerce-template-functions.php:1089
+msgid "Show Filters"
+msgstr "نمایش فیلترها"
+
+#: inc/elementor/widgets/testimonial.php:311
+msgid "Show Gradient"
+msgstr "نمایش گرادیانت"
+
+#: inc/merlin/includes/class-wc-widget-product-brands.php:68
+msgid "Show hierarchy"
+msgstr "نمایش سلسله مراتب"
+
+#: inc/elementor/widgets/banner-carousel.php:110
+msgid "Show Image Side"
+msgstr "نمایش تصویر"
+
+#: inc/elementor/widgets/countdown.php:121
+msgid "Show Label"
+msgstr "نمایش برچسب"
+
+#: inc/merlin/includes/class-wc-widget-product-brands.php:58
+msgid "Show logo brand"
+msgstr "نمایش لوگوی برند"
+
+#: inc/merlin/includes/class-wc-widget-product-brands.php:63
+msgid "Show product counts"
+msgstr "نمایش تعداد محصولات"
+
+#: inc/elementor/widgets/header-group.php:39
+msgid "Show search"
+msgstr "نمایش جستجو"
+
+#: inc/elementor/widgets/products.php:350
+msgid "Show Time Sale"
+msgstr "نمایش زمان تخفیف"
+
+#: inc/elementor/widgets/header-group.php:55
+msgid "Show wishlist"
+msgstr "نمایش لیست علاقه‌مندی‌ها"
+
+#: inc/class-customize.php:294
+msgid "Sidebar"
+msgstr "نوار کناری"
+
+#: inc/class-main.php:311
+msgid "Sidebar Archive"
+msgstr "نوار کناری برای آرشیو"
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:144
+#, fuzzy
+#| msgid "Sidebar does not exist in the theme (moving widget to Inactive)"
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr "نوار کناری در پوسته وجود ندارد (ابزارک به غیرفعال منتقل می‌شود)"
+
+#: inc/class-customize.php:106 inc/class-customize.php:220 
+#: inc/class-customize.php:309
+msgid "Sidebar Position"
+msgstr "موقعیت نوار کناری"
+
+#: inc/class-main.php:316
+msgid "Sidebar Single Post"
+msgstr "نوار کناری برای پست تکی"
+
+#: inc/template-functions.php:793
+msgid "Sign in"
+msgstr "ورود"
+
+#: inc/modules/class-login.php:39
+msgid "Signin successful, redirecting..."
+msgstr "ورود موفقیت‌آمیز بود، در حال انتقال به صفحه مورد نظر..."
+
+#. translators: %s privacy policy page name and link
+#: inc/class-customize.php:417
+msgid "Single extra description"
+msgstr "توضیحات اضافی تکی"
+
+#: inc/class-customize.php:355
+msgid "Single Style"
+msgstr "سبک تکی"
+
+#: inc/class-customize.php:208 inc/class-customize.php:340
+msgid "Singular"
+msgstr "تکی"
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:165
+msgid "Site does not support widget"
+msgstr "سایت از ویجت پشتیبانی نمی کند"
+
+#: inc/elementor/base_widgets.php:695 inc/elementor/base_widgets.php:1180 
+#: inc/elementor/widgets/heading.php:165 inc/elementor/widgets/pricing.php:646 
+#: inc/elementor/widgets/pricing.php:728 
+#: inc/elementor/widgets/pricing.php:1224 
+#: inc/elementor/widgets/testimonial.php:867
+msgid "Size"
+msgstr "اندازه"
+
+#: inc/woocommerce/class-woocommerce-settings.php:95
+msgid "Size chart"
+msgstr "نمودار اندازه"
+
+#: inc/woocommerce/class-woocommerce-settings.php:101
+msgid "Size chart will take templates name prefix is \"SizeChart\""
+msgstr "نمودار اندازه نام قالب را با پیشوند \"SizeChart\" خواهد گرفت."
+
+#: inc/woocommerce/class-woocommerce-settings.php:170
+msgid "Size Guide"
+msgstr "راهنمای اندازه"
+
+#: inc/merlin-config.php:316
+msgid "Skip"
+msgstr "رد کردن"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:858
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr "از دست‌ورده \"%s\" عبور می‌کنم، بارگیری پیوست‌ها غیرفعال شده است"
+
+#: inc/woocommerce/woocommerce-template-functions.php:812 
+#: woocommerce/single-product/rating.php:45
+msgid "SKU:"
+msgstr "شناسه محصول:"
+
+#: inc/elementor/base_widgets.php:621
+msgid "Slide"
+msgstr "اسلاید"
+
+#: inc/class-main.php:267 inc/elementor/widgets/heading.php:170 
+#: inc/elementor/widgets/pricing.php:1229
+msgid "Small"
+msgstr "کوچک"
+
+#: inc/elementor/widgets/image-carousel.php:149
+msgid "Smooth Carousel"
+msgstr "کروسل اسموت"
+
+#: inc/elementor/widgets/pricing.php:1077
+msgid "Solid"
+msgstr "جامد"
+
+#: inc/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "مشکلی در رابط برنامه نویسی افزونه وجود دارد."
+
+#: inc/merlin/class-merlin.php:452
+msgid "Something went wrong. Please refresh the page and try again!"
+msgstr "مشکلی پیش آمده است. لطفاً صفحه را بازخوانی کنید و مجدداً امتحان کنید!"
+
+#: content-none.php:18
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"متأسفیم، اما هیچ چیز با عبارات جستجو شده مطابقت نداشت. لطفاً با کلمات کلیدی "
+"متفاوت دوباره تلاش کنید."
+
+#: inc/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr "منبع"
+
+#: inc/elementor/widgets/image-gallery.php:317
+msgid "Space Between"
+msgstr "فاصله بین"
+
+#: inc/elementor/base_widgets.php:1397 
+#: inc/elementor/custom-widgets/image-box.php:291 
+#: inc/elementor/custom-widgets/image-box.php:538 
+#: inc/elementor/widgets/brand.php:198 
+#: inc/elementor/widgets/call-to-action.php:220 
+#: inc/elementor/widgets/call-to-action.php:543 
+#: inc/elementor/widgets/call-to-action.php:617 
+#: inc/elementor/widgets/call-to-action.php:725 
+#: inc/elementor/widgets/call-to-action.php:806 
+#: inc/elementor/widgets/heading.php:371 
+#: inc/elementor/widgets/image-gallery.php:335 
+#: inc/elementor/widgets/pricing.php:322 
+#: inc/elementor/widgets/slide-scrolling.php:198 
+#: inc/elementor/widgets/team-box.php:351 
+#: inc/elementor/widgets/team-box.php:399 
+#: inc/elementor/widgets/testimonial.php:619 
+#: inc/elementor/widgets/testimonial.php:736
+msgid "Spacing"
+msgstr "فاصله"
+
+#: inc/elementor/custom-widgets/image-box.php:51
+msgid "Spacing Button"
+msgstr "فاصله‌ی دکمه"
+
+#: inc/elementor/class-section-parallax.php:111
+msgid "Speed"
+msgstr "سرعت"
+
+#: inc/elementor/widgets/pricing.php:191
+msgid "Sq/ft"
+msgstr "فوت مربع"
+
+#: inc/elementor/custom-widgets/icon-box.php:16 
+#: inc/elementor/widgets/testimonial.php:196
+msgid "Square"
+msgstr "مربع"
+
+#: inc/elementor/widgets/testimonial.php:182
+msgid "Stacked"
+msgstr "تراکمی"
+
+#: inc/merlin-config.php:318
+msgid "Start"
+msgstr "شروع"
+
+#: inc/merlin-config.php:370
+msgid "Start Customizing"
+msgstr "شروع سفارشی‌سازی"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2322
+msgid "Starting remapping of featured images"
+msgstr "شروع نقشه‌برداری تصاویر برگزیده"
+
+#: inc/elementor/widgets/banner-carousel.php:496
+msgid "Static"
+msgstr "ثابت"
+
+#: inc/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr "وضعیت"
+
+#: inc/elementor/class-section-sticky.php:154
+msgid "Stay In Column"
+msgstr "در ستون بمانید"
+
+#: inc/elementor/class-section-sticky.php:48
+msgid "Sticky"
+msgstr "چسبیده"
+
+#: inc/class-customize.php:379
+msgid "Sticky Content"
+msgstr "محتوای چسبان"
+
+#: inc/elementor/class-section-sticky.php:84
+msgid "Sticky On"
+msgstr "چسبیده در"
+
+#: inc/elementor/widgets/call-to-action.php:280
+msgid "Stretch"
+msgstr "کشیده شده"
+
+#: inc/megamenu/includes/hook-functions.php:203
+msgid "Stretch Width"
+msgstr "عرض استرچ"
+
+#: inc/class-customize.php:544 inc/elementor/widgets/call-to-action.php:981 
+#: inc/elementor/widgets/countdown.php:44 
+#: inc/elementor/widgets/image-carousel.php:171 
+#: inc/elementor/widgets/posts-grid.php:144 
+#: inc/elementor/widgets/pricing.php:1073 
+#: inc/elementor/widgets/product-categories.php:188 
+#: inc/elementor/widgets/search.php:30
+msgid "Style"
+msgstr "استایل"
+
+#: inc/elementor/base_widgets.php:1262 inc/elementor/widgets/countdown.php:47 
+#: inc/elementor/widgets/posts-grid.php:147 
+#: inc/elementor/widgets/product-categories.php:192 
+#: inc/elementor/widgets/products.php:319 
+#: inc/elementor/widgets/vertical-menu.php:128
+msgid "Style 1"
+msgstr "شیوه ۱"
+
+#: inc/elementor/base_widgets.php:1263 inc/elementor/widgets/countdown.php:48 
+#: inc/elementor/widgets/product-categories.php:193 
+#: inc/elementor/widgets/products.php:279 
+#: inc/elementor/widgets/products.php:320 
+#: inc/elementor/widgets/vertical-menu.php:129
+msgid "Style 2"
+msgstr "شیوه ۲"
+
+#: inc/elementor/base_widgets.php:1264 
+#: inc/elementor/widgets/product-categories.php:194 
+#: inc/elementor/widgets/products.php:280
+msgid "Style 3"
+msgstr "شیوه ۳"
+
+#: inc/elementor/widgets/product-categories.php:195 
+#: inc/elementor/widgets/products.php:281
+msgid "Style 4"
+msgstr "استایل ۴"
+
+#: inc/elementor/widgets/breadcrumb.php:36
+msgid "Style Breadcrumb"
+msgstr "استایل دست‌یابی"
+
+#: inc/elementor/widgets/products.php:278
+msgid "Style Default"
+msgstr "استایل پیش‌فرض"
+
+#: inc/elementor/base_widgets.php:1259
+msgid "Style Dot"
+msgstr "شکل نقطه"
+
+#: inc/elementor/widgets/contactform.php:96
+msgid "Style special"
+msgstr "استایل ویژه"
+
+#: inc/elementor/widgets/breadcrumb.php:163
+msgid "Style Title"
+msgstr "استایل عنوان"
+
+#: inc/elementor/widgets/product-categories.php:104
+msgid "Sub"
+msgstr "زیر"
+
+#: inc/megamenu/includes/hook-functions.php:209
+msgid "Sub Mega Menu Max Width"
+msgstr "حداکثر عرض زیرمنوی مگا"
+
+#: inc/megamenu/includes/hook-functions.php:215
+msgid "Sub Mega Menu Position Left"
+msgstr "موقعیت چپ زیرمنوی مگا"
+
+#: inc/megamenu/includes/hook-functions.php:199
+msgid "Sub Megamenu Width"
+msgstr "عرض زیرمنوی مگا"
+
+#: inc/elementor/widgets/vertical-menu.php:278
+msgid "Sub Menu"
+msgstr "زیرمنو"
+
+#: inc/elementor/custom-widgets/image-box.php:166 
+#: inc/elementor/widgets/heading.php:122 inc/elementor/widgets/heading.php:335 
+#: inc/elementor/widgets/pricing.php:545
+msgid "Sub Title"
+msgstr "زیرعنوان"
+
+#: inc/elementor/widgets/call-to-action.php:83
+msgid "Sub title"
+msgstr "زیر عنوان"
+
+#: inc/elementor/widgets/call-to-action.php:869 
+#: inc/elementor/widgets/call-to-action.php:935
+msgid "Sub title Color"
+msgstr "رنگ زیرعنوان"
+
+#: inc/woocommerce/woocommerce-template-functions.php:287 
+#: woocommerce/product-searchform.php:26
+msgctxt "submit button"
+msgid "Search"
+msgstr "جستجو"
+
+#: inc/elementor/widgets/banner-carousel.php:100 
+#: inc/elementor/widgets/call-to-action.php:648
+msgid "Subtitle"
+msgstr "زیرعنوان"
+
+#: inc/elementor/custom-widgets/image-box.php:195
+msgid "SubTitle Position"
+msgstr "موقعیت زیرعنوان"
+
+#: inc/elementor/custom-widgets/button.php:17 inc/merlin/class-merlin.php:1786 
+#: inc/merlin/class-merlin.php:1991 inc/merlin/class-merlin.php:2004 
+#: inc/merlin/class-merlin.php:2017 inc/merlin/class-merlin.php:2030 
+#: inc/merlin/class-merlin.php:2043 inc/merlin/class-merlin.php:2056
+msgid "Success"
+msgstr "موفقیت"
+
+#: inc/elementor/widgets/video.php:50
+msgid "Support video from Youtube and Vimeo"
+msgstr "پشتیبانی از ویدئوهای آپارات، یوتیوب و ویمیو"
+
+#: inc/class-customize.php:571 inc/elementor/widgets/products.php:301
+msgid "Swap"
+msgstr "جابجا کردن"
+
+#: inc/elementor/widgets/products.php:201
+msgid "Tag Operator"
+msgstr "عملگر برچسب"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-functions.php:566 woocommerce/single-product/meta.php:33
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "برچسب:"
+msgstr[1] "برچسب‌ها:"
+
+#: inc/elementor/widgets/products.php:190
+msgid "Tags"
+msgstr "برچسب‌ها"
+
+#: inc/elementor/widgets/banner-carousel.php:166 
+#: inc/elementor/widgets/image-carousel.php:121
+msgid "Target"
+msgstr "هدف"
+
+#: inc/elementor/widgets/team-box.php:89
+msgid "Team"
+msgstr "تیم"
+
+#: inc/elementor/widgets/team-box.php:40
+msgid "Team Box"
+msgstr "جعبه تیم"
+
+#: inc/elementor/widgets/team-box.php:105
+msgid "Team Item"
+msgstr "مورد تیم"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1827
+msgid "Term %d remapped to %d"
+msgstr "اصطلاح %d به %d نگاشته شد"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2287
+msgid "Term %d was successfully updated with parent %d"
+msgstr "اصطلاح %d با پدر %d با موفقیت بروزرسانی شد"
+
+#: inc/elementor/widgets/testimonial.php:80
+msgid "Testimonials"
+msgstr "نظرات مشتریان"
+
+#: inc/elementor/widgets/call-to-action.php:47 
+#: inc/elementor/widgets/pricing.php:218
+msgid "Text"
+msgstr "متن"
+
+#: inc/elementor/widgets/product-categories.php:758
+msgid "Text Align"
+msgstr "تراز متن"
+
+#: inc/elementor/widgets/text-carousel.php:52
+msgid "Text Carousel"
+msgstr "اسلایدر متن"
+
+#: inc/elementor/widgets/breadcrumb.php:53 
+#: inc/elementor/widgets/call-to-action.php:1052 
+#: inc/elementor/widgets/call-to-action.php:1107 
+#: inc/elementor/widgets/heading.php:253 inc/elementor/widgets/heading.php:343 
+#: inc/elementor/widgets/mailchimp.php:412 
+#: inc/elementor/widgets/pricing.php:1255 
+#: inc/elementor/widgets/pricing.php:1372 
+#: inc/elementor/widgets/pricing.php:1548 inc/elementor/widgets/search.php:89 
+#: inc/elementor/widgets/team-box.php:379
+msgid "Text Color"
+msgstr "رنگ متن"
+
+#: inc/elementor/widgets/heading.php:267
+msgid "Text Color Hover"
+msgstr "رنگ متن هاور"
+
+#: inc/elementor/custom-widgets/text-editor.php:10
+msgid "Text Color Link"
+msgstr "رنگ متن پیوند"
+
+#: inc/elementor/widgets/search.php:114
+msgid "Text Color Placeholder"
+msgstr "رنگ متن نگهدارنده"
+
+#: inc/elementor/widgets/search.php:102
+msgid "Text Hover"
+msgstr "متن هاور"
+
+#: inc/elementor/widgets/text-carousel.php:105 
+#: inc/elementor/widgets/text-carousel.php:107 
+#: inc/elementor/widgets/text-carousel.php:108
+msgid "Text Item"
+msgstr "مورد متن"
+
+#: inc/elementor/widgets/heading.php:362
+msgid "Text shadow subtitle"
+msgstr "سایه متن زیرعنوان"
+
+#: inc/elementor/widgets/text-carousel.php:96
+msgid "Texts"
+msgstr "متن‌ها"
+
+#. translators: %s: version number
+#: inc/class-tgm-plugin-activation.php:2067
+msgid "TGMPA v%s"
+msgstr "TGMPA نسخه %s"
+
+#: inc/merlin/class-merlin.php:2131
+msgid "The blog page was set"
+msgstr "صفحه وبلاگ تنظیم شد."
+
+#: inc/merlin/class-merlin.php:1629
+msgid "The child theme functions.php content was generated"
+msgstr "محتوای functions.php زیرقالب تولید شد"
+
+#: inc/merlin/class-merlin.php:1018
+msgid "The child theme installation step has been displayed"
+msgstr "مرحله نصب زیرقالب نمایش داده شده است"
+
+#: inc/merlin/class-merlin.php:1694
+msgid ""
+"The child theme screenshot was copied to the child theme, with the following "
+"result"
+msgstr "اسکرین‌شات زیرقالب به زیرقالب کپی شد، با نتایج زیر"
+
+#: inc/merlin/class-merlin.php:1696
+msgid "The child theme screenshot was not generated, because of these results"
+msgstr "اسکرین‌شات زیرقالب تولید نشد، به دلیل نتایج زیر"
+
+#: inc/merlin/class-merlin.php:1660
+msgid "The child theme style.css content was generated"
+msgstr "محتوای style.css زیرقالب تولید شد"
+
+#: inc/merlin/class-merlin.php:1867
+msgid "The content import AJAX call failed with this passed data"
+msgstr "تماس AJAX واردکننده محتوا با این داده‌های منتقل شده شکست خورد"
+
+#: inc/merlin/class-merlin.php:1825
+msgid "The content import AJAX call will be executed with this import data"
+msgstr "تماس AJAX واردکننده محتوا با این داده‌های واردشده اجرا خواهد شد"
+
+#: inc/merlin/class-merlin.php:1235
+msgid "The content import step has been displayed"
+msgstr "مرحله وارد کردن محتوا نمایش داده شده است"
+
+#: inc/merlin/class-merlin.php:1809
+msgid ""
+"The content importer AJAX call failed to start, because of incorrect data"
+msgstr "تماس AJAX واردکننده محتوا شکست خورد زیرا داده‌ها نادرست بودند"
+
+#: inc/merlin/class-merlin.php:1892
+msgid ""
+"The content importer AJAX call for retrieving total content import items "
+"failed to start, because of incorrect data."
+msgstr ""
+"تماس AJAX واردکننده محتوا برای بازیابی کل موارد وارداتی محتوا به دلیل داده "
+"های نادرست شروع نشد."
+
+#: inc/merlin/includes/class-merlin-customizer-importer.php:30
+msgid "The customizer import has finished successfully"
+msgstr "وارد کردن تنظیمات سفارشی‌ساز با موفقیت به پایان رسید"
+
+#: inc/merlin/class-merlin.php:1392
+msgid "The existing child theme was activated"
+msgstr "زیرقالب موجود فعال شد"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:514
+msgid "The file does not exist, please try again."
+msgstr "فایل وجود ندارد، لطفاً دوباره تلاش کنید."
+
+#: inc/merlin/includes/class-merlin-downloader.php:49
+#, fuzzy
+#| msgid "The file was not able to save to disk while trying to download it"
+msgid "The file was not able to save to disk, while trying to download it"
+msgstr "هنگام تلاش برای بارگیری پرونده، نتوانست به دیسک ذخیره شود"
+
+#: inc/merlin/class-merlin.php:1315
+msgid "The final step has been displayed"
+msgstr "مرحله نهایی نمایش داده شده است"
+
+#: inc/class-tgm-plugin-activation.php:395 
+#: inc/class-tgm-plugin-activation.php:3037
+#, fuzzy
+msgid "The following plugin was activated successfully:"
+msgstr "افزونه زیر با موفقیت فعال شد:"
+
+#: inc/merlin/class-merlin.php:2146
+msgid "The Hello world post status was set to draft"
+msgstr "وضعیت پست Hello World به پیش نویس تنظیم شد."
+
+#: inc/merlin/class-merlin.php:2121
+msgid "The home page was set"
+msgstr "صفحه اصلی تنظیم شد."
+
+#: inc/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"فرآیند نصب و فعال‌سازی در حال آغاز است. این فرآیند ممکن است بر روی برخی از "
+"هاست‌ها زمان بیشتری طول بکشد، لطفاً صبور باشید."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3588
+msgid "The installation of %1$s failed."
+msgstr "نصب %1$s ناموفق بود."
+
+#: inc/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"فرآیند نصب در حال آغاز است. این فرآیند ممکن است بر روی برخی از هاست‌ها زمان "
+"بیشتری طول بکشد، لطفاً صبور باشید."
+
+#: inc/merlin/class-merlin.php:947
+msgid "The license activation step has been displayed"
+msgstr "مرحله فعال‌سازی لایسنس نمایش داده شده است"
+
+#: inc/merlin/class-merlin.php:1452
+msgid "The license activation was performed with the following results"
+msgstr "فعال‌سازی لایسنس با نتایج زیر انجام شد"
+
+#: inc/merlin/class-merlin.php:1409
+msgid "The newly generated child theme was activated"
+msgstr "زیرقالب تازه‌ای که تولید شده، فعال شد"
+
+#: inc/class-customize.php:479
+msgid "The number of products in each row of the list view)"
+msgstr "تعداد محصولات در هر ردیف نمایش لیست"
+
+#: inc/merlin/class-merlin.php:1147
+msgid "The plugin installation step has been displayed"
+msgstr "مرحله نصب پلاگین‌ها نمایش داده شده است"
+
+#: inc/merlin/includes/class-merlin-redux-importer.php:32
+msgid "The Redux Framework data was imported"
+msgstr "داده‌های افزونه Redux وارد شدند"
+
+#: inc/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"بسته افزونه از راه دور از چندین فایل تشکیل شده است، اما فایل‌ها در یک پوشه "
+"بسته‌بندی نشده‌اند."
+
+#: inc/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"بسته افزونه از راه دور دارای پوشه‌ای با slug مورد نظر نمی‌باشد و تغییر نام "
+"به درستی انجام نشد."
+
+#: inc/merlin-config.php:355
+msgid ""
+"The required WordPress plugins are all installed and up to date. Press "
+"\"Next\" to continue the setup wizard."
+msgstr ""
+"تمام پلاگین‌های ضروری وردپرس نصب شده و به‌روز هستند. برای ادامه ویزارد "
+"راه‌اندازی روی \"بعدی\" کلیک کنید."
+
+#: inc/merlin/class-merlin.php:2084
+msgid "The revolution slider import was executed"
+msgstr "واردکردن اسلایدر Revolution اجرا شد."
+
+#: inc/elementor/widgets/breadcrumb.php:45
+msgid ""
+"The style of this widget is often affected by your theme and plugins. If you "
+"experience any such issue, try to switch to a basic theme and deactivate "
+"related plugins."
+msgstr ""
+"این ابزارک معمولاً تحت تأثیر قالب و افزونه‌های شما قرار می‌گیرد. اگر با چنین "
+"مشکلی روبرو هستید، تلاش کنید به یک قالب ساده منتقل شوید و افزونه‌های مرتبط "
+"را غیرفعال کنید."
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2244
+msgid "The term(%d)\"s parent_slug (%s) is not found in the remapping-array."
+msgstr "عبارت(%d)\"s parent_slug (%s) در آرایه remapping یافت نمی شود."
+
+#: inc/merlin-config.php:334
+msgid "The theme is already registered, so you can go to the next step!"
+msgstr ""
+"پوسته در حال حاضر ثبت‌نام شده است، بنابراین می‌توانید به مرحله بعدی بروید!"
+
+#: inc/merlin/class-merlin.php:852
+msgid "The welcome step has been displayed"
+msgstr "مرحله خوش‌آمدگویی نمایش داده شده است"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:55
+msgid ""
+"The XMLReader class is missing! Please install the XMLReader PHP extension "
+"on your server"
+msgstr ""
+"کلاس XMLReader یافت نشد! لطفاً افزونه PHP XMLReader را در سرور خود نصب کنید"
+
+#: inc/merlin-config.php:309
+msgid "Theme Setup"
+msgstr "تنظیمات پوسته"
+
+#: inc/elementor/custom-widgets/image.php:10 
+#: inc/elementor/custom-widgets/tabs.php:9
+msgid "Theme Style"
+msgstr "سبک قالب"
+
+#. Author of the plugin/theme
+msgid "Themelexus"
+msgstr "Themelexus"
+
+#: inc/elementor/widgets/nav-menu.php:78 
+#: inc/elementor/widgets/vertical-menu.php:89
+msgid "There are no menus in your site."
+msgstr "هیچ منویی در سایت شما وجود ندارد."
+
+#: inc/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"یک یا چند افزونه ضروری یا پیشنهادی برای نصب، بروزرسانی یا فعال‌سازی وجود "
+"دارند."
+
+#: inc/elementor/widgets/products-recently.php:136
+msgid "There’s no item that you viewed recently."
+msgstr "موردی که اخیراً مشاهده کرده‌اید وجود ندارد."
+
+#. translators: EDD Item Name
+#: inc/merlin/class-merlin.php:1531
+msgid "This appears to be an invalid license key for %s."
+msgstr "این به نظر می‌آید کلید لایسنس نامعتبری برای %s است."
+
+#: inc/merlin/class-merlin.php:1521
+msgid ""
+"This appears to be an invalid license key. Please try again or contact "
+"support."
+msgstr ""
+"این به نظر می‌آید کلید لایسنس نامعتبر است. لطفاً مجدداً امتحان کنید یا با "
+"پشتیبانی تماس بگیرید."
+
+#: inc/elementor/widgets/pricing.php:355
+msgid "This is text element"
+msgstr "این عنصر متنی است"
+
+#: inc/elementor/custom-widgets/image-box.php:157
+msgid "This is the heading"
+msgstr "این عنوان است"
+
+#: inc/elementor/widgets/call-to-action.php:117
+msgid "This is the heading 1"
+msgstr "این عنوان 1 است"
+
+#: inc/elementor/widgets/call-to-action.php:132
+msgid "This is the heading 2"
+msgstr "این عنوان 2 است"
+
+#: inc/elementor/widgets/call-to-action.php:88
+msgid "This is the sub title"
+msgstr "این زیر عنوان است"
+
+#: inc/elementor/custom-widgets/image-box.php:171
+msgid "This is the subtitle"
+msgstr "این زیرعنوان است"
+
+#: inc/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "این افزونه باید به‌روزرسانی شود تا با قالب شما سازگار شود."
+
+#: inc/merlin/class-merlin.php:2170
+msgid ""
+"This predefined demo import does not have the name parameter: "
+"import_file_name"
+msgstr "این واردکردن نمونه از پیش تعیین‌شده نامپارامتر ندارد: import_file_name"
+
+#: inc/elementor/class-section-parallax.php:114
+msgid ""
+"This should be set between -1 to a max of 2 - Decimal points must be used "
+"for fine controls."
+msgstr ""
+"این باید بین -1 تا حداکثر 2 تنظیم شود - برای کنترل دقیق، از اعداد اعشاری "
+"استفاده کنید."
+
+#: inc/merlin-config.php:341
+msgid ""
+"This wizard will set up your theme, install plugins, and import content. It "
+"is optional & should take only a few minutes."
+msgstr ""
+"این ویزارد پوسته شما را راه‌اندازی می‌کند، پلاگین‌ها را نصب می‌کند و محتوا "
+"را وارد می‌کند. این انتخابی است و باید تنها چند دقیقه طول بکشد."
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:280 
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:173
+#:  
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:291
+#:  
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:364
+msgid ""
+"This WXR file (version %s) is newer than the importer (version %s) and may "
+"not be supported. Please consider updating."
+msgstr ""
+"این فایل WXR (نسخه %s) جدیدتر از ورودی‌گر (نسخه %s) است و ممکن است پشتیبانی "
+"نشود. لطفاً ارتقا دهید."
+
+#: inc/elementor/widgets/video.php:60
+msgid "Tile"
+msgstr "کاشی"
+
+#: inc/cf7/class-cf7.php:135
+msgid "time"
+msgstr "زمان"
+
+#: inc/elementor/custom-widgets/image-box.php:152 
+#: inc/elementor/custom-widgets/image-box.php:529 
+#: inc/elementor/widgets/banner-carousel.php:90 
+#: inc/elementor/widgets/countdown.php:58 
+#: inc/elementor/widgets/countdown.php:372 
+#: inc/elementor/widgets/heading.php:102 inc/elementor/widgets/heading.php:109 
+#: inc/elementor/widgets/heading.php:245 
+#: inc/elementor/widgets/image-carousel.php:87 
+#: inc/elementor/widgets/posts-grid.php:85 
+#: inc/elementor/widgets/pricing.php:50 inc/elementor/widgets/pricing.php:385 
+#: inc/elementor/widgets/pricing.php:514 
+#: inc/elementor/widgets/product-categories.php:843 
+#: inc/elementor/widgets/slide-scrolling.php:437 
+#: inc/elementor/widgets/testimonial.php:89 
+#: inc/elementor/widgets/testimonial.php:579 
+#: inc/elementor/widgets/video.php:58 inc/elementor/widgets/video.php:519 
+#: inc/merlin/includes/class-wc-widget-layered-nav.php:67 
+#: inc/merlin/includes/class-wc-widget-product-brands.php:48
+msgid "Title"
+msgstr "عنوان"
+
+#: inc/elementor/widgets/breadcrumb.php:171 
+#: inc/elementor/widgets/language-switcher.php:120 
+#: inc/elementor/widgets/language-switcher.php:150
+msgid "Title Color"
+msgstr "رنگ عنوان"
+
+#: inc/elementor/custom-widgets/image-box.php:252 
+#: inc/elementor/widgets/call-to-action.php:157 
+#: inc/elementor/widgets/pricing.php:74
+msgid "Title HTML Tag"
+msgstr "تگ HTML عنوان"
+
+#: inc/elementor/custom-widgets/icon-box.php:162 
+#: inc/elementor/custom-widgets/progress.php:55
+msgid "Title Margin"
+msgstr "حاشیه‌ی عنوان"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2485
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "برای فعال‌سازی <span class=\"count\">(%s)</span>"
+msgstr[1] "برای فعال‌سازی <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2477
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "برای نصب <span class=\"count\">(%s)</span>"
+msgstr[1] "برای نصب <span class=\"count\">(%s)</span>"
+
+#: woocommerce/order/form-tracking.php:33
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"the \"Track\" button. This was given to you on your receipt and in the "
+"confirmation email you should have received."
+msgstr ""
+"برای پیگیری سفارش خود لطفاً شماره سفارش خود را در کادر زیر وارد کنید و دکمه "
+"\"پیگیری\" را فشار دهید. این شماره به شما در رسید شما و در ایمیل تأییدیه‌ای "
+"که باید دریافت کرده باشید داده شده است."
+
+#: inc/elementor/base_widgets.php:911 inc/elementor/base_widgets.php:1032 
+#: inc/elementor/class-section-sticky.php:52 
+#: inc/elementor/custom-widgets/icon-box.php:74 
+#: inc/elementor/custom-widgets/image-box.php:200 
+#: inc/elementor/custom-widgets/image-box.php:236 
+#: inc/elementor/custom-widgets/image-box.php:508 
+#: inc/elementor/widgets/banner-carousel.php:414 
+#: inc/elementor/widgets/banner-carousel.php:512 
+#: inc/elementor/widgets/call-to-action.php:357 
+#: inc/elementor/widgets/pricing.php:689 inc/elementor/widgets/pricing.php:749 
+#: inc/elementor/widgets/pricing.php:826 
+#: inc/elementor/widgets/product-categories.php:631 
+#: inc/elementor/widgets/product-categories.php:789 
+#: inc/template-functions.php:1175
+msgid "Top"
+msgstr "بالا"
+
+#: inc/class-customize.php:276
+msgid "Top Page"
+msgstr "بالای صفحه"
+
+#: inc/elementor/widgets/products.php:225
+msgid "Top Rated"
+msgstr "بالاترین امتیاز‌ها"
+
+#: inc/class-customize.php:568 inc/elementor/widgets/products.php:298
+msgid "Top to Bottom"
+msgstr "بالا به پایین"
+
+#: inc/elementor/widgets/product-categories.php:927
+msgid "Total"
+msgstr "مجموع"
+
+#: woocommerce/order/form-tracking.php:47
+msgid "Track"
+msgstr "پیگیری"
+
+#: inc/elementor/custom-widgets/image-box.php:407 
+#: inc/elementor/widgets/call-to-action.php:1363
+msgid "Transition Duration"
+msgstr "مدت زمان انتقال"
+
+#: inc/elementor/widgets/team-box.php:184
+msgid "Twitter"
+msgstr "توییتر"
+
+#: inc/class-tgm-plugin-activation.php:2634 
+#: inc/elementor/class-section-parallax.php:79 
+#: inc/elementor/custom-widgets/button.php:9
+msgid "Type"
+msgstr "نوع"
+
+#: inc/elementor/widgets/breadcrumb.php:97
+msgid "Typography Link"
+msgstr "تایپوگرافی لینک"
+
+#: inc/elementor/widgets/nav-menu.php:125
+msgid "Typography Menu"
+msgstr "تایپوگرافی منو"
+
+#: inc/elementor/widgets/nav-menu.php:134
+msgid "Typography Sub Menu"
+msgstr "تایپوگرافی زیر منو"
+
+#: inc/elementor/widgets/breadcrumb.php:106
+msgid "Typography Text"
+msgstr "تایپوگرافی متن"
+
+#: inc/woocommerce/woocommerce-template-functions.php:697
+msgid "Unit:"
+msgstr "واحد:"
+
+#: inc/elementor/widgets/image-carousel.php:231 
+#: inc/elementor/widgets/image-gallery.php:248
+msgid "Up Down"
+msgstr "بالا پایین"
+
+#: inc/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr "بروزرسانی"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2693
+msgid "Update %2$s"
+msgstr "بروزرسانی %2$s"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2481
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "بروزرسانی موجود <span class=\"count\">(%s)</span>"
+msgstr[1] "بروزرسانی موجود <span class=\"count\">(%s)</span>"
+
+#: inc/merlin/includes/class-wc-widget-product-brands.php:269
+msgid "Update Brand"
+msgstr "به‌روزرسانی برند"
+
+#: inc/merlin/includes/class-custom-shapes.php:122
+msgid "Update Item"
+msgstr "بروزرسانی مورد"
+
+#: inc/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr "بروزرسانی توصیه شده"
+
+#: inc/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "به‌روزرسانی مورد نیاز است"
+
+#: inc/merlin/class-merlin.php:1741
+msgid "Updating"
+msgstr "درحال بروزرسانی"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3583
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "در حال بروزرسانی افزونه %1$s (%2$d/%3$d)"
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr "در حال بروزرسانی افزونه: %s"
+
+#: inc/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr "پیام به‌روزرسانی از نویسنده افزونه:"
+
+#: inc/merlin/includes/class-custom-shapes.php:133
+msgid "Uploaded to this item"
+msgstr "به این مورد آپلود شده است"
+
+#: inc/woocommerce/class-woocommerce-settings.php:106
+msgid "Url Video"
+msgstr "آدرس ویدیو"
+
+#: inc/elementor/class-custom-css.php:99
+msgid ""
+"Use \"selector\" to target wrapper element. Examples:<br>selector {color: "
+"red;} // For main element<br>selector .child-element {margin: 10px;} // For "
+"child element<br>.my-class {text-align: center;} // Or use any custom "
+"selector"
+msgstr ""
+"برای هدف‌گیری به عنصر پوشش بده \"selector\" را استفاده کنید. نمونه‌ها:<br>"
+"selector {color: red;} // برای عنصر اصلی<br>selector .child-element {margin: "
+"10px;} // برای عنصر فرزند<br>.my-class {text-align: center;} // یا هر سلکتور "
+"سفارشی دیگری را استفاده کنید"
+
+#: inc/merlin/includes/class-custom-shapes.php:131
+msgid "Use as featured image"
+msgstr "استفاده به عنوان تصویر برجسته"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1618
+msgid "User %d remapped to %d"
+msgstr "کاربر %d دوباره به %d نگاشت شد"
+
+#: inc/merlin/includes/breadcrumb.php:182
+msgid "User Roles"
+msgstr "نقش‌های کاربری"
+
+#: inc/template-functions.php:802 woocommerce/myaccount/form-login.php:80
+msgid "Username"
+msgstr "نام کاربری"
+
+#: inc/template-functions.php:801
+msgid "Username or email"
+msgstr "نام کاربری یا ایمیل"
+
+#: woocommerce/myaccount/form-login.php:38
+msgid "Username or email address"
+msgstr "نام کاربری یا آدرس ایمیل"
+
+#: inc/merlin/includes/breadcrumb.php:190
+msgid "Users"
+msgstr "کاربران"
+
+#: inc/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr "نسخه"
+
+#: inc/elementor/widgets/vertical-menu.php:443
+#, fuzzy
+#| msgid "Vertical Navigation"
+msgid "Vertiacl Navigation"
+msgstr "ناوبری عمودی"
+
+#: inc/elementor/custom-widgets/image-box.php:504
+msgid "Vertical Alignment"
+msgstr "ترازعمودی"
+
+#: inc/class-main.php:205
+msgid "Vertical Menu"
+msgstr "منو عمودی"
+
+#: inc/elementor/widgets/banner-carousel.php:410 
+#: inc/elementor/widgets/banner-carousel.php:508 
+#: inc/elementor/widgets/call-to-action.php:353 
+#: inc/elementor/widgets/pricing.php:685 inc/elementor/widgets/pricing.php:745 
+#: inc/elementor/widgets/pricing.php:822 
+#: inc/elementor/widgets/product-categories.php:627 
+#: inc/elementor/widgets/product-categories.php:785
+msgid "Vertical Position"
+msgstr "موقعیت عمودی"
+
+#: inc/class-customize.php:396
+msgid "Vertical Tabs"
+msgstr "تب‌های عمودی"
+
+#: inc/elementor/widgets/testimonial.php:111 inc/template-functions.php:1130
+msgid "Very poor"
+msgstr "خیلی ضعیف"
+
+#: inc/woocommerce/woocommerce-template-functions.php:1365
+msgid "Video"
+msgstr "ویدئو"
+
+#: inc/elementor/custom-widgets/image-box.php:272 
+#: inc/elementor/widgets/banner-carousel.php:278 
+#: inc/elementor/widgets/heading.php:233 
+#: inc/elementor/widgets/image-carousel.php:161 
+#: inc/elementor/widgets/image-gallery.php:286 
+#: inc/elementor/widgets/team-box.php:96 
+#: inc/elementor/widgets/testimonial.php:231
+msgid "View"
+msgstr "نمایش"
+
+#: inc/woocommerce/woocommerce-template-functions.php:1069
+msgid "View As"
+msgstr "مشاهده به عنوان"
+
+#: inc/merlin/includes/breadcrumb.php:61
+msgid "View Header Footer & Blocks Template"
+msgstr "مشاهده قالب نوشته‌های سربرگ، پاورقی و بلوک‌ها"
+
+#: inc/merlin/includes/class-custom-shapes.php:123
+msgid "View Item"
+msgstr "مشاهده مورد"
+
+#: inc/merlin/includes/class-custom-shapes.php:124
+msgid "View Items"
+msgstr "مشاهده موارد"
+
+#: inc/woocommerce/woocommerce-template-functions.php:71
+msgid "View your shopping cart"
+msgstr "مشاهده سبد خرید شما"
+
+#: inc/merlin-config.php:367
+msgid "View your website"
+msgstr "مشاهده وب‌سایت شما"
+
+#: inc/elementor/custom-widgets/button.php:18
+msgid "Warning"
+msgstr "اخطار"
+
+#: template-parts/author.php:36
+msgid "Website <i class=\"priotech-icon-arrow-up\"></i>"
+msgstr "وب‌سایت <i class=\"priotech-icon-arrow-up\"></i>"
+
+#: inc/elementor/widgets/countdown.php:572
+msgid "Weeks"
+msgstr "هفته‌ها"
+
+#: inc/elementor/widgets/pricing.php:1114
+msgid "Weight"
+msgstr "ضخامت"
+
+#: inc/merlin/class-merlin.php:712
+msgid "Welcome"
+msgstr "خوش‌آمدید"
+
+#. translators: Theme Name
+#: inc/merlin-config.php:339
+msgid "Welcome to %s"
+msgstr "به %s خوش آمدید"
+
+#: inc/class-customize.php:545
+msgid ""
+"When you choose to display product items in Grid format, you will have "
+"additional options for hover effect styles below"
+msgstr ""
+"وقتی شما انتخاب می‌کنید که آیتم‌های محصولات را به صورت گرید نمایش دهید، "
+"گزینه‌های اضافی برای سبک‌های انتقال موس بر روی تصاویر در زیر وجود خواهد داشت"
+
+#: inc/elementor/widgets/call-to-action.php:256
+msgid "Whole Box"
+msgstr "تمام باکس"
+
+#: inc/merlin/includes/class-merlin-widget-importer.php:198
+msgid "Widget already exists"
+msgstr "ابزارک هم‌اکنون وجود دارد"
+
+#: inc/merlin/class-merlin.php:2000
+msgid "Widgets"
+msgstr "ابزارک‌ها"
+
+#: inc/elementor/base_widgets.php:715 
+#: inc/elementor/custom-widgets/image-box.php:315 
+#: inc/elementor/widgets/account.php:112 inc/elementor/widgets/brand.php:374 
+#: inc/elementor/widgets/call-to-action.php:411 
+#: inc/elementor/widgets/info-canvas.php:91 
+#: inc/elementor/widgets/pricing.php:1046 
+#: inc/elementor/widgets/pricing.php:1139 
+#: inc/elementor/widgets/product-categories.php:123 
+#: inc/elementor/widgets/product-categories.php:515 
+#: inc/elementor/widgets/slide-scrolling.php:368 
+#: inc/elementor/widgets/testimonial.php:252 
+#: inc/elementor/widgets/testimonial.php:496 
+#: inc/elementor/widgets/vertical-menu.php:380 
+#: inc/elementor/widgets/video.php:297
+msgid "Width"
+msgstr "عرض"
+
+#: inc/elementor/widgets/search.php:188
+msgid "Width Button"
+msgstr "عرض دکمه"
+
+#: inc/elementor/widgets/product-categories.php:394
+msgid "Width Effects"
+msgstr "تأثیرات عرض"
+
+#: inc/class-customize.php:359
+msgid "With Background"
+msgstr "با پس‌زمینه"
+
+#: inc/class-customize.php:377
+msgid "Without Thumbnail"
+msgstr "بدون تصویر بند انگشتی"
+
+#: inc/class-customize.php:240
+msgid "Woocommerce"
+msgstr "فروشگاه آنلاین ووکامرس"
+
+#: inc/woocommerce/class-woocommerce.php:530
+msgid "WooCommerce Shop"
+msgstr "فروشگاه WooCommerce"
+
+#: inc/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr "مخزن وردپرس"
+
+#: inc/elementor/widgets/brand.php:229 inc/elementor/widgets/pricing.php:423 
+#: inc/elementor/widgets/team-box.php:217 
+#: inc/elementor/widgets/testimonial.php:243 
+#: inc/elementor/widgets/text-carousel.php:175 
+#: inc/elementor/widgets/video.php:152
+msgid "Wrapper"
+msgstr "پوشش"
+
+#: inc/modules/class-login.php:33
+msgid "Wrong username or password. Please try again!!!"
+msgstr "نام کاربری یا رمز عبور نادرست است. لطفاً دوباره امتحان کنید!!!"
+
+#: inc/elementor/widgets/heading.php:173
+msgid "XL"
+msgstr "XL"
+
+#: inc/elementor/widgets/heading.php:174
+msgid "XXL"
+msgstr "XXL"
+
+#: inc/elementor/base_widgets.php:543 inc/elementor/base_widgets.php:557 
+#: inc/elementor/base_widgets.php:575 inc/elementor/base_widgets.php:607 
+#: inc/megamenu/includes/hook-functions.php:190 
+#: inc/megamenu/includes/hook-functions.php:201 
+#: inc/megamenu/includes/hook-functions.php:218
+msgid "Yes"
+msgstr "بله"
+
+#: inc/merlin/class-merlin.php:1430
+msgid ""
+"Yikes! The theme activation failed. Please try again or contact support."
+msgstr ""
+"اوه! فعال‌سازی قالب با خطا مواجه شد. لطفاً دوباره امتحان کنید یا با پشتیبانی "
+"تماس بگیرید."
+
+#: woocommerce/single-product/up-sells.php:37
+msgid "You may also like&hellip;"
+msgstr "ممکن است علاقه‌مند به موارد زیر باشید..."
+
+#: woocommerce/cart/cross-sells.php:34
+msgid "You may be interested in&hellip;"
+msgstr "شما ممکن است علاقه‌مند باشید به..."
+
+#: inc/merlin-config.php:342
+msgid ""
+"You may have already run this theme setup wizard. If you would like to "
+"proceed anyway, click on the \"Start\" button below."
+msgstr ""
+"شما احتمالاً این ویزارد راه‌اندازی پوسته را اجرا کرده‌اید. اگر می‌خواهید به "
+"هر حال ادامه دهید، بر روی دکمه \"شروع\" زیر کلیک کنید."
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "برای تسویه حساب باید وارد شوید."
+
+#: inc/merlin-config.php:345
+msgid "You're good to go!"
+msgstr "شما آماده‌اید!"
+
+#: inc/merlin-config.php:353
+msgid "You're up to speed!"
+msgstr "شما در جریان هستید!"
+
+#: inc/woocommerce/woocommerce-template-functions.php:672
+msgid "You're viewing:"
+msgstr "شما در حال مشاهده هستید:"
+
+#: inc/merlin-config.php:347
+msgid ""
+"Your child theme has already been installed and is now activated, if it "
+"wasn't already."
+msgstr ""
+"پوسته فرزند شما در حال حاضر نصب شده و فعال شده است، اگر پیش‌تر نبوده باشد."
+
+#: inc/template-functions.php:55
+msgid "Your comment is awaiting moderation."
+msgstr "نظر شما در انتظار تأیید است."
+
+#: inc/merlin/class-merlin.php:1526
+msgid "Your license is not active for this URL."
+msgstr "کلید لایسنس شما برای این URL فعال نیست."
+
+#. translators: Expiration date
+#: inc/merlin/class-merlin.php:1511
+msgid "Your license key expired on %s."
+msgstr "کلید لایسنس شما در تاریخ %s منقضی شده است."
+
+#: inc/merlin/class-merlin.php:1517
+msgid "Your license key has been disabled."
+msgstr "کلید لایسنس شما غیرفعال شده است."
+
+#: inc/merlin/class-merlin.php:1535
+msgid "Your license key has reached its activation limit."
+msgstr "کلید لایسنس شما به حداکثر تعداد فعال‌سازی‌ها رسیده است."
+
+#: inc/template-functions.php:1060
+msgid "Your Name *"
+msgstr "نام شما *"
+
+#: woocommerce/checkout/form-checkout.php:56
+msgid "Your order"
+msgstr "سفارش شما"
+
+#: inc/template-functions.php:1124
+msgid "Your rating"
+msgstr "امتیاز شما"
+
+#: inc/template-functions.php:1133
+msgid "Your review"
+msgstr "نقد و بررسی شما"
+
+#: inc/template-functions.php:1133
+msgid "Your review *"
+msgstr "نقد و بررسی شما *"
+
+#. translators: Theme Author
+#: inc/merlin-config.php:365
+msgid "Your theme has been all set up. Enjoy your new theme by %s."
+msgstr "قالب شما کامل راه‌اندازی شد. از قالب جدید خود لذت ببرید با %s."
+
+#: inc/merlin-config.php:335
+msgid "Your theme is activated! Remote updates and theme support are enabled."
+msgstr ""
+"پوسته شما فعال شد! به‌روزرسانی از راه دور و پشتیبانی از پوسته فعال شده‌اند."
+
+#: inc/template-functions.php:1072
+msgid "Your Website"
+msgstr "وب‌سایت شما"
+
+#: inc/elementor/widgets/team-box.php:204
+msgid "Youtube"
+msgstr "یوتیوب"
+
+#: inc/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1969
+msgid "Zero size file downloaded"
+msgstr "فایل با اندازه صفر دانلود شد"
+
+#: inc/class-customize.php:573 inc/elementor/widgets/products.php:303
+msgid "Zoom In"
+msgstr "بزرگ‌نمایی"
+
+#: inc/class-customize.php:574 inc/elementor/widgets/products.php:304
+msgid "Zoom Out"
+msgstr "کوچک‌نمایی"
