@@ -21,6 +21,11 @@ require get_theme_file_path( 'inc/functions.php' );
 require get_theme_file_path( 'inc/template-hooks.php' );
 require get_theme_file_path( 'inc/template-functions.php' );
 
+// Load Codestar Framework and theme options
+require_once get_theme_file_path( 'inc/codestar-framework-master/codestar-framework.php' );
+require_once get_theme_file_path( 'inc/priotech-options.php' );
+require_once get_theme_file_path( 'inc/sms-login.php' );
+
 require_once get_theme_file_path( 'inc/merlin/vendor/autoload.php' );
 require_once get_theme_file_path( 'inc/merlin/class-merlin.php' );
 require_once get_theme_file_path( 'inc/merlin-config.php' );
@@ -175,3 +180,36 @@ function priotech_move_translation_files() {
 	}
 }
 add_action( 'after_switch_theme', 'priotech_move_translation_files' );
+
+// Enqueue scripts and styles for SMS login popup
+function priotech_enqueue_sms_login_assets() {
+    $priotech_options = get_option('priotech_options');
+    if (isset($priotech_options['login_system_select']) && $priotech_options['login_system_select'] === 'sms' && !is_user_logged_in()) {
+        wp_enqueue_style('priotech-sms-login', get_template_directory_uri() . '/assets/css/sms-login.css', array(), null);
+        wp_enqueue_script('priotech-sms-login', get_template_directory_uri() . '/assets/js/sms-login.js', array('jquery'), null, true);
+
+        $translation_array = array(
+            'ajax_url' => admin_url('admin-ajax.php'),
+            'i18n' => array(
+                'valid_mobile' => __('Please enter a valid Iranian mobile number.', 'priotech'),
+                'sending' => __('Sending...', 'priotech'),
+                'error' => __('An error occurred. Please try again.', 'priotech'),
+                'send_code' => __('Send Verification Code', 'priotech'),
+                'enter_otp' => __('Please enter the OTP code.', 'priotech'),
+                'verifying' => __('Verifying...', 'priotech'),
+                'login' => __('Login', 'priotech'),
+            ),
+        );
+        wp_localize_script('priotech-sms-login', 'ajax_object', $translation_array);
+    }
+}
+add_action('wp_enqueue_scripts', 'priotech_enqueue_sms_login_assets');
+
+// Include the login popup in the footer
+function priotech_include_login_popup() {
+    $priotech_options = get_option('priotech_options');
+    if (isset($priotech_options['login_system_select']) && $priotech_options['login_system_select'] === 'sms' && !is_user_logged_in()) {
+        get_template_part('template-parts/popup-login');
+    }
+}
+add_action('wp_footer', 'priotech_include_login_popup');

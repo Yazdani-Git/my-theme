@@ -263,14 +263,25 @@ class Priotech_Elementor_Account extends Elementor\Widget_Base {
         <div <?php $this->print_render_attribute_string('wrapper'); ?>>
             <div class="header-group-action">
                 <?php
+                <?php
+                $priotech_options = get_option('priotech_options');
+                $sms_login_enabled = isset($priotech_options['login_system_select']) && $priotech_options['login_system_select'] === 'sms';
+
                 if (priotech_is_woocommerce_activated()) {
                     $account_link = get_permalink(get_option('woocommerce_myaccount_page_id'));
                 } else {
                     $account_link = wp_login_url();
                 }
+
+                // If SMS login is enabled and user is logged out, override the link and add a class.
+                $link_class = '';
+                if ($sms_login_enabled && !is_user_logged_in()) {
+                    $account_link = '#';
+                    $link_class = 'sms-login-trigger';
+                }
                 ?>
                 <div class="site-header-account">
-                    <a href="<?php echo esc_html($account_link); ?>">
+                    <a href="<?php echo esc_url($account_link); ?>" class="<?php echo esc_attr($link_class); ?>">
                         <?php
                         if (!is_user_logged_in()) {
                             if (!empty($settings['account_icon'])) { ?>
